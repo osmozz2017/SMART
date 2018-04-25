@@ -26,9 +26,9 @@ Rating — avg. rating per sample.
 | HP        | GB0250EAFYK        | 250 GB | 1       | 2025  | 0     | 5.55   |
 | HP        | FB080C4080         | 80 GB  | 1       | 1630  | 0     | 4.47   |
 | HP        | VB0250EAVER        | 250 GB | 2       | 252   | 0     | 0.69   |
-| HP        | GB0250EAFJF        | 250 GB | 1       | 533   | 6     | 0.21   |
-| HP        | MB1000EAMZE        | 1 TB   | 1       | 1895  | 26    | 0.19   |
-| HP        | GB0250C8045        | 250 GB | 1       | 1362  | 198   | 0.02   |
+| HP        | GB0250EAFJF        | 250 GB | 1       | 535   | 6     | 0.21   |
+| HP        | MB1000EAMZE        | 1 TB   | 1       | 1919  | 26    | 0.19   |
+| HP        | GB0250C8045        | 250 GB | 1       | 1405  | 198   | 0.02   |
 
 HDD by Family
 -------------
@@ -43,5 +43,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| HP        | Proliant HardDrive     | 5      | 5       | 1489  | 46    | 2.09   |
+| HP        | Proliant HardDrive     | 5      | 5       | 1503  | 46    | 2.09   |
 | HP        | 250GB SATA disk VB0... | 1      | 2       | 252   | 0     | 0.69   |

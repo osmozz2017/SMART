@@ -18,5 +18,5 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | QUMO      | SSD                | 60 GB  | 1       | 143   | 0     | 0.39   |
-| QUMO      | SSD                | 120 GB | 1       | 578   | 1017  | 0.00   |
-| QUMO      | SSD                | 480 GB | 1       | 442   | 1019  | 0.00   |
+| QUMO      | SSD                | 480 GB | 1       | 625   | 1015  | 0.00   |
+| QUMO      | SSD                | 120 GB | 1       | 579   | 1017  | 0.00   |

@@ -17,8 +17,8 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Goodram   | C40                | 120 GB | 3       | 259   | 0     | 0.71   |
-| Goodram   | C50                | 60 GB  | 2       | 213   | 0     | 0.59   |
+| Goodram   | C40                | 120 GB | 3       | 266   | 0     | 0.73   |
+| Goodram   | C50                | 60 GB  | 2       | 214   | 0     | 0.59   |
 | Goodram   | SSD                | 240 GB | 2       | 53    | 0     | 0.15   |
-| Goodram   | CX100              | 120 GB | 4       | 62    | 2     | 0.14   |
+| Goodram   | CX100              | 120 GB | 4       | 63    | 2     | 0.14   |
 | Goodram   | SSD                | 120 GB | 5       | 23    | 0     | 0.06   |

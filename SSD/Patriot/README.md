@@ -17,13 +17,13 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| Patriot   | Blast              | 120 GB | 3       | 94    | 0     | 0.26   |
 | Patriot   | Blast              | 240 GB | 3       | 87    | 0     | 0.24   |
 | Patriot   | Blaze              | 240 GB | 1       | 85    | 0     | 0.23   |
-| Patriot   | Blast              | 120 GB | 3       | 81    | 0     | 0.22   |
 | Patriot   | Flare              | 60 GB  | 1       | 75    | 0     | 0.21   |
 | Patriot   | Spark              | 128 GB | 3       | 70    | 0     | 0.19   |
 | Patriot   | Blaze              | 60 GB  | 2       | 36    | 0     | 0.10   |
-| Patriot   | Spark              | 256 GB | 1       | 23    | 0     | 0.06   |
+| Patriot   | Spark              | 256 GB | 1       | 24    | 0     | 0.07   |
 | Patriot   | Blaze              | 120 GB | 3       | 9     | 0     | 0.03   |
 | Patriot   | Ignite             | 240 GB | 1       | 6     | 0     | 0.02   |
 | Patriot   | Torch LE           | 120 GB | 1       | 0     | 0     | 0.00   |

@@ -17,5 +17,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Faspeed   | H5-120G PLUS       | 120 GB | 1       | 3     | 0     | 0.01   |
+| Faspeed   | H5-120G PLUS       | 120 GB | 1       | 9     | 0     | 0.03   |
 | Faspeed   | H5-30G             | 30 GB  | 1       | 0     | 0     | 0.00   |

@@ -17,4 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| IBM       | DTLA-305020        | 20 GB  | 2       | 1473  | 37    | 0.38   |
+| IBM       | DTLA-305020        | 20 GB  | 2       | 1484  | 37    | 0.38   |
