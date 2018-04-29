@@ -27,11 +27,11 @@ Rating — avg. rating per sample.
 | Transcend | TS128GSSD720       | 128 GB | 2       | 187   | 0     | 0.51   |
 | Transcend | TS64GMSA370        | 64 GB  | 1       | 127   | 0     | 0.35   |
 | Transcend | TS128GSSD340       | 128 GB | 3       | 126   | 0     | 0.35   |
-| Transcend | TS128GMSA740       | 128 GB | 1       | 106   | 0     | 0.29   |
+| Transcend | TS128GMSA740       | 128 GB | 1       | 122   | 0     | 0.34   |
 | Transcend | TS120GSSD25D-M     | 128 GB | 1       | 309   | 2     | 0.28   |
 | Transcend | TS256GMTS800       | 256 GB | 1       | 93    | 0     | 0.26   |
 | Transcend | TS256GSSD320       | 256 GB | 2       | 84    | 0     | 0.23   |
-| Transcend | TS256GSSD340       | 256 GB | 2       | 65    | 0     | 0.18   |
+| Transcend | TS256GSSD340       | 256 GB | 2       | 76    | 0     | 0.21   |
 | Transcend | TS128GSSD370       | 128 GB | 5       | 58    | 0     | 0.16   |
 | Transcend | TS64GSSD340        | 64 GB  | 1       | 54    | 0     | 0.15   |
 | Transcend | TS120GSSD220S      | 120 GB | 3       | 29    | 0     | 0.08   |
@@ -65,6 +65,6 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Transcend | SandForce Driven SSDs  | 4      | 6       | 177   | 0     | 0.49   |
 | Transcend | Indilinx Barefoot b... | 1      | 1       | 309   | 2     | 0.28   |
-| Transcend | JMicron based SSDs     | 4      | 7       | 82    | 0     | 0.23   |
+| Transcend | JMicron based SSDs     | 4      | 7       | 86    | 0     | 0.24   |
+| Transcend | Unknown                | 3      | 5       | 42    | 202   | 0.07   |
 | Transcend | SiliconMotion based... | 14     | 36      | 26    | 0     | 0.07   |
-| Transcend | Unknown                | 3      | 5       | 38    | 202   | 0.07   |

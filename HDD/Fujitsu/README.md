@@ -31,7 +31,7 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHZ2080BH G2       | 80 GB  | 1       | 684   | 0     | 1.88   |
 | Fujitsu   | MHW2080BH PL       | 80 GB  | 2       | 644   | 0     | 1.77   |
 | Fujitsu   | MHY2250BH          | 250 GB | 5       | 862   | 65    | 1.53   |
-| Fujitsu   | MHW2120BH          | 120 GB | 12      | 632   | 1     | 1.50   |
+| Fujitsu   | MHW2120BH          | 120 GB | 12      | 634   | 1     | 1.51   |
 | Fujitsu   | MHV2100BH          | 100 GB | 3       | 700   | 2     | 1.48   |
 | Fujitsu   | MPE3136AH          | 13 GB  | 1       | 494   | 0     | 1.35   |
 | Fujitsu   | MHT2040AH          | 40 GB  | 1       | 484   | 0     | 1.33   |
@@ -50,13 +50,13 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHY2200BH          | 200 GB | 11      | 615   | 53    | 0.86   |
 | Fujitsu   | MHX2300BT          | 300 GB | 3       | 759   | 47    | 0.81   |
 | Fujitsu   | MHW2100BH          | 100 GB | 1       | 279   | 0     | 0.76   |
-| Fujitsu   | MJA2160BH G2       | 160 GB | 3       | 420   | 74    | 0.75   |
+| Fujitsu   | MJA2160BH G2       | 160 GB | 3       | 423   | 74    | 0.76   |
 | Fujitsu   | MHY2120BH          | 120 GB | 11      | 457   | 423   | 0.72   |
 | Fujitsu   | MHX2250BT          | 250 GB | 2       | 409   | 5     | 0.70   |
 | Fujitsu   | MJA2500BH FFS G1   | 500 GB | 1       | 246   | 0     | 0.67   |
 | Fujitsu   | MHW2080AT          | 80 GB  | 1       | 241   | 0     | 0.66   |
 | Fujitsu   | MHW2120BJ FFS G2   | 120 GB | 1       | 221   | 0     | 0.61   |
-| Fujitsu   | MHZ2160BH G1       | 160 GB | 6       | 280   | 1     | 0.60   |
+| Fujitsu   | MHZ2160BH G1       | 160 GB | 6       | 281   | 1     | 0.60   |
 | Fujitsu   | MHZ2250BH G2       | 250 GB | 9       | 504   | 577   | 0.41   |
 | Fujitsu   | MHW2020BH          | 20 GB  | 1       | 148   | 0     | 0.41   |
 | Fujitsu   | MHV2060BHPL        | 60 GB  | 1       | 144   | 0     | 0.40   |
@@ -98,7 +98,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Fujitsu   | MHW BH                 | 9      | 27      | 610   | 3     | 1.28   |
+| Fujitsu   | MHW BH                 | 9      | 27      | 611   | 3     | 1.29   |
 | Fujitsu   | MHY BH                 | 4      | 32      | 533   | 212   | 0.82   |
 | Fujitsu   | MHW BJ                 | 2      | 2       | 289   | 0     | 0.79   |
 | Fujitsu   | MHZ BH                 | 9      | 47      | 495   | 324   | 0.78   |
@@ -107,5 +107,5 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHW AT                 | 1      | 1       | 241   | 0     | 0.66   |
 | Fujitsu   | MPA..MPG               | 3      | 3       | 247   | 4     | 0.56   |
 | Fujitsu   | MHT                    | 3      | 3       | 398   | 6     | 0.56   |
-| Fujitsu   | MJA BH                 | 6      | 22      | 365   | 206   | 0.33   |
+| Fujitsu   | MJA BH                 | 6      | 22      | 366   | 206   | 0.33   |
 | Fujitsu   | MHZ BJ                 | 1      | 1       | 4     | 0     | 0.01   |
