@@ -30,8 +30,8 @@ Rating — avg. rating per sample.
 | China     | RTMMB256VBV4KFY    | 256 GB | 1       | 17    | 0     | 0.05   |
 | China     | 128GB SSD          | 128 GB | 2       | 13    | 0     | 0.04   |
 | China     | SSD                | 120 GB | 2       | 11    | 0     | 0.03   |
-| China     | SSD 120G           | 120 GB | 1       | 1     | 0     | 0.01   |
 | China     | SSD60G             | 60 GB  | 2       | 1     | 0     | 0.01   |
+| China     | SSD 120G           | 120 GB | 1       | 1     | 0     | 0.01   |
 | China     | SSD 256G           | 256 GB | 1       | 1     | 0     | 0.00   |
 | China     | SATA SSD           | 240 GB | 2       | 0     | 0     | 0.00   |
 | China     | T60                | 60 GB  | 2       | 0     | 0     | 0.00   |

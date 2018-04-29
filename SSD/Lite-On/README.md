@@ -18,7 +18,7 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Lite-On   | CV3-8D128          | 128 GB | 1       | 97    | 0     | 0.27   |
-| Lite-On   | PH2-CJ120          | 120 GB | 1       | 88    | 0     | 0.24   |
+| Lite-On   | PH2-CJ120          | 120 GB | 1       | 90    | 0     | 0.25   |
 | Lite-On   | L8H-256V2G-HP      | 256 GB | 1       | 71    | 0     | 0.20   |
 | Lite-On   | LMT-19nmBGA-128G   | 128 GB | 1       | 51    | 0     | 0.14   |
 | Lite-On   | CV1-8B128          | 128 GB | 2       | 9     | 0     | 0.03   |

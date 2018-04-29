@@ -23,7 +23,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| WDC       | WDS250G1B0A-00H9H0 | 250 GB | 4       | 55    | 0     | 0.15   |
+| WDC       | WDS250G1B0A-00H9H0 | 250 GB | 4       | 88    | 0     | 0.24   |
 | WDC       | WDS250G1B0B-00AS40 | 250 GB | 1       | 48    | 0     | 0.13   |
 | WDC       | WDS240G1G0A-00SS50 | 240 GB | 6       | 25    | 0     | 0.07   |
 | WDC       | WDS240G1G0B-00RC30 | 240 GB | 2       | 17    | 0     | 0.05   |
@@ -46,6 +46,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| WDC       | Blue PC SSD            | 4      | 7       | 39    | 0     | 0.11   |
+| WDC       | Blue PC SSD            | 4      | 7       | 59    | 0     | 0.16   |
 | WDC       | Green PC SSD           | 3      | 15      | 16    | 0     | 0.05   |
 | WDC       | Unknown                | 2      | 3       | 12    | 0     | 0.03   |
