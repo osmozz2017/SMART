@@ -45,7 +45,7 @@ Rating — avg. rating per sample.
 | Toshiba   | THNSNJ256GCSU      | 256 GB | 2       | 144   | 0     | 0.40   |
 | Toshiba   | THNSNH256GBST      | 256 GB | 1       | 102   | 0     | 0.28   |
 | Toshiba   | THNSNJ128G8NY      | 128 GB | 1       | 98    | 0     | 0.27   |
-| Toshiba   | VX500              | 256 GB | 1       | 94    | 0     | 0.26   |
+| Toshiba   | VX500              | 256 GB | 1       | 95    | 0     | 0.26   |
 | Toshiba   | Q300 Pro           | 128 GB | 1       | 79    | 0     | 0.22   |
 | Toshiba   | TR150              | 240 GB | 7       | 67    | 0     | 0.19   |
 | Toshiba   | THNSNB062GMCJ      | 62 GB  | 1       | 32    | 0     | 0.09   |
