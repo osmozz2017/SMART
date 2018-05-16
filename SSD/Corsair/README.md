@@ -28,7 +28,7 @@ Rating — avg. rating per sample.
 | Corsair   | Force GS           | 90 GB  | 1       | 776   | 0     | 2.13   |
 | Corsair   | Force 3 SSD        | 240 GB | 2       | 737   | 0     | 2.02   |
 | Corsair   | Force 3 SSD        | 60 GB  | 8       | 695   | 0     | 1.91   |
-| Corsair   | Force 3 SSD        | 120 GB | 8       | 714   | 89    | 1.60   |
+| Corsair   | Force 3 SSD        | 120 GB | 8       | 715   | 89    | 1.61   |
 | Corsair   | Performance Pro    | 128 GB | 1       | 450   | 0     | 1.23   |
 | Corsair   | Force GT           | 60 GB  | 5       | 690   | 7     | 1.21   |
 | Corsair   | Force GT           | 120 GB | 6       | 506   | 1     | 1.19   |

@@ -17,10 +17,10 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| KingDian  | S180               | 60 GB  | 8       | 28    | 0     | 0.08   |
+| KingDian  | S180               | 60 GB  | 8       | 31    | 0     | 0.09   |
 | KingDian  | S280-240GB         | 240 GB | 5       | 27    | 0     | 0.08   |
-| KingDian  | S400               | 120 GB | 2       | 14    | 0     | 0.04   |
-| KingDian  | S280               | 240 GB | 2       | 11    | 0     | 0.03   |
+| KingDian  | S280               | 240 GB | 2       | 26    | 0     | 0.07   |
+| KingDian  | S400               | 120 GB | 2       | 23    | 0     | 0.06   |
 | KingDian  | S280-120GB         | 120 GB | 2       | 9     | 0     | 0.03   |
 | KingDian  | S280               | 480 GB | 1       | 9     | 0     | 0.02   |
 | KingDian  | N400 60G           | 60 GB  | 1       | 8     | 0     | 0.02   |
