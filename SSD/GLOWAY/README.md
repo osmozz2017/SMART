@@ -17,6 +17,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| GLOWAY    | FER120GS3-S7       | 120 GB | 1       | 31    | 0     | 0.09   |
 | GLOWAY    | FER240GS3-S7       | 240 GB | 1       | 23    | 0     | 0.06   |
+| GLOWAY    | FER120GS3-S7       | 120 GB | 2       | 15    | 0     | 0.04   |
 | GLOWAY    | STK120GS3-S7       | 120 GB | 1       | 0     | 0     | 0.00   |

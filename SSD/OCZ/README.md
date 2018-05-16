@@ -29,13 +29,14 @@ Rating — avg. rating per sample.
 | OCZ       | AGILITY4           | 128 GB | 3       | 830   | 0     | 2.27   |
 | OCZ       | DENRSTE251M45-0... | 100 GB | 1       | 801   | 0     | 2.20   |
 | OCZ       | VERTEX PLUS R2     | 247 GB | 1       | 797   | 0     | 2.18   |
+| OCZ       | VERTEX2            | 60 GB  | 3       | 788   | 0     | 2.16   |
 | OCZ       | NOCTI              | 60 GB  | 1       | 704   | 0     | 1.93   |
 | OCZ       | AGILITY3           | 120 GB | 19      | 753   | 88    | 1.82   |
 | OCZ       | DENCSTE351M16-0... | 240 GB | 1       | 585   | 0     | 1.60   |
 | OCZ       | VERTEX2            | 120 GB | 2       | 568   | 0     | 1.56   |
+| OCZ       | AGILITY4           | 64 GB  | 1       | 567   | 0     | 1.56   |
 | OCZ       | REVODRIVE3         | 60 GB  | 4       | 564   | 0     | 1.55   |
 | OCZ       | VERTEX2 3.5        | 115 GB | 1       | 541   | 0     | 1.48   |
-| OCZ       | VERTEX2            | 60 GB  | 2       | 511   | 0     | 1.40   |
 | OCZ       | D2RSTK251E14-0400  | 400 GB | 1       | 502   | 0     | 1.38   |
 | OCZ       | VERTEX3            | 60 GB  | 24      | 554   | 2     | 1.32   |
 | OCZ       | AGILITY3           | 60 GB  | 16      | 499   | 1     | 1.25   |
@@ -101,8 +102,8 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| OCZ       | SandForce Driven SSDs  | 30     | 168     | 551   | 43    | 1.17   |
-| OCZ       | Indilinx Barefoot_2... | 11     | 77      | 388   | 4     | 0.99   |
+| OCZ       | SandForce Driven SSDs  | 30     | 169     | 556   | 43    | 1.19   |
+| OCZ       | Indilinx Barefoot_2... | 12     | 78      | 391   | 4     | 1.00   |
 | OCZ       | Indilinx Barefoot b... | 2      | 2       | 183   | 0     | 0.50   |
 | OCZ       | Indilinx Barefoot 3... | 9      | 25      | 165   | 1     | 0.45   |
 | OCZ       | Trion SSDs             | 4      | 10      | 147   | 1     | 0.40   |
