@@ -52,7 +52,7 @@ Rating — avg. rating per sample.
 | Samsung   | SSD PM830 mSATA    | 32 GB  | 4       | 299   | 0     | 0.82   |
 | Samsung   | MZMPA064HMDR-00000 | 64 GB  | 1       | 290   | 0     | 0.79   |
 | Samsung   | MZMPA024HMCD-000L1 | 24 GB  | 1       | 283   | 0     | 0.78   |
-| Samsung   | SSD 840 EVO        | 120 GB | 33      | 268   | 0     | 0.74   |
+| Samsung   | SSD 840 EVO        | 120 GB | 33      | 269   | 0     | 0.74   |
 | Samsung   | SSD 840 PRO Series | 128 GB | 10      | 265   | 0     | 0.73   |
 | Samsung   | SSD PM830 mSATA    | 128 GB | 1       | 261   | 0     | 0.72   |
 | Samsung   | MMCQE28GFMUP-MVA   | 128 GB | 2       | 298   | 13    | 0.71   |
@@ -85,7 +85,7 @@ Rating — avg. rating per sample.
 | Samsung   | SSD 850 PRO        | 512 GB | 6       | 224   | 173   | 0.25   |
 | Samsung   | SSD 750 EVO        | 120 GB | 18      | 83    | 0     | 0.23   |
 | Samsung   | MZMPC128HBFU-000   | 128 GB | 1       | 81    | 0     | 0.22   |
-| Samsung   | SSD 750 EVO        | 250 GB | 13      | 77    | 0     | 0.21   |
+| Samsung   | SSD 750 EVO        | 250 GB | 13      | 79    | 0     | 0.22   |
 | Samsung   | SSD 650            | 120 GB | 3       | 75    | 0     | 0.21   |
 | Samsung   | MZNLN256HCHP-00000 | 256 GB | 1       | 60    | 0     | 0.17   |
 | Samsung   | SSD 850 EVO        | 1 TB   | 7       | 60    | 0     | 0.16   |
@@ -136,6 +136,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Samsung   | based SSDs             | 64     | 392     | 186   | 9     | 0.50   |
+| Samsung   | based SSDs             | 64     | 392     | 187   | 9     | 0.50   |
 | Samsung   | Unknown                | 10     | 14      | 202   | 3     | 0.47   |
 | Samsung   | Samsung based SSDs     | 25     | 40      | 172   | 93    | 0.45   |

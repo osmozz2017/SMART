@@ -75,9 +75,9 @@ Rating — avg. rating per sample.
 | SanDisk   | SD8SBAT128G1122    | 128 GB | 1       | 15    | 0     | 0.04   |
 | SanDisk   | SD7SN6S-128G-1006  | 128 GB | 1       | 8     | 0     | 0.02   |
 | SanDisk   | Ultra II           | 240 GB | 4       | 7     | 0     | 0.02   |
+| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 6       | 14    | 2     | 0.01   |
 | SanDisk   | SD8SB8U512G1122    | 512 GB | 1       | 4     | 0     | 0.01   |
 | SanDisk   | SD8SNAT256G1002    | 256 GB | 1       | 4     | 0     | 0.01   |
-| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 6       | 12    | 2     | 0.01   |
 | SanDisk   | SD8SBAT256G1122    | 256 GB | 2       | 3     | 0     | 0.01   |
 | SanDisk   | SSD i110           | 16 GB  | 1       | 3     | 0     | 0.01   |
 | SanDisk   | SSD i110           | 126 GB | 1       | 2     | 0     | 0.01   |

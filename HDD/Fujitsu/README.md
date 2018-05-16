@@ -36,10 +36,10 @@ Rating — avg. rating per sample.
 | Fujitsu   | MPE3136AH          | 13 GB  | 1       | 494   | 0     | 1.35   |
 | Fujitsu   | MHT2040AH          | 40 GB  | 1       | 484   | 0     | 1.33   |
 | Fujitsu   | MHV2100AT PL       | 100 GB | 1       | 424   | 0     | 1.16   |
+| Fujitsu   | MHV2080AT PL       | 80 GB  | 2       | 408   | 0     | 1.12   |
 | Fujitsu   | MHZ2320BH G1       | 320 GB | 5       | 572   | 5     | 1.11   |
 | Fujitsu   | MHW2160BH PL       | 160 GB | 5       | 800   | 11    | 1.11   |
 | Fujitsu   | MHV2080AH          | 80 GB  | 2       | 402   | 0     | 1.10   |
-| Fujitsu   | MHV2080AT PL       | 80 GB  | 2       | 402   | 0     | 1.10   |
 | Fujitsu   | MHV2040AH          | 40 GB  | 4       | 749   | 5     | 1.07   |
 | Fujitsu   | MHZ2160BH G2       | 160 GB | 18      | 512   | 347   | 1.03   |
 | Fujitsu   | MHW2120BJ G2       | 120 GB | 1       | 356   | 0     | 0.98   |

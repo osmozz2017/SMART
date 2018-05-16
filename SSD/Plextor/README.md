@@ -39,7 +39,7 @@ Rating — avg. rating per sample.
 | Plextor   | PX-128M5Pro        | 128 GB | 39      | 85    | 0     | 0.23   |
 | Plextor   | PX-128M6M          | 128 GB | 4       | 67    | 0     | 0.19   |
 | Plextor   | PX-128M6S          | 128 GB | 21      | 67    | 53    | 0.17   |
-| Plextor   | PX-256M6S          | 256 GB | 7       | 55    | 145   | 0.14   |
+| Plextor   | PX-256M6S          | 256 GB | 7       | 56    | 145   | 0.14   |
 | Plextor   | PX-256M5M          | 256 GB | 1       | 34    | 0     | 0.09   |
 | Plextor   | PX-512M5Pro        | 512 GB | 1       | 25    | 0     | 0.07   |
 | Plextor   | PX-128M6Pro        | 128 GB | 7       | 25    | 0     | 0.07   |
