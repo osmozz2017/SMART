@@ -19,7 +19,7 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Smartbuy  | SSD                | 60 GB  | 4       | 421   | 0     | 1.16   |
 | Smartbuy  | mSata              | 64 GB  | 1       | 186   | 0     | 0.51   |
-| Smartbuy  | SSD                | 120 GB | 36      | 147   | 0     | 0.40   |
+| Smartbuy  | SSD                | 120 GB | 36      | 148   | 0     | 0.41   |
 | Smartbuy  | SSD                | 60 GB  | 16      | 128   | 0     | 0.35   |
 | Smartbuy  | mSata              | 256 GB | 1       | 102   | 0     | 0.28   |
 | Smartbuy  | SSD                | 240 GB | 9       | 51    | 1     | 0.09   |

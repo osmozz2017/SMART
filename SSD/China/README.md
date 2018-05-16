@@ -21,7 +21,7 @@ Rating — avg. rating per sample.
 | China     | SATA SSD           | 20 GB  | 6       | 382   | 1     | 0.90   |
 | China     | SATA SSD           | 128 GB | 2       | 298   | 0     | 0.82   |
 | China     | SATA SSD           | 64 GB  | 2       | 138   | 0     | 0.38   |
-| China     | 120GB SSD          | 120 GB | 16      | 75    | 0     | 0.21   |
+| China     | 120GB SSD          | 120 GB | 16      | 76    | 0     | 0.21   |
 | China     | 64GB SSD           | 64 GB  | 6       | 72    | 0     | 0.20   |
 | China     | SATA SSD           | 120 GB | 2       | 59    | 0     | 0.16   |
 | China     | SSD128G            | 128 GB | 1       | 42    | 0     | 0.12   |

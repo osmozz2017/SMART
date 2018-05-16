@@ -46,7 +46,7 @@ Rating — avg. rating per sample.
 | Maxtor    | STM3250820A        | 250 GB | 3       | 603   | 435   | 0.64   |
 | Maxtor    | 6G160P0            | 160 GB | 2       | 217   | 0     | 0.60   |
 | Maxtor    | 6V250F0            | 250 GB | 2       | 196   | 0     | 0.54   |
-| Maxtor    | 6G160E0            | 160 GB | 7       | 327   | 129   | 0.45   |
+| Maxtor    | 6G160E0            | 160 GB | 7       | 328   | 129   | 0.45   |
 | Maxtor    | STM3160215A        | 160 GB | 6       | 209   | 512   | 0.36   |
 | Maxtor    | STM3160811AS       | 160 GB | 5       | 687   | 257   | 0.22   |
 | Maxtor    | 4K060H3            | 60 GB  | 1       | 927   | 14    | 0.17   |
@@ -118,7 +118,7 @@ Rating — avg. rating per sample.
 | Maxtor    | DiamondMax Plus D740X  | 1      | 2       | 463   | 3     | 0.69   |
 | Maxtor    | DiamondMax 20          | 5      | 16      | 551   | 300   | 0.56   |
 | Maxtor    | DiamondMax D540X-4K    | 3      | 3       | 582   | 16    | 0.54   |
-| Maxtor    | DiamondMax 17          | 2      | 9       | 303   | 101   | 0.48   |
+| Maxtor    | DiamondMax 17          | 2      | 9       | 304   | 101   | 0.48   |
 | Maxtor    | DiamondMax 22          | 4      | 21      | 916   | 347   | 0.07   |
 | Maxtor    | Fireball 3             | 4      | 7       | 53    | 4     | 0.04   |
 | Maxtor    | DiamondMax 10 (ATA/... | 14     | 23      | 24    | 84    | 0.04   |
