@@ -46,7 +46,7 @@ Rating — avg. rating per sample.
 | Maxtor    | STM3250820A        | 250 GB | 3       | 603   | 435   | 0.64   |
 | Maxtor    | 6G160P0            | 160 GB | 2       | 217   | 0     | 0.60   |
 | Maxtor    | 6V250F0            | 250 GB | 2       | 196   | 0     | 0.54   |
-| Maxtor    | 6G160E0            | 160 GB | 7       | 341   | 129   | 0.45   |
+| Maxtor    | 6G160E0            | 160 GB | 7       | 342   | 129   | 0.45   |
 | Maxtor    | STM3160215A        | 160 GB | 6       | 209   | 512   | 0.36   |
 | Maxtor    | STM3160811AS       | 160 GB | 5       | 687   | 257   | 0.22   |
 | Maxtor    | 4K060H3            | 60 GB  | 1       | 927   | 14    | 0.17   |
@@ -80,12 +80,12 @@ Rating — avg. rating per sample.
 | Maxtor    | 4R060J0            | 61 GB  | 1       | 25    | 5     | 0.01   |
 | Maxtor    | 6Y120P0            | 122 GB | 2       | 23    | 8     | 0.01   |
 | Maxtor    | 6Y200P0            | 203 GB | 1       | 30    | 7     | 0.01   |
+| Maxtor    | 6Y080P0            | 81 GB  | 6       | 17    | 7     | 0.01   |
 | Maxtor    | 2F020J0            | 20 GB  | 1       | 41    | 12    | 0.01   |
 | Maxtor    | 6E020L0            | 20 GB  | 1       | 22    | 6     | 0.01   |
 | Maxtor    | 6B160M0            | 163 GB | 1       | 3     | 0     | 0.01   |
 | Maxtor    | 6Y160P0            | 163 GB | 2       | 23    | 11    | 0.01   |
 | Maxtor    | 6L080L0            | 81 GB  | 1       | 19    | 6     | 0.01   |
-| Maxtor    | 6Y080P0            | 81 GB  | 6       | 15    | 7     | 0.01   |
 | Maxtor    | 7L250S0            | 250 GB | 1       | 7     | 2     | 0.01   |
 | Maxtor    | 4D040H2            | 40 GB  | 2       | 27    | 328   | 0.01   |
 | Maxtor    | 6L250S0            | 250 GB | 1       | 40    | 23    | 0.00   |

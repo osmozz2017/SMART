@@ -45,9 +45,9 @@ Rating — avg. rating per sample.
 | OCZ       | SOLID3             | 120 GB | 1       | 418   | 0     | 1.15   |
 | OCZ       | AGILITY3           | 64 GB  | 2       | 397   | 0     | 1.09   |
 | OCZ       | VERTEX3 MI         | 120 GB | 13      | 476   | 74    | 1.07   |
-| OCZ       | VERTEX4            | 128 GB | 49      | 401   | 1     | 1.04   |
-| OCZ       | VERTEX3            | 120 GB | 36      | 531   | 48    | 1.03   |
-| OCZ       | VERTEX3            | 90 GB  | 11      | 677   | 7     | 0.99   |
+| OCZ       | VERTEX3            | 120 GB | 36      | 538   | 48    | 1.05   |
+| OCZ       | VERTEX4            | 128 GB | 49      | 402   | 1     | 1.04   |
+| OCZ       | VERTEX3            | 90 GB  | 11      | 678   | 7     | 0.99   |
 | OCZ       | VERTEX3            | 240 GB | 7       | 399   | 6     | 0.94   |
 | OCZ       | VERTEX3 LP         | 60 GB  | 1       | 320   | 0     | 0.88   |
 | OCZ       | AGILITY3           | 128 GB | 2       | 313   | 0     | 0.86   |
@@ -63,7 +63,7 @@ Rating — avg. rating per sample.
 | OCZ       | OCTANE S2          | 64 GB  | 1       | 224   | 0     | 0.61   |
 | OCZ       | VERTEX2            | 50 GB  | 2       | 309   | 320   | 0.57   |
 | OCZ       | TRION100           | 240 GB | 6       | 197   | 0     | 0.54   |
-| OCZ       | VERTEX PLUS        | 60 GB  | 1       | 390   | 1     | 0.53   |
+| OCZ       | VERTEX PLUS        | 60 GB  | 1       | 392   | 1     | 0.54   |
 | OCZ       | VERTEX4            | 512 GB | 1       | 573   | 2     | 0.52   |
 | OCZ       | VERTEX460          | 120 GB | 1       | 169   | 0     | 0.46   |
 | OCZ       | AGILITY4           | 256 GB | 4       | 142   | 61    | 0.36   |
@@ -102,7 +102,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| OCZ       | SandForce Driven SSDs  | 30     | 169     | 562   | 43    | 1.20   |
+| OCZ       | SandForce Driven SSDs  | 30     | 169     | 563   | 43    | 1.21   |
 | OCZ       | Indilinx Barefoot_2... | 12     | 78      | 392   | 4     | 1.00   |
 | OCZ       | Indilinx Barefoot b... | 2      | 2       | 185   | 0     | 0.51   |
 | OCZ       | Indilinx Barefoot 3... | 9      | 25      | 166   | 1     | 0.46   |

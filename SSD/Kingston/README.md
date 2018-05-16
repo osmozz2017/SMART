@@ -42,7 +42,7 @@ Rating — avg. rating per sample.
 | Kingston  | SKC300S37A60G      | 60 GB  | 10      | 327   | 4     | 0.81   |
 | Kingston  | SNVP325S2256GB     | 256 GB | 1       | 293   | 0     | 0.80   |
 | Kingston  | SMS100S232G        | 32 GB  | 1       | 279   | 0     | 0.76   |
-| Kingston  | SV300S37A60G       | 60 GB  | 83      | 240   | 1     | 0.65   |
+| Kingston  | SV300S37A60G       | 60 GB  | 83      | 241   | 1     | 0.65   |
 | Kingston  | SV200S3256G        | 256 GB | 2       | 237   | 0     | 0.65   |
 | Kingston  | SM2280S3120G       | 120 GB | 3       | 230   | 0     | 0.63   |
 | Kingston  | SV100S264G         | 64 GB  | 6       | 391   | 4     | 0.63   |
@@ -102,6 +102,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Kingston  | JMicron based SSDs     | 9      | 21      | 416   | 2     | 0.97   |
-| Kingston  | SandForce Driven SSDs  | 27     | 442     | 221   | 32    | 0.54   |
+| Kingston  | SandForce Driven SSDs  | 27     | 442     | 221   | 32    | 0.55   |
 | Kingston  | Phison Driven SSDs     | 8      | 41      | 78    | 0     | 0.21   |
 | Kingston  | Unknown                | 20     | 123     | 78    | 210   | 0.16   |

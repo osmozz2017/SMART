@@ -26,7 +26,7 @@ Rating — avg. rating per sample.
 | ADATA     | SSD S510           | 120 GB | 3       | 727   | 0     | 1.99   |
 | ADATA     | SSD S511           | 120 GB | 1       | 430   | 0     | 1.18   |
 | ADATA     | SX900              | 64 GB  | 3       | 500   | 339   | 0.68   |
-| ADATA     | SP900              | 128 GB | 19      | 281   | 18    | 0.65   |
+| ADATA     | SP900              | 128 GB | 19      | 281   | 18    | 0.66   |
 | ADATA     | SP900              | 256 GB | 6       | 333   | 2     | 0.56   |
 | ADATA     | SX900              | 128 GB | 6       | 448   | 512   | 0.55   |
 | ADATA     | SP600              | 256 GB | 1       | 198   | 0     | 0.55   |
@@ -43,10 +43,10 @@ Rating — avg. rating per sample.
 | ADATA     | SP900NS38          | 128 GB | 2       | 85    | 0     | 0.23   |
 | ADATA     | S596               | 128 GB | 1       | 68    | 0     | 0.19   |
 | ADATA     | SP900              | 512 GB | 2       | 66    | 0     | 0.18   |
+| ADATA     | SP600              | 128 GB | 2       | 42    | 0     | 0.12   |
 | ADATA     | SP610              | 128 GB | 1       | 39    | 0     | 0.11   |
 | ADATA     | SP900NS34          | 128 GB | 1       | 30    | 0     | 0.08   |
 | ADATA     | SU800NS38          | 256 GB | 1       | 29    | 0     | 0.08   |
-| ADATA     | SP600              | 128 GB | 2       | 26    | 0     | 0.07   |
 | ADATA     | SP610              | 256 GB | 1       | 18    | 0     | 0.05   |
 | ADATA     | SX950              | 240 GB | 1       | 16    | 0     | 0.05   |
 | ADATA     | IM2S3138E-128GM-B  | 128 GB | 1       | 11    | 0     | 0.03   |
@@ -76,6 +76,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | ADATA     | SandForce Driven SSDs  | 7      | 44      | 290   | 9     | 0.65   |
-| ADATA     | JMicron based SSDs     | 5      | 14      | 119   | 1     | 0.31   |
+| ADATA     | JMicron based SSDs     | 5      | 14      | 121   | 1     | 0.32   |
 | ADATA     | Unknown                | 24     | 51      | 162   | 163   | 0.21   |
 | ADATA     | SiliconMotion based... | 2      | 18      | 9     | 0     | 0.02   |
