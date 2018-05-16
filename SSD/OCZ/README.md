@@ -62,8 +62,8 @@ Rating — avg. rating per sample.
 | OCZ       | VECTOR150          | 120 GB | 7       | 239   | 0     | 0.66   |
 | OCZ       | OCTANE S2          | 64 GB  | 1       | 224   | 0     | 0.61   |
 | OCZ       | VERTEX2            | 50 GB  | 2       | 309   | 320   | 0.57   |
+| OCZ       | VERTEX PLUS        | 60 GB  | 1       | 396   | 1     | 0.54   |
 | OCZ       | TRION100           | 240 GB | 6       | 197   | 0     | 0.54   |
-| OCZ       | VERTEX PLUS        | 60 GB  | 1       | 392   | 1     | 0.54   |
 | OCZ       | VERTEX4            | 512 GB | 1       | 573   | 2     | 0.52   |
 | OCZ       | VERTEX460          | 120 GB | 1       | 169   | 0     | 0.46   |
 | OCZ       | AGILITY4           | 256 GB | 4       | 142   | 61    | 0.36   |

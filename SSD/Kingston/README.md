@@ -102,6 +102,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Kingston  | JMicron based SSDs     | 9      | 21      | 416   | 2     | 0.97   |
-| Kingston  | SandForce Driven SSDs  | 27     | 442     | 221   | 32    | 0.55   |
+| Kingston  | SandForce Driven SSDs  | 27     | 442     | 222   | 32    | 0.55   |
 | Kingston  | Phison Driven SSDs     | 8      | 41      | 78    | 0     | 0.21   |
 | Kingston  | Unknown                | 20     | 123     | 78    | 210   | 0.16   |
