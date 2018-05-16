@@ -2501,8 +2501,9 @@ Rating — avg. rating per sample.
 | Hitachi   | Ultrastar 5K3000       | 1      | 1       | 1045  | 595   | 0.00   |
 | Maxtor    | Fireball 541DX         | 1      | 6       | 22    | 76    | 0.00   |
 | Maxtor    | DiamondMax D540X-4D    | 2      | 3       | 24    | 229   | 0.00   |
+| HGST      | Travelstar Z7K500.B    | 1      | 1       | 0     | 0     | 0.00   |
 | CLOVER    | Hightech Utania        | 2      | 2       | 0     | 0     | 0.00   |
-| HGST      | Unknown                | 2      | 2       | 4     | 5     | 0.00   |
+| HGST      | Unknown                | 1      | 1       | 8     | 10    | 0.00   |
 | MediaMax  | WL400                  | 1      | 1       | 0     | 0     | 0.00   |
 | Seagate   | IronWolf               | 1      | 1       | 0     | 0     | 0.00   |
 | Toshiba   | 2.5" HDD MQ01ABB       | 1      | 1       | 152   | 704   | 0.00   |

@@ -79,4 +79,5 @@ Rating — avg. rating per sample.
 | HGST      | Travelstar Z5K1        | 1      | 2       | 26    | 0     | 0.07   |
 | HGST      | Travelstar Z5K500.B    | 1      | 8       | 24    | 0     | 0.07   |
 | HGST      | Ultrastar 7K2          | 1      | 2       | 6     | 0     | 0.02   |
-| HGST      | Unknown                | 2      | 2       | 4     | 5     | 0.00   |
+| HGST      | Travelstar Z7K500.B    | 1      | 1       | 0     | 0     | 0.00   |
+| HGST      | Unknown                | 1      | 1       | 8     | 10    | 0.00   |
