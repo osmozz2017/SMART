@@ -114,7 +114,7 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Maxtor    | MaXLine III (SATA/300) | 1      | 1       | 738   | 1     | 1.01   |
 | Maxtor    | DiamondMax 10 (SATA... | 5      | 19      | 564   | 50    | 0.86   |
-| Maxtor    | DiamondMax 21          | 14     | 117     | 610   | 404   | 0.82   |
+| Maxtor    | DiamondMax 21          | 14     | 117     | 611   | 404   | 0.82   |
 | Maxtor    | DiamondMax Plus D740X  | 1      | 2       | 463   | 3     | 0.69   |
 | Maxtor    | DiamondMax 20          | 5      | 16      | 551   | 300   | 0.56   |
 | Maxtor    | DiamondMax D540X-4K    | 3      | 3       | 582   | 16    | 0.54   |

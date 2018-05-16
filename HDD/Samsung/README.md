@@ -35,7 +35,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD253GJ            | 250 GB | 7       | 768   | 17    | 1.53   |
 | Samsung   | HD103SI            | 1 TB   | 20      | 910   | 164   | 1.52   |
 | Samsung   | HD103UJ            | 1 TB   | 26      | 817   | 161   | 1.47   |
-| Samsung   | HD103SJ            | 1 TB   | 55      | 725   | 18    | 1.42   |
+| Samsung   | HD103SJ            | 1 TB   | 55      | 726   | 18    | 1.42   |
 | Samsung   | SV0221N            | 20 GB  | 1       | 2328  | 4     | 1.28   |
 | Samsung   | HD105SI            | 1 TB   | 7       | 686   | 552   | 1.26   |
 | Samsung   | HD502HJ            | 500 GB | 63      | 603   | 52    | 1.26   |
@@ -99,7 +99,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD752LJ            | 750 GB | 1       | 516   | 3     | 0.35   |
 | Samsung   | HM500JJ            | 500 GB | 2       | 331   | 5     | 0.35   |
 | Samsung   | HD252KJ            | 250 GB | 5       | 551   | 406   | 0.34   |
-| Samsung   | SP2504C            | 250 GB | 21      | 991   | 828   | 0.31   |
+| Samsung   | SP2504C            | 250 GB | 21      | 992   | 828   | 0.31   |
 | Samsung   | HD200HJ            | 200 GB | 11      | 871   | 757   | 0.31   |
 | Samsung   | SP0401N            | 40 GB  | 1       | 95    | 0     | 0.26   |
 | Samsung   | HS082HB            | 80 GB  | 1       | 89    | 0     | 0.25   |
@@ -162,7 +162,7 @@ Rating — avg. rating per sample.
 | Samsung   | SpinPoint F3 EG        | 3      | 20      | 606   | 205   | 1.04   |
 | Samsung   | SpinPoint P80 SD       | 7      | 145     | 824   | 375   | 0.84   |
 | Samsung   | SpinPoint M7E (AF)     | 4      | 67      | 431   | 49    | 0.84   |
-| Samsung   | SpinPoint T166         | 7      | 95      | 753   | 436   | 0.70   |
+| Samsung   | SpinPoint T166         | 7      | 95      | 753   | 436   | 0.71   |
 | Samsung   | SpinPoint PL40         | 1      | 1       | 4382  | 17    | 0.67   |
 | Samsung   | SpinPoint M7           | 3      | 77      | 351   | 59    | 0.64   |
 | Samsung   | SpinPoint M8 (AF)      | 5      | 37      | 401   | 93    | 0.63   |
