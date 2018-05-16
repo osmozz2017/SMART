@@ -28,7 +28,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSA2CW120G3      | 120 GB | 4       | 544   | 0     | 1.49   |
 | Intel     | SSDSC2BW240A3L     | 240 GB | 1       | 480   | 0     | 1.32   |
 | Intel     | SSDSC2MH120A2      | 120 GB | 1       | 453   | 0     | 1.24   |
-| Intel     | SSDSC2CT240A4      | 240 GB | 4       | 301   | 0     | 0.83   |
+| Intel     | SSDSC2CT240A4      | 240 GB | 4       | 304   | 0     | 0.83   |
 | Intel     | SSDSC2BW180A4      | 180 GB | 5       | 275   | 0     | 0.76   |
 | Intel     | SSDSA2M080G2GC     | 80 GB  | 4       | 587   | 4     | 0.71   |
 | Intel     | SSDSA2M080G2HP     | 80 GB  | 1       | 245   | 0     | 0.67   |
@@ -36,7 +36,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSA2BW160G3L     | 160 GB | 1       | 239   | 0     | 0.66   |
 | Intel     | SSDSC2BP240G4      | 240 GB | 1       | 206   | 0     | 0.56   |
 | Intel     | SSDSC2BA200G4      | 200 GB | 5       | 200   | 0     | 0.55   |
-| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 168   | 0     | 0.46   |
+| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 169   | 0     | 0.46   |
 | Intel     | SSDSA2CT040G3      | 40 GB  | 3       | 167   | 0     | 0.46   |
 | Intel     | SSDSCMMW180A3L     | 180 GB | 1       | 160   | 0     | 0.44   |
 | Intel     | SSDSA2CW080G3      | 80 GB  | 4       | 152   | 0     | 0.42   |
@@ -86,7 +86,7 @@ Rating — avg. rating per sample.
 | Intel     | 510 Series SSDs        | 1      | 1       | 453   | 0     | 1.24   |
 | Intel     | 520 Series SSDs        | 2      | 2       | 315   | 0     | 0.86   |
 | Intel     | 320 Series SSDs        | 5      | 13      | 272   | 0     | 0.75   |
-| Intel     | 330/335 Series SSDs    | 2      | 9       | 227   | 0     | 0.62   |
+| Intel     | 330/335 Series SSDs    | 2      | 9       | 229   | 0     | 0.63   |
 | Intel     | Unknown                | 6      | 8       | 239   | 127   | 0.55   |
 | Intel     | X18-M/X25-M/X25-V G... | 9      | 15      | 545   | 9     | 0.51   |
 | Intel     | 525 Series SSDs        | 1      | 2       | 148   | 0     | 0.41   |
