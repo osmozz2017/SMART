@@ -9,7 +9,7 @@ Sector Sizes:     512 bytes logical, 4096 bytes physical
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS (minor revision not indicated)
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 3.0 Gb/s)
-Local Time is:    Fri Sep 30 19:09:55 2016 IRKT
+Local Time is:    Fri Sep 30 19:39:00 2016 IRKT
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -68,8 +68,8 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
  11 Calibration_Retry_Count -O--CK   100   100   000    -    0
  12 Power_Cycle_Count       -O--CK   099   099   000    -    1320
 192 Power-Off_Retract_Count -O--CK   200   200   000    -    96
-193 Load_Cycle_Count        -O--CK   184   184   000    -    48685
-194 Temperature_Celsius     -O---K   108   100   000    -    35
+193 Load_Cycle_Count        -O--CK   184   184   000    -    48686
+194 Temperature_Celsius     -O---K   107   100   000    -    36
 196 Reallocated_Event_Count -O--CK   200   200   000    -    0
 197 Current_Pending_Sector  -O--CK   200   200   000    -    0
 198 Offline_Uncorrectable   ----CK   200   200   000    -    0
@@ -131,7 +131,7 @@ SCT Status Version:                  3
 SCT Version (vendor specific):       258 (0x0102)
 SCT Support Level:                   1
 Device State:                        Active (0)
-Current Temperature:                    35 Celsius
+Current Temperature:                    36 Celsius
 Power Cycle Min/Max Temperature:     24/36 Celsius
 Lifetime    Min/Max Temperature:     17/43 Celsius
 Under/Over Temperature Limit Count:   0/0
@@ -144,7 +144,7 @@ Temperature Sampling Period:         1 minute
 Temperature Logging Interval:        1 minute
 Min/Max recommended Temperature:      0/60 Celsius
 Min/Max Temperature Limit:           -41/85 Celsius
-Temperature History Size (Index):    478 (63)
+Temperature History Size (Index):    478 (92)
 
 SCT Error Recovery Control command not supported
 
@@ -165,7 +165,7 @@ ID      Size     Value  Description
 0x000b  2            0  CRC errors within host-to-device FIS
 0x000f  2            0  R_ERR response for host-to-device data FIS, CRC
 0x0012  2            0  R_ERR response for host-to-device non-data FIS, CRC
-0x8000  4        17222  Vendor specific
+0x8000  4        18966  Vendor specific
 
 
 

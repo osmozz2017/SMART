@@ -10,7 +10,7 @@ Rotation Rate:    Solid State Device
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS, ACS-2 T13/2015-D revision 3
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Mon Jun  6 20:16:34 2016 EEST
+Local Time is:    Tue Aug 23 22:31:29 2016 EEST
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -60,11 +60,11 @@ Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   1 Raw_Read_Error_Rate     POSR--   120   120   050    -    0/0
   5 Retired_Block_Count     PO--CK   100   100   003    -    0
-  9 Power_On_Hours_and_Msec -O--CK   099   099   000    -    955h+05m+17.290s
- 12 Power_Cycle_Count       -O--CK   100   100   000    -    697
+  9 Power_On_Hours_and_Msec -O--CK   099   099   000    -    1013h+19m+58.360s
+ 12 Power_Cycle_Count       -O--CK   100   100   000    -    746
 171 Program_Fail_Count      -O--CK   000   000   000    -    0
 172 Erase_Fail_Count        -O--CK   000   000   000    -    0
-174 Unexpect_Power_Loss_Ct  ----CK   000   000   000    -    83
+174 Unexpect_Power_Loss_Ct  ----CK   000   000   000    -    95
 177 Wear_Range_Delta        ------   000   000   000    -    2
 181 Program_Fail_Count      -O--CK   000   000   000    -    0
 182 Erase_Fail_Count        -O--CK   000   000   000    -    0
@@ -77,10 +77,10 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
 204 Soft_ECC_Correct_Rate   --SRC-   100   100   000    -    0/0
 230 Life_Curve_Status       PO--C-   100   100   000    -    100
 231 SSD_Life_Left           PO--C-   100   100   010    -    0
-233 SandForce_Internal      ------   000   000   000    -    2264
-234 SandForce_Internal      -O--CK   000   000   000    -    1845
-241 Lifetime_Writes_GiB     -O--CK   000   000   000    -    1845
-242 Lifetime_Reads_GiB      -O--CK   000   000   000    -    1329
+233 SandForce_Internal      ------   000   000   000    -    2268
+234 SandForce_Internal      -O--CK   000   000   000    -    1847
+241 Lifetime_Writes_GiB     -O--CK   000   000   000    -    1847
+242 Lifetime_Reads_GiB      -O--CK   000   000   000    -    1340
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate
@@ -125,7 +125,7 @@ SCT Version (vendor specific):       0 (0x0000)
 SCT Support Level:                   1
 Device State:                        Active (0)
 Current Temperature:                    29 Celsius
-Power Cycle Min/Max Temperature:     24/29 Celsius
+Power Cycle Min/Max Temperature:     25/29 Celsius
 Lifetime    Min/Max Temperature:     16/65 Celsius
 Under/Over Temperature Limit Count:   0/0
 
@@ -134,7 +134,7 @@ Temperature Sampling Period:         1 minute
 Temperature Logging Interval:        10 minutes
 Min/Max recommended Temperature:      0/120 Celsius
 Min/Max Temperature Limit:            0/ 0 Celsius
-Temperature History Size (Index):    13668 (119)
+Temperature History Size (Index):    13668 (122)
 Invalid Temperature History Size or Index
 
 SCT Error Recovery Control command not supported
