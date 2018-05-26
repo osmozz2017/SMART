@@ -1,7 +1,7 @@
-TEAM Solid State Drives
-=======================
+TEKET Solid State Drives
+========================
 
-This is a list of all tested TEAM solid state drive models and their ratings. See
+This is a list of all tested TEKET solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,6 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| TEAM      | L3 SSD             | 120 GB | 2       | 221   | 0     | 0.61   |
-| TEAM      | L3 EVO SSD         | 120 GB | 1       | 101   | 0     | 0.28   |
-| TEAM      | L5 LITE SSD        | 120 GB | 1       | 10    | 0     | 0.03   |
+| TEKET     | SA18-032M-4F       | 32 GB  | 2       | 59    | 0     | 0.16   |

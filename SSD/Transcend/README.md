@@ -32,7 +32,7 @@ Rating — avg. rating per sample.
 | Transcend | TS256GMTS800       | 256 GB | 1       | 93    | 0     | 0.26   |
 | Transcend | TS256GSSD320       | 256 GB | 2       | 84    | 0     | 0.23   |
 | Transcend | TS256GSSD340       | 256 GB | 2       | 76    | 0     | 0.21   |
-| Transcend | TS128GSSD370       | 128 GB | 5       | 58    | 0     | 0.16   |
+| Transcend | TS128GSSD370       | 128 GB | 6       | 62    | 0     | 0.17   |
 | Transcend | TS64GSSD340        | 64 GB  | 1       | 54    | 0     | 0.15   |
 | Transcend | TS120GSSD220S      | 120 GB | 3       | 29    | 0     | 0.08   |
 | Transcend | TS64GSSD720        | 64 GB  | 1       | 26    | 0     | 0.07   |
@@ -42,11 +42,12 @@ Rating — avg. rating per sample.
 | Transcend | TS256GSSD370S      | 256 GB | 1       | 14    | 0     | 0.04   |
 | Transcend | TS512GMSA370       | 512 GB | 1       | 12    | 0     | 0.03   |
 | Transcend | TS128GMTS800       | 128 GB | 3       | 9     | 0     | 0.03   |
+| Transcend | TS240GMTS820S      | 240 GB | 1       | 6     | 0     | 0.02   |
 | Transcend | TS128GSSD360S      | 128 GB | 3       | 5     | 0     | 0.01   |
 | Transcend | TS64GSSD370        | 64 GB  | 2       | 4     | 0     | 0.01   |
-| Transcend | TS256GMTS400       | 256 GB | 1       | 2     | 0     | 0.01   |
 | Transcend | TS128GSSD230S      | 128 GB | 3       | 2     | 0     | 0.01   |
 | Transcend | TS64GMTS800        | 64 GB  | 1       | 2     | 0     | 0.01   |
+| Transcend | TS256GMTS400       | 256 GB | 2       | 2     | 0     | 0.01   |
 | Transcend | TS32GMSA370        | 32 GB  | 1       | 1     | 0     | 0.01   |
 | Transcend | TS64GSSD340K       | 64 GB  | 1       | 74    | 1008  | 0.00   |
 
@@ -66,5 +67,5 @@ Rating — avg. rating per sample.
 | Transcend | SandForce Driven SSDs  | 4      | 6       | 177   | 0     | 0.49   |
 | Transcend | Indilinx Barefoot b... | 1      | 1       | 309   | 2     | 0.28   |
 | Transcend | JMicron based SSDs     | 4      | 7       | 86    | 0     | 0.24   |
-| Transcend | Unknown                | 3      | 5       | 54    | 202   | 0.11   |
-| Transcend | SiliconMotion based... | 14     | 36      | 26    | 0     | 0.07   |
+| Transcend | Unknown                | 4      | 6       | 46    | 168   | 0.09   |
+| Transcend | SiliconMotion based... | 14     | 38      | 27    | 0     | 0.08   |
