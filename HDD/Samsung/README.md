@@ -35,7 +35,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD253GJ            | 250 GB | 7       | 768   | 17    | 1.53   |
 | Samsung   | HD103SI            | 1 TB   | 20      | 910   | 164   | 1.52   |
 | Samsung   | HD103UJ            | 1 TB   | 27      | 817   | 155   | 1.49   |
-| Samsung   | HD103SJ            | 1 TB   | 57      | 734   | 17    | 1.46   |
+| Samsung   | HD103SJ            | 1 TB   | 57      | 736   | 17    | 1.47   |
 | Samsung   | HD321HJ            | 320 GB | 4       | 903   | 39    | 1.44   |
 | Samsung   | SV0221N            | 20 GB  | 1       | 2328  | 4     | 1.28   |
 | Samsung   | HD105SI            | 1 TB   | 7       | 686   | 552   | 1.26   |
@@ -61,7 +61,7 @@ Rating — avg. rating per sample.
 | Samsung   | HM641JI            | 640 GB | 11      | 408   | 93    | 0.88   |
 | Samsung   | HN-M500MBB         | 500 GB | 22      | 400   | 3     | 0.86   |
 | Samsung   | HD400LJ            | 400 GB | 2       | 480   | 5     | 0.84   |
-| Samsung   | HM321HI            | 320 GB | 50      | 435   | 45    | 0.81   |
+| Samsung   | HM321HI            | 320 GB | 50      | 435   | 45    | 0.82   |
 | Samsung   | SV1203N            | 120 GB | 2       | 441   | 3     | 0.80   |
 | Samsung   | HD502HI            | 500 GB | 12      | 541   | 107   | 0.78   |
 | Samsung   | HD321KJ            | 320 GB | 40      | 695   | 287   | 0.77   |
@@ -92,15 +92,15 @@ Rating — avg. rating per sample.
 | Samsung   | HD082GJ            | 80 GB  | 10      | 467   | 341   | 0.48   |
 | Samsung   | HM250HJ            | 250 GB | 2       | 337   | 17    | 0.46   |
 | Samsung   | SP1634N            | 160 GB | 1       | 298   | 1     | 0.41   |
-| Samsung   | SP0842N            | 80 GB  | 8       | 614   | 591   | 0.40   |
+| Samsung   | SP0842N            | 80 GB  | 8       | 625   | 592   | 0.40   |
 | Samsung   | SP2004C            | 200 GB | 23      | 697   | 505   | 0.38   |
 | Samsung   | SP1654N            | 160 GB | 3       | 615   | 414   | 0.37   |
 | Samsung   | HD403LJ            | 400 GB | 10      | 1202  | 722   | 0.36   |
 | Samsung   | HD752LJ            | 750 GB | 1       | 516   | 3     | 0.35   |
 | Samsung   | HM500JJ            | 500 GB | 2       | 331   | 5     | 0.35   |
 | Samsung   | HD252KJ            | 250 GB | 5       | 551   | 406   | 0.34   |
-| Samsung   | SP2504C            | 250 GB | 21      | 992   | 828   | 0.31   |
-| Samsung   | HD200HJ            | 200 GB | 11      | 871   | 757   | 0.31   |
+| Samsung   | SP2504C            | 250 GB | 21      | 993   | 828   | 0.31   |
+| Samsung   | HD200HJ            | 200 GB | 11      | 872   | 757   | 0.31   |
 | Samsung   | SP1604N            | 160 GB | 3       | 394   | 62    | 0.28   |
 | Samsung   | SP0401N            | 40 GB  | 1       | 95    | 0     | 0.26   |
 | Samsung   | HS082HB            | 80 GB  | 1       | 89    | 0     | 0.25   |
@@ -154,7 +154,7 @@ Rating — avg. rating per sample.
 | Samsung   | SpinPoint V20400       | 1      | 1       | 5713  | 0     | 15.65  |
 | Samsung   | SpinPoint              | 2      | 3       | 1164  | 3     | 3.04   |
 | Samsung   | SpinPoint F4 EG (AF)   | 1      | 10      | 821   | 10    | 1.79   |
-| Samsung   | SpinPoint F3           | 4      | 128     | 668   | 34    | 1.36   |
+| Samsung   | SpinPoint F3           | 4      | 128     | 669   | 34    | 1.36   |
 | Samsung   | SpinPoint VL40         | 1      | 1       | 2328  | 4     | 1.28   |
 | Samsung   | SpinPoint T133         | 5      | 15      | 740   | 232   | 1.16   |
 | Samsung   | SpinPoint F1 DT        | 11     | 139     | 777   | 208   | 1.11   |
@@ -168,7 +168,7 @@ Rating — avg. rating per sample.
 | Samsung   | SpinPoint M8 (AF)      | 5      | 37      | 401   | 93    | 0.63   |
 | Samsung   | SpinPoint S250         | 2      | 37      | 824   | 696   | 0.61   |
 | Samsung   | SpinPoint F4           | 1      | 14      | 336   | 22    | 0.57   |
-| Samsung   | SpinPoint P80          | 17     | 76      | 589   | 162   | 0.54   |
+| Samsung   | SpinPoint P80          | 17     | 76      | 590   | 162   | 0.54   |
 | Samsung   | SpinPoint S166         | 3      | 37      | 799   | 478   | 0.54   |
 | Samsung   | SpinPoint MP5          | 3      | 7       | 369   | 187   | 0.52   |
 | Samsung   | SpinPoint F1 RE        | 1      | 2       | 374   | 51    | 0.49   |

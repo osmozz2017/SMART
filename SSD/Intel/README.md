@@ -36,7 +36,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSA2BW160G3L     | 160 GB | 1       | 239   | 0     | 0.66   |
 | Intel     | SSDSC2BP240G4      | 240 GB | 1       | 206   | 0     | 0.56   |
 | Intel     | SSDSC2BA200G4      | 200 GB | 5       | 200   | 0     | 0.55   |
-| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 173   | 0     | 0.48   |
+| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 174   | 0     | 0.48   |
 | Intel     | SSDSA2CT040G3      | 40 GB  | 3       | 167   | 0     | 0.46   |
 | Intel     | SSDSCMMW180A3L     | 180 GB | 1       | 160   | 0     | 0.44   |
 | Intel     | SSDSA2CW080G3      | 80 GB  | 4       | 152   | 0     | 0.42   |

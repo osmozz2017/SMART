@@ -36,7 +36,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS721075A9E630    | 750 GB | 5       | 153   | 0     | 0.42   |
 | HGST      | HTS545032A7E380    | 320 GB | 13      | 162   | 1     | 0.42   |
 | HGST      | HTS545050A7E380    | 500 GB | 90      | 270   | 241   | 0.38   |
-| HGST      | HTS725050A7E630    | 500 GB | 76      | 173   | 83    | 0.36   |
+| HGST      | HTS725050A7E630    | 500 GB | 76      | 173   | 83    | 0.37   |
 | HGST      | HTE725050A7E630    | 500 GB | 1       | 122   | 0     | 0.34   |
 | HGST      | HTS541010A7E630    | 1 TB   | 9       | 97    | 1     | 0.23   |
 | HGST      | HTS545050A7E660    | 500 GB | 8       | 156   | 4     | 0.22   |
@@ -71,7 +71,7 @@ Rating — avg. rating per sample.
 | HGST      | Ultrastar 7K4000       | 2      | 7       | 313   | 0     | 0.86   |
 | HGST      | Travelstar 7K1000      | 3      | 91      | 192   | 13    | 0.48   |
 | HGST      | Travelstar 5K1000      | 4      | 115     | 236   | 249   | 0.43   |
-| HGST      | Travelstar Z7K500      | 3      | 82      | 168   | 102   | 0.35   |
+| HGST      | Travelstar Z7K500      | 3      | 82      | 169   | 102   | 0.35   |
 | HGST      | Ultrastar 7K6000       | 2      | 2       | 107   | 0     | 0.29   |
 | HGST      | Travelstar Z5K500      | 5      | 251     | 184   | 244   | 0.28   |
 | HGST      | Travelstar Z5K1000     | 2      | 15      | 77    | 68    | 0.17   |

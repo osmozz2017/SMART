@@ -70,7 +70,7 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHV2060BH PL       | 60 GB  | 3       | 76    | 3     | 0.21   |
 | Fujitsu   | MJA2500BH G2       | 500 GB | 8       | 309   | 146   | 0.20   |
 | Fujitsu   | MHV2100AH PL       | 100 GB | 1       | 423   | 6     | 0.17   |
-| Fujitsu   | MJA2250BH G2       | 250 GB | 5       | 237   | 209   | 0.14   |
+| Fujitsu   | MJA2250BH G2       | 250 GB | 5       | 243   | 209   | 0.14   |
 | Fujitsu   | MHV2080BH          | 78 GB  | 1       | 400   | 7     | 0.14   |
 | Fujitsu   | MHV2080BH PL       | 80 GB  | 6       | 215   | 7     | 0.13   |
 | Fujitsu   | MHV2200BT PL       | 200 GB | 1       | 325   | 7     | 0.11   |
@@ -107,5 +107,5 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHW AT                 | 1      | 1       | 241   | 0     | 0.66   |
 | Fujitsu   | MPA..MPG               | 3      | 3       | 247   | 4     | 0.56   |
 | Fujitsu   | MHT                    | 3      | 3       | 398   | 6     | 0.56   |
-| Fujitsu   | MJA BH                 | 6      | 22      | 367   | 206   | 0.33   |
+| Fujitsu   | MJA BH                 | 6      | 22      | 369   | 206   | 0.33   |
 | Fujitsu   | MHZ BJ                 | 1      | 1       | 4     | 0     | 0.01   |

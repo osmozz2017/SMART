@@ -31,7 +31,7 @@ Rating — avg. rating per sample.
 | OCZ       | VERTEX PLUS R2     | 247 GB | 1       | 797   | 0     | 2.18   |
 | OCZ       | VERTEX2            | 60 GB  | 3       | 788   | 0     | 2.16   |
 | OCZ       | NOCTI              | 60 GB  | 1       | 704   | 0     | 1.93   |
-| OCZ       | AGILITY3           | 120 GB | 19      | 755   | 88    | 1.82   |
+| OCZ       | AGILITY3           | 120 GB | 19      | 756   | 88    | 1.82   |
 | OCZ       | DENCSTE351M16-0... | 240 GB | 1       | 585   | 0     | 1.60   |
 | OCZ       | VERTEX2            | 120 GB | 2       | 568   | 0     | 1.56   |
 | OCZ       | AGILITY4           | 64 GB  | 1       | 567   | 0     | 1.56   |

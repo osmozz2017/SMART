@@ -36,7 +36,7 @@ Rating — avg. rating per sample.
 | SanDisk   | iSSD P4            | 8 GB   | 3       | 350   | 1     | 0.73   |
 | SanDisk   | SD6SB1M128G        | 128 GB | 1       | 256   | 0     | 0.70   |
 | SanDisk   | SDSSDHP128G        | 128 GB | 16      | 239   | 0     | 0.66   |
-| SanDisk   | SSD i100           | 16 GB  | 5       | 209   | 0     | 0.57   |
+| SanDisk   | SSD i100           | 16 GB  | 5       | 233   | 0     | 0.64   |
 | SanDisk   | SD5SF2128G1014E    | 128 GB | 2       | 200   | 0     | 0.55   |
 | SanDisk   | SDSSDP256G         | 256 GB | 2       | 169   | 0     | 0.46   |
 | SanDisk   | SDSSDHII120G       | 120 GB | 13      | 150   | 0     | 0.41   |
@@ -110,6 +110,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | SanDisk   | Marvell based SanDi... | 22     | 78      | 166   | 20    | 0.44   |
-| SanDisk   | SanDisk based SSDs     | 17     | 81      | 122   | 32    | 0.29   |
+| SanDisk   | SanDisk based SSDs     | 17     | 81      | 124   | 32    | 0.29   |
 | SanDisk   | Unknown                | 28     | 41      | 104   | 84    | 0.22   |
 | SanDisk   | SandForce Driven SSDs  | 5      | 45      | 52    | 25    | 0.14   |
