@@ -23,8 +23,8 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Intel     | SSDSC2CT080A4      | 80 GB  | 2       | 675   | 0     | 1.85   |
 | Intel     | SSDSA2M040G2GC     | 40 GB  | 2       | 1007  | 3     | 1.69   |
+| Intel     | SSDSC2CT080A4      | 80 GB  | 3       | 600   | 0     | 1.64   |
 | Intel     | SSDSA2CW120G3      | 120 GB | 4       | 544   | 0     | 1.49   |
 | Intel     | SSDSC2BW240A3L     | 240 GB | 1       | 480   | 0     | 1.32   |
 | Intel     | SSDSC2MH120A2      | 120 GB | 1       | 453   | 0     | 1.24   |
@@ -87,7 +87,7 @@ Rating — avg. rating per sample.
 | Intel     | 520 Series SSDs        | 2      | 2       | 315   | 0     | 0.86   |
 | Intel     | 320 Series SSDs        | 5      | 13      | 272   | 0     | 0.75   |
 | Intel     | 330/335 Series SSDs    | 2      | 9       | 237   | 0     | 0.65   |
-| Intel     | Unknown                | 6      | 8       | 239   | 127   | 0.55   |
+| Intel     | Unknown                | 6      | 9       | 262   | 113   | 0.63   |
 | Intel     | X18-M/X25-M/X25-V G... | 9      | 15      | 545   | 9     | 0.51   |
 | Intel     | 525 Series SSDs        | 1      | 2       | 148   | 0     | 0.41   |
 | Intel     | X18-M/X25-M G1 SSDs    | 2      | 2       | 139   | 0     | 0.38   |

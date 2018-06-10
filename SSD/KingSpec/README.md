@@ -36,3 +36,4 @@ Rating — avg. rating per sample.
 | KingSpec  | ACSC2M064S25       | 63 GB  | 1       | 0     | 0     | 0.00   |
 | KingSpec  | ACSC2M128mSA       | 126 GB | 1       | 0     | 0     | 0.00   |
 | KingSpec  | MSH-256            | 253 GB | 1       | 0     | 0     | 0.00   |
+| KingSpec  | T-64               | 64 GB  | 1       | 0     | 0     | 0.00   |

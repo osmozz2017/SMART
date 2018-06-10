@@ -30,17 +30,17 @@ Rating — avg. rating per sample.
 | HGST      | HTS541075A9E680    | 750 GB | 18      | 248   | 398   | 0.54   |
 | HGST      | HTS545032A7E680    | 320 GB | 8       | 224   | 2     | 0.53   |
 | HGST      | HUS726040ALE611    | 4 TB   | 1       | 182   | 0     | 0.50   |
-| HGST      | HTS721010A9E630    | 1 TB   | 84      | 197   | 15    | 0.50   |
 | HGST      | HUS724040ALA640    | 4 TB   | 1       | 180   | 0     | 0.49   |
-| HGST      | HTS541010A9E680    | 1 TB   | 93      | 242   | 231   | 0.43   |
+| HGST      | HTS721010A9E630    | 1 TB   | 85      | 195   | 14    | 0.49   |
 | HGST      | HTS721075A9E630    | 750 GB | 5       | 153   | 0     | 0.42   |
 | HGST      | HTS545032A7E380    | 320 GB | 13      | 162   | 1     | 0.42   |
+| HGST      | HTS541010A9E680    | 1 TB   | 97      | 242   | 253   | 0.41   |
 | HGST      | HTS545050A7E380    | 500 GB | 90      | 270   | 241   | 0.38   |
 | HGST      | HTS725050A7E630    | 500 GB | 76      | 173   | 83    | 0.37   |
-| HGST      | HTE725050A7E630    | 500 GB | 1       | 122   | 0     | 0.34   |
 | HGST      | HTS541010A7E630    | 1 TB   | 9       | 97    | 1     | 0.23   |
 | HGST      | HTS545050A7E660    | 500 GB | 8       | 156   | 4     | 0.22   |
-| HGST      | HTS545050A7E680    | 500 GB | 132     | 126   | 300   | 0.18   |
+| HGST      | HTE725050A7E630    | 500 GB | 2       | 68    | 0     | 0.19   |
+| HGST      | HTS545050A7E680    | 500 GB | 133     | 127   | 297   | 0.18   |
 | HGST      | HTE721010A9E630    | 1 TB   | 2       | 65    | 0     | 0.18   |
 | HGST      | HTS725032A7E630    | 320 GB | 5       | 112   | 410   | 0.17   |
 | HGST      | HTS545025A7E330    | 250 GB | 1       | 60    | 0     | 0.17   |
@@ -69,11 +69,11 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | HGST      | Deskstar NAS           | 3      | 5       | 457   | 0     | 1.25   |
 | HGST      | Ultrastar 7K4000       | 2      | 7       | 313   | 0     | 0.86   |
-| HGST      | Travelstar 7K1000      | 3      | 91      | 192   | 13    | 0.48   |
-| HGST      | Travelstar 5K1000      | 4      | 115     | 236   | 249   | 0.43   |
-| HGST      | Travelstar Z7K500      | 3      | 82      | 169   | 102   | 0.35   |
+| HGST      | Travelstar 7K1000      | 3      | 92      | 190   | 13    | 0.48   |
+| HGST      | Travelstar 5K1000      | 4      | 119     | 237   | 267   | 0.42   |
+| HGST      | Travelstar Z7K500      | 3      | 83      | 167   | 101   | 0.35   |
 | HGST      | Ultrastar 7K6000       | 2      | 2       | 107   | 0     | 0.29   |
-| HGST      | Travelstar Z5K500      | 5      | 251     | 184   | 244   | 0.28   |
+| HGST      | Travelstar Z5K500      | 5      | 252     | 184   | 243   | 0.28   |
 | HGST      | Travelstar Z5K1000     | 2      | 15      | 77    | 68    | 0.17   |
 | HGST      | Travelstar 5K1500      | 1      | 2       | 541   | 14    | 0.10   |
 | HGST      | Travelstar Z5K1        | 1      | 2       | 26    | 0     | 0.07   |

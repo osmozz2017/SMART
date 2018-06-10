@@ -80,6 +80,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3500630A         | 500 GB | 255FE1203697 | 2263  | 0     | 6.20   |
 | Seagate   | ST380013AS         | 80 GB  | CE4F29E527CC | 2262  | 0     | 6.20   |
 | WDC       | WD2003FYPS-27Y2B0  | 2 TB   | F2A3DDA1CE03 | 2260  | 0     | 6.19   |
+| Seagate   | ST380815AS         | 80 GB  | 283AC2A4D512 | 2250  | 0     | 6.16   |
 | Seagate   | ST3320620A         | 320 GB | 277E06ECF43B | 2246  | 0     | 6.16   |
 | WDC       | WD4000AAKS-00YGA0  | 400 GB | 31BF5669704D | 2239  | 0     | 6.14   |
 | Seagate   | ST3320620AS        | 320 GB | 55ED2497D3F1 | 2231  | 0     | 6.11   |
@@ -322,6 +323,7 @@ Rating — avg. rating per sample.
 | WDC       | WD6400AAKS-65A7B0  | 640 GB | E902C80D24F5 | 1564  | 0     | 4.29   |
 | Samsung   | HD501LJ            | 500 GB | 5FD321A28E00 | 1563  | 0     | 4.28   |
 | Seagate   | ST3160815A         | 160 GB | 4F1F0DF61BD9 | 1559  | 0     | 4.27   |
+| WDC       | WD5000AAKX-00ERMA0 | 500 GB | B1C4E9E8FD54 | 1556  | 0     | 4.27   |
 | WDC       | WD5000AADS-00M2B0  | 500 GB | 6BF5D2E9350C | 1556  | 0     | 4.26   |
 | WDC       | WD800JD-60LSA5     | 80 GB  | 2D3B09514FD5 | 1556  | 0     | 4.26   |
 | WDC       | WD1502FAEX-007BA0  | 1.5 TB | 8C3E4EAF5C89 | 1555  | 0     | 4.26   |
@@ -503,6 +505,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAKS-00VYA0  | 320 GB | 282486C04FB2 | 1346  | 0     | 3.69   |
 | WDC       | WD5001AALS-00L3B2  | 500 GB | EA44FD882402 | 1346  | 0     | 3.69   |
 | Hitachi   | HDS721010CLA330    | 1 TB   | E02C94B63429 | 1346  | 0     | 3.69   |
+| Hitachi   | HTS545032B9SA00    | 320 GB | CE496BF37702 | 1345  | 0     | 3.69   |
 | WDC       | WD1001FALS-00J7B1  | 1 TB   | E98E604B79FD | 1345  | 0     | 3.69   |
 | WDC       | WD10EALS-00Z8A0    | 1 TB   | E73C6F4E0625 | 1344  | 0     | 3.68   |
 | WDC       | WD5000BEVT-24A0RT0 | 500 GB | C361BDC80A35 | 1343  | 0     | 3.68   |
@@ -671,6 +674,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3250310AS        | 250 GB | 83718B2FCE88 | 1205  | 0     | 3.30   |
 | Hitachi   | HDT721075SLA380    | 750 GB | 6D6EDE208554 | 1205  | 0     | 3.30   |
 | WDC       | WD10EZRX-00A8LB0   | 1 TB   | ABDC5740FDCE | 1204  | 0     | 3.30   |
+| WDC       | WD20EARS-00MVWB0   | 2 TB   | CBA0E54EA3E2 | 1204  | 0     | 3.30   |
 | Seagate   | ST3500418AS        | 500 GB | AC9AE2A6BBA2 | 1204  | 0     | 3.30   |
 | WDC       | WD2500AAJB-00WGA0  | 250 GB | CC49AFD06C21 | 1204  | 0     | 3.30   |
 | WDC       | WD6400AAKS-65A7B2  | 640 GB | 63066466CF7E | 1204  | 0     | 3.30   |
@@ -694,6 +698,7 @@ Rating — avg. rating per sample.
 | WDC       | WD1600AAJS-08PSA0  | 160 GB | 9396A2A76DEA | 1190  | 0     | 3.26   |
 | Seagate   | ST2000DM001-9YN164 | 2 TB   | 8209184FA5E3 | 1189  | 0     | 3.26   |
 | Seagate   | ST380013AS         | 80 GB  | 70B71DC1BA24 | 1189  | 0     | 3.26   |
+| Seagate   | ST380011A          | 80 GB  | B4590D47AAA5 | 1187  | 0     | 3.25   |
 | WDC       | WD10EADS-00L5B1    | 1 TB   | 15A9CC37FE13 | 1187  | 0     | 3.25   |
 | WDC       | WD3200AAJB-00WGA0  | 320 GB | 8B45418D1626 | 1186  | 0     | 3.25   |
 | WDC       | WD5000AAKS-00A7B0  | 500 GB | BA77EF31D703 | 1185  | 0     | 3.25   |
@@ -718,6 +723,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA362    | 500 GB | CCD410BA2A7C | 1174  | 0     | 3.22   |
 | Seagate   | ST3500418AS        | 500 GB | 1B85FB46D04B | 1174  | 0     | 3.22   |
 | WDC       | WD2502ABYS-23B7... | 250 GB | DA1109A02FB4 | 1174  | 0     | 3.22   |
+| Seagate   | ST980411ASG        | 80 GB  | 115780AB7BC5 | 1172  | 0     | 3.21   |
 | Hitachi   | HDT725040VLA360    | 400 GB | 965E2B56A777 | 1172  | 0     | 3.21   |
 | Samsung   | HD103SJ            | 1 TB   | D6F3ACF88640 | 1171  | 0     | 3.21   |
 | WDC       | WD10EARS-00Z5B1    | 1 TB   | 6E9E3358BCA1 | 1170  | 0     | 3.21   |
@@ -734,6 +740,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3400620AS        | 400 GB | 7F11F313B4B1 | 1165  | 0     | 3.19   |
 | Seagate   | ST3320620AS        | 320 GB | FF272AA62C05 | 1165  | 0     | 3.19   |
 | Seagate   | ST3160023A         | 160 GB | AE77254CA0FC | 1164  | 0     | 3.19   |
+| WDC       | WD5000AAKX-08U6AA0 | 500 GB | 4EDA96B40D46 | 1164  | 0     | 3.19   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | AAC8A6DC9E8B | 1164  | 0     | 3.19   |
 | WDC       | WD1002FAEX-00Y9A0  | 1 TB   | 19BF247C9617 | 1164  | 0     | 3.19   |
 | WDC       | WD1500AHFD-00RAR5  | 150 GB | 3D697C14A78F | 1164  | 0     | 3.19   |
@@ -761,6 +768,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST2000DL003-9VT166 | 2 TB   | DF13DBA348AE | 1153  | 0     | 3.16   |
 | Samsung   | HD154UI            | 1.5 TB | 54FEDCBB5F69 | 1153  | 0     | 3.16   |
 | WDC       | WD3200BPVT-80JJ5T0 | 320 GB | 1552F7896EC6 | 1153  | 0     | 3.16   |
+| Hitachi   | HDS721050CLA660    | 500 GB | 58B3488305F5 | 1153  | 0     | 3.16   |
 | Maxtor    | STM3160215AS       | 160 GB | 71EDF2C2B290 | 1152  | 0     | 3.16   |
 | WDC       | WD5000AAKS-00YGA0  | 500 GB | 8611BD5A25D6 | 1152  | 0     | 3.16   |
 | Samsung   | HD080HJ            | 80 GB  | 4050A46B3446 | 1152  | 0     | 3.16   |
@@ -844,6 +852,7 @@ Rating — avg. rating per sample.
 | WDC       | WD7500AAKS-00RBA0  | 750 GB | 557943DA0759 | 1110  | 0     | 3.04   |
 | Samsung   | HM321HI            | 320 GB | 4C79E55C0252 | 1109  | 0     | 3.04   |
 | HGST      | HTS545050A7E380    | 500 GB | 92C5A3A5A352 | 1109  | 0     | 3.04   |
+| Seagate   | ST31000520AS       | 1 TB   | BBB88C4E72F5 | 1109  | 0     | 3.04   |
 | WDC       | WD1002FAEX-007BA0  | 1 TB   | B4712D00171B | 1108  | 0     | 3.04   |
 | WDC       | WD7500AACS-00D6B0  | 750 GB | 3BF99A0D654B | 1107  | 0     | 3.03   |
 | WDC       | WD10EADS-00P8B0    | 1 TB   | 2A95CF262E63 | 1107  | 0     | 3.03   |
@@ -892,6 +901,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA362    | 500 GB | 4C722EACC169 | 1086  | 0     | 2.98   |
 | Hitachi   | HDS721010CLA332    | 1 TB   | 9EF4B68200C6 | 1086  | 0     | 2.98   |
 | WDC       | WD800JD-00LSA0     | 80 GB  | A60B1A8FEA9F | 1085  | 0     | 2.97   |
+| Fujitsu   | MHY2120BH          | 120 GB | CD7DBA5B6053 | 1084  | 0     | 2.97   |
 | Hitachi   | HDS721010CLA332    | 1 TB   | FADEECD153DB | 1084  | 0     | 2.97   |
 | Seagate   | ST3250410AS        | 250 GB | F76F2C2ECE3A | 1084  | 0     | 2.97   |
 | Seagate   | ST3500418AS        | 500 GB | 1E68A5E9D362 | 1083  | 0     | 2.97   |
@@ -962,6 +972,7 @@ Rating — avg. rating per sample.
 | Maxtor    | STM3320620A        | 320 GB | 13FDBE83BB4A | 1058  | 0     | 2.90   |
 | Hitachi   | HDS721075KLA330    | 750 GB | C706726408FA | 1057  | 0     | 2.90   |
 | Seagate   | ST3250318AS        | 250 GB | F85652F60302 | 1057  | 0     | 2.90   |
+| WDC       | WD3200BPVT-35ZEST0 | 320 GB | 091E89FBB1C0 | 1057  | 0     | 2.90   |
 | WDC       | WD5000BEVT-00A0RT0 | 500 GB | A5ED13DC4A83 | 1056  | 0     | 2.90   |
 | WDC       | WD1600AAJS-00PSA0  | 160 GB | 3FF3EE8139AD | 1056  | 0     | 2.89   |
 | Samsung   | HD502HJ            | 500 GB | C7BADA662E20 | 1056  | 0     | 2.89   |
@@ -1010,7 +1021,9 @@ Rating — avg. rating per sample.
 | Hitachi   | HUA723020ALA640    | 2 TB   | 2B2C0336BFCE | 1033  | 0     | 2.83   |
 | WDC       | WD1600AAJS-22PSA0  | 160 GB | A71C77024FE2 | 1032  | 0     | 2.83   |
 | Seagate   | ST3250410AS        | 249 GB | 914913540439 | 1031  | 0     | 2.83   |
+| Seagate   | ST31000528AS       | 1 TB   | E65A02C2994D | 1031  | 0     | 2.83   |
 | WDC       | WD1600JS-00MHB0    | 160 GB | 635289C47662 | 1031  | 0     | 2.83   |
+| Seagate   | ST3160815AS        | 160 GB | 3A122397A408 | 1031  | 0     | 2.83   |
 | Samsung   | HD103SJ            | 1 TB   | 9460E4EB366C | 1031  | 0     | 2.82   |
 | Seagate   | ST3500418AS        | 500 GB | 9E7457D2CDD9 | 1030  | 0     | 2.82   |
 | Seagate   | ST3250312AS        | 250 GB | 776B24425282 | 1030  | 0     | 2.82   |
@@ -1233,6 +1246,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545032B9A300    | 320 GB | 99DEFD4417D0 | 949   | 0     | 2.60   |
 | WDC       | WD800BB-00JHC0     | 80 GB  | 0EBE0A48AA2D | 949   | 0     | 2.60   |
 | Samsung   | HD103SJ            | 1 TB   | CDE1AA36485F | 948   | 0     | 2.60   |
+| Seagate   | ST500DM002-1BD142  | 500 GB | 7F4138208954 | 948   | 0     | 2.60   |
 | Maxtor    | STM3250310AS       | 250 GB | 6706F423C28E | 948   | 0     | 2.60   |
 | Hitachi   | HDS721010CLA332    | 1 TB   | 7CC1FF651C4D | 947   | 0     | 2.60   |
 | Hitachi   | HDS721010DLE630    | 1 TB   | 7211DD0542FE | 947   | 0     | 2.60   |
@@ -1328,6 +1342,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD753LJ            | 750 GB | AF45A4A1E06B | 916   | 0     | 2.51   |
 | Hitachi   | HDP725050GLA360    | 500 GB | A8378EE62EB7 | 915   | 0     | 2.51   |
 | Toshiba   | MQ01ABD032         | 320 GB | B85150AC032A | 914   | 0     | 2.51   |
+| Seagate   | ST500DM002-1BD142  | 500 GB | A355FE71E66E | 914   | 0     | 2.51   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | D257C5B094A1 | 914   | 0     | 2.51   |
 | Seagate   | ST3500418AS        | 500 GB | 5F0EE6F4F41A | 914   | 0     | 2.50   |
 | WDC       | WD5000HHTZ-04N21V0 | 500 GB | 8BD5FF8A40FC | 913   | 0     | 2.50   |
@@ -1372,6 +1387,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10EARS-00Y5B1    | 1 TB   | 0C017D21B942 | 903   | 0     | 2.48   |
 | Samsung   | HD160JJ-P          | 160 GB | 7D6C88B47F90 | 903   | 0     | 2.48   |
 | Seagate   | ST3500418AS        | 500 GB | B9248F04CC28 | 903   | 0     | 2.48   |
+| WDC       | WD2500AAJS-22VWA0  | 250 GB | 5BEB1E70867B | 903   | 0     | 2.47   |
 | Seagate   | ST3320620A         | 320 GB | 38484BF01EA3 | 1806  | 1     | 2.47   |
 | WDC       | WD3200AAKX-001CA0  | 320 GB | EB4AE90472EB | 901   | 0     | 2.47   |
 | Seagate   | ST3160318AS        | 160 GB | B7DA171E3397 | 901   | 0     | 2.47   |
@@ -1582,6 +1598,7 @@ Rating — avg. rating per sample.
 | WDC       | WD6400AAKS-00A7B2  | 640 GB | 905A9256F337 | 840   | 0     | 2.30   |
 | Maxtor    | STM3320820AS       | 320 GB | 2E30BDD8D0E4 | 840   | 0     | 2.30   |
 | Samsung   | HD103SJ            | 1 TB   | 54D2849A89BD | 840   | 0     | 2.30   |
+| Seagate   | ST3200822AS        | 200 GB | 33A3AA6D5B0A | 840   | 0     | 2.30   |
 | WDC       | WD5000AZRX-00L4HB0 | 500 GB | C33C2C3917DF | 840   | 0     | 2.30   |
 | Samsung   | HD154UI            | 1.5 TB | FE596C7AF603 | 840   | 0     | 2.30   |
 | Seagate   | ST3320418AS        | 320 GB | 04D988622C88 | 839   | 0     | 2.30   |
@@ -1650,8 +1667,10 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 8B7A2157028A | 824   | 0     | 2.26   |
 | WDC       | WD6401AALS-00E3A0  | 640 GB | CB4E74C05318 | 824   | 0     | 2.26   |
 | Seagate   | ST3160318AS        | 160 GB | ABA3A695A868 | 823   | 0     | 2.26   |
+| Seagate   | ST320LM000 HM321HI | 320 GB | 3027427D4120 | 823   | 0     | 2.26   |
 | Maxtor    | STM380815AS        | 80 GB  | 21111D93EB0F | 823   | 0     | 2.26   |
 | Seagate   | ST9120822AS        | 120 GB | E5102E2961E6 | 822   | 0     | 2.25   |
+| WDC       | WD1600JB-00GVA0    | 160 GB | 6493B7A3E35E | 822   | 0     | 2.25   |
 | Hitachi   | HTS542525K9SA00    | 250 GB | 1116A6E37243 | 821   | 0     | 2.25   |
 | WDC       | WD2500BEVT-08A23T1 | 250 GB | 45BA43CC8CE5 | 821   | 0     | 2.25   |
 | WDC       | WD6400BPVT-80HXZT3 | 640 GB | 53BB6F0D4B5E | 821   | 0     | 2.25   |
@@ -1835,6 +1854,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160815AS        | 160 GB | A4A24E86A5E0 | 779   | 0     | 2.14   |
 | WDC       | WD2000JS-00MHB0    | 200 GB | 8372BABE374A | 779   | 0     | 2.14   |
 | Seagate   | ST31000524AS       | 1 TB   | 328E52B8B47E | 779   | 0     | 2.14   |
+| Seagate   | ST3160815AS        | 160 GB | 6443623A8897 | 779   | 0     | 2.14   |
 | Seagate   | ST3500413AS        | 500 GB | AF6340432705 | 779   | 0     | 2.14   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | 38415299B64C | 779   | 0     | 2.13   |
 | Seagate   | ST3200822AS        | 200 GB | 66F47CD2BEC2 | 778   | 0     | 2.13   |
@@ -1998,6 +2018,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3250310AS        | 250 GB | 5A287D433C12 | 744   | 0     | 2.04   |
 | Hitachi   | HDS721050CLA360    | 500 GB | C8CA72311EDD | 744   | 0     | 2.04   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 2AA06B141617 | 744   | 0     | 2.04   |
+| Seagate   | ST1000LM044 HN-... | 1 TB   | 32F68D03F970 | 744   | 0     | 2.04   |
 | Samsung   | HD253GJ            | 250 GB | F2B57888B6F8 | 744   | 0     | 2.04   |
 | Hitachi   | HTS545016B9A300    | 160 GB | DF4D2C3A00C2 | 744   | 0     | 2.04   |
 | Seagate   | ST3250824AS        | 250 GB | D3378D435993 | 743   | 0     | 2.04   |
@@ -2251,6 +2272,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160215A         | 160 GB | B06DA06F105A | 692   | 0     | 1.90   |
 | Seagate   | ST3300620AS        | 300 GB | AADD691A7C02 | 692   | 0     | 1.90   |
 | Fujitsu   | MHZ2160BH G2       | 160 GB | 79398E5D28D3 | 692   | 0     | 1.90   |
+| Seagate   | ST3160815AS        | 160 GB | 94B763CB6736 | 692   | 0     | 1.90   |
 | Seagate   | ST340014A          | 40 GB  | A36D2857F933 | 692   | 0     | 1.90   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 79A359A573FA | 691   | 0     | 1.90   |
 | Hitachi   | HTS545025B9A300    | 250 GB | 8FD292DAE106 | 691   | 0     | 1.89   |
@@ -2412,6 +2434,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS5C1050CLA382    | 500 GB | 90E944CA3828 | 661   | 0     | 1.81   |
 | WDC       | WD1200JD-00FYB0    | 120 GB | 2C92DEBC4C53 | 661   | 0     | 1.81   |
 | WDC       | WD1600AAJS-60PSA0  | 160 GB | 475C67D11431 | 661   | 0     | 1.81   |
+| Seagate   | ST3200827AS        | 200 GB | 93AAC4CA92B6 | 661   | 0     | 1.81   |
 | HGST      | HTS541010A9E680    | 1 TB   | CB49BC7C3CA0 | 661   | 0     | 1.81   |
 | Samsung   | HD105SI            | 1 TB   | 0D64A1C5F153 | 661   | 0     | 1.81   |
 | Toshiba   | MK6465GSX          | 640 GB | E9289338345E | 661   | 0     | 1.81   |
@@ -2549,6 +2572,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10EARS-00Y5B1    | 1 TB   | 58D91B46F321 | 640   | 0     | 1.75   |
 | Seagate   | ST3160815AS        | 160 GB | C4D43B8ED354 | 640   | 0     | 1.75   |
 | Seagate   | ST31000524AS       | 1 TB   | 6F7D4B90EDEF | 639   | 0     | 1.75   |
+| Seagate   | ST31000528AS       | 1 TB   | F872056FD260 | 639   | 0     | 1.75   |
 | WDC       | WD1600AAJB-00PVA0  | 160 GB | 0D117B2FD89A | 639   | 0     | 1.75   |
 | Seagate   | ST380815AS         | 80 GB  | EA33479A8048 | 639   | 0     | 1.75   |
 | Hitachi   | HTS545050B9A300    | 500 GB | D2B1AC76980B | 639   | 0     | 1.75   |
@@ -2589,6 +2613,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAKS-22SBA0  | 320 GB | 8B8E33674DD6 | 633   | 0     | 1.73   |
 | HGST      | HTS541010A9E680    | 1 TB   | 3089B93015FA | 632   | 0     | 1.73   |
 | Hitachi   | HDS728080PLAT20    | 82 GB  | B31068ECC53A | 632   | 0     | 1.73   |
+| WDC       | WD800BB-00FJA0     | 80 GB  | 4B5B792FCCB9 | 632   | 0     | 1.73   |
 | Maxtor    | STM3160815AS       | 160 GB | 862AA294F320 | 1895  | 2     | 1.73   |
 | WDC       | WD5000AAJS-00A8B0  | 500 GB | 5638D0EB1B0B | 631   | 0     | 1.73   |
 | WDC       | WD20EFRX-68AX9N0   | 2 TB   | C8437123AC08 | 631   | 0     | 1.73   |
@@ -2925,6 +2950,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5003ABYX-01WERA0 | 500 GB | 066E3FEF43CA | 1160  | 1     | 1.59   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 48289BFD92AC | 580   | 0     | 1.59   |
 | HGST      | HTS541075A9E680    | 750 GB | E9C6A7298A10 | 579   | 0     | 1.59   |
+| WDC       | WD5000LPVX-60V0TT0 | 500 GB | 34920C70F381 | 579   | 0     | 1.59   |
 | Samsung   | HD502HI            | 500 GB | 288705729CBB | 579   | 0     | 1.59   |
 | WDC       | WD7500BPKT-22PK4T0 | 750 GB | BA245B691672 | 579   | 0     | 1.59   |
 | Seagate   | ST3500418AS        | 500 GB | 59EA596252E3 | 579   | 0     | 1.59   |
@@ -3013,6 +3039,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160316AS        | 160 GB | 28AA08077CE1 | 568   | 0     | 1.56   |
 | WDC       | WD2500AAJS-08L7A0  | 250 GB | B6F0B4AA14AD | 568   | 0     | 1.56   |
 | WDC       | WD2500AAKX-00ERMA0 | 250 GB | 8E7D972CCCD5 | 568   | 0     | 1.56   |
+| Seagate   | ST3250620AS        | 250 GB | 0515BE35F975 | 568   | 0     | 1.56   |
 | Seagate   | ST3250820A         | 250 GB | 73A38F8D41C8 | 568   | 0     | 1.56   |
 | WDC       | WD2000JB-00GVA0    | 200 GB | A538A1BB0CA1 | 567   | 0     | 1.56   |
 | Seagate   | ST31000528AS       | 1 TB   | F3FD607B8410 | 567   | 0     | 1.56   |
@@ -3086,6 +3113,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160813AS        | 160 GB | B08F17E3F189 | 559   | 0     | 1.53   |
 | Seagate   | ST9250315AS        | 250 GB | 00FC059DC3E9 | 559   | 0     | 1.53   |
 | WDC       | WD20EARX-00PASB0   | 2 TB   | CD196A009FF9 | 559   | 0     | 1.53   |
+| Seagate   | STM3500418AS       | 500 GB | C097F9422D18 | 1677  | 2     | 1.53   |
 | WDC       | WD2500JB-98GVA0    | 250 GB | 91E608F714FD | 3354  | 5     | 1.53   |
 | Seagate   | ST3000DM001-1CH166 | 3 TB   | DC43812BA5E2 | 558   | 0     | 1.53   |
 | Seagate   | ST3500413AS        | 500 GB | A48A29D3D475 | 558   | 0     | 1.53   |
@@ -3164,6 +3192,8 @@ Rating — avg. rating per sample.
 | WDC       | WD2002FAEX-007BA0  | 2 TB   | 4A30BBD1B39D | 549   | 0     | 1.51   |
 | Seagate   | ST3320620AS        | 320 GB | E3BCD36DEFA7 | 1099  | 1     | 1.51   |
 | Toshiba   | MK3252GSX          | 320 GB | F03E2D6F6513 | 549   | 0     | 1.51   |
+| WDC       | WD10EZEX-00RKKA0   | 1 TB   | 619C14DE9F50 | 549   | 0     | 1.51   |
+| WDC       | WD10EZEX-60WN4A0   | 1 TB   | BBF833AF180B | 549   | 0     | 1.51   |
 | Seagate   | ST3500418AS        | 500 GB | F7D2A9C74E00 | 1647  | 2     | 1.50   |
 | WDC       | WD1600JS-00SGB0    | 160 GB | 1770FB4E8AE5 | 549   | 0     | 1.50   |
 | WDC       | WD2002FAEX-007BA0  | 2 TB   | E4C7B705302C | 549   | 0     | 1.50   |
@@ -3333,6 +3363,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS723232A7A364    | 320 GB | 2AC4CE989548 | 527   | 0     | 1.44   |
 | WDC       | WD10JPVX-16JC3T3   | 1 TB   | CE2010FE4C49 | 526   | 0     | 1.44   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | C65738B28DB3 | 526   | 0     | 1.44   |
+| Seagate   | ST500LM012 HN-M... | 500 GB | B11B2A5EC4B6 | 526   | 0     | 1.44   |
 | Seagate   | ST9750420AS        | 750 GB | 99B7DEC23CBD | 526   | 0     | 1.44   |
 | Samsung   | HD161HJ            | 160 GB | D6F84FF77102 | 526   | 0     | 1.44   |
 | Seagate   | ST9500420AS        | 500 GB | D62894C9F9F4 | 526   | 0     | 1.44   |
@@ -3374,6 +3405,7 @@ Rating — avg. rating per sample.
 | WDC       | WD1600JS-60MHB1    | 160 GB | 8225D33BF906 | 522   | 0     | 1.43   |
 | Maxtor    | 4K020H1            | 20 GB  | F3573FCA4E4A | 522   | 0     | 1.43   |
 | Toshiba   | DT01ACA100         | 1 TB   | 47E941C059BD | 522   | 0     | 1.43   |
+| Hitachi   | HDS721032CLA362    | 320 GB | 44DE7334BCBB | 521   | 0     | 1.43   |
 | Seagate   | ST640LM000 HM641JI | 640 GB | C2C4A844A521 | 521   | 0     | 1.43   |
 | WDC       | WD2500JS-60NCB2    | 250 GB | B23D8E6DF192 | 521   | 0     | 1.43   |
 | Seagate   | ST31000524AS       | 1 TB   | C78FFEB806DF | 521   | 0     | 1.43   |
@@ -3520,11 +3552,13 @@ Rating — avg. rating per sample.
 | Seagate   | ST9500420AS        | 500 GB | BA87BE5AE10C | 501   | 0     | 1.37   |
 | WDC       | WD3200BEVT-80A0RT0 | 320 GB | 15C66A68B185 | 501   | 0     | 1.37   |
 | Seagate   | ST3160811AS        | 160 GB | 3900C8E933CE | 501   | 0     | 1.37   |
+| Seagate   | ST500DM002-1BC142  | 500 GB | 23F3C70AD166 | 501   | 0     | 1.37   |
 | WDC       | WD10EZEX-00RKKA0   | 1 TB   | 6BD9345A8024 | 501   | 0     | 1.37   |
 | HP        | VB0250EAVER        | 250 GB | A6A188B431FB | 501   | 0     | 1.37   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | E99ADB2A6BA6 | 501   | 0     | 1.37   |
 | WDC       | WD7502AAEX-00Y9A0  | 750 GB | DC2FED294FEF | 500   | 0     | 1.37   |
 | Hitachi   | HTS547550A9E384    | 500 GB | 478664EDAF5C | 500   | 0     | 1.37   |
+| Seagate   | ST640LM000 HM641JI | 640 GB | 2B7E021A6083 | 500   | 0     | 1.37   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 2A6FF41F6DE4 | 500   | 0     | 1.37   |
 | Seagate   | ST31000524AS       | 1 TB   | A7AB284941C3 | 500   | 0     | 1.37   |
 | Seagate   | ST9250827AS        | 250 GB | 2E30F49195EE | 500   | 0     | 1.37   |
@@ -3584,6 +3618,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3400620A         | 400 GB | 1D37EA2D969A | 493   | 0     | 1.35   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 154AB8C991FB | 493   | 0     | 1.35   |
 | WDC       | WD6000HLHX-01JJPV0 | 600 GB | FC6D6E356FDC | 493   | 0     | 1.35   |
+| Seagate   | ST380815AS         | 80 GB  | F6DD108D1369 | 493   | 0     | 1.35   |
 | Seagate   | ST9250315AS        | 250 GB | 2838DF6BFFEA | 493   | 0     | 1.35   |
 | Seagate   | ST500DM002-1BC142  | 500 GB | 787B98F913DA | 493   | 0     | 1.35   |
 | Samsung   | HD103SJ            | 1 TB   | B11073EC03E4 | 493   | 0     | 1.35   |
@@ -3939,6 +3974,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2500BEVS-22UST0  | 250 GB | 7865D4BAEC4C | 455   | 0     | 1.25   |
 | WDC       | WD3200BEVT-60A23T0 | 320 GB | 652359F20AF4 | 455   | 0     | 1.25   |
 | Hitachi   | HDP725050GLA360    | 500 GB | CA4F5C399434 | 455   | 0     | 1.25   |
+| WDC       | WD10EZRX-00L4HB0   | 1 TB   | 6ECD7168C894 | 455   | 0     | 1.25   |
 | WDC       | WD2500AABS-00SDA0  | 250 GB | 641BD9447D61 | 455   | 0     | 1.25   |
 | Seagate   | ST3250310AS        | 250 GB | BF9091CE7F1F | 909   | 1     | 1.25   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 72AC42E4E9E3 | 454   | 0     | 1.25   |
@@ -3962,6 +3998,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS541075A9E680    | 750 GB | 489753CADA07 | 453   | 0     | 1.24   |
 | WDC       | WD10EZEX-00RKKA0   | 1 TB   | D7F51B61484D | 453   | 0     | 1.24   |
 | Seagate   | ST250DM000-1BD141  | 250 GB | 5302CD97909A | 453   | 0     | 1.24   |
+| Seagate   | ST3160318AS        | 160 GB | 77CACF818830 | 453   | 0     | 1.24   |
 | Samsung   | HD502HJ            | 500 GB | 38A49633D444 | 906   | 1     | 1.24   |
 | Seagate   | ST500LM012 HN-M... | 500 GB | D688C627BB22 | 453   | 0     | 1.24   |
 | WDC       | WD3200AAJS-60Z0A0  | 320 GB | A49033F30B4A | 453   | 0     | 1.24   |
@@ -4084,6 +4121,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK1637GSX          | 160 GB | F9BB63BCCD57 | 440   | 0     | 1.21   |
 | Seagate   | ST31000524AS       | 1 TB   | 98BF0A1676C6 | 440   | 0     | 1.21   |
 | WDC       | WD7501AALS-00J7B1  | 750 GB | 89ABF393CC9A | 2199  | 4     | 1.21   |
+| Toshiba   | DT01ACA050         | 500 GB | B358152C9FEA | 439   | 0     | 1.20   |
 | WDC       | WD3200AAJB-00J3A0  | 320 GB | B2714F4203BB | 439   | 0     | 1.20   |
 | Seagate   | ST9750420AS        | 750 GB | 2EA8815EC480 | 439   | 0     | 1.20   |
 | WDC       | WD2500BEVT-22A23T0 | 250 GB | A101DDA1DF0D | 439   | 0     | 1.20   |
@@ -4348,6 +4386,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 00AE907FBF71 | 415   | 0     | 1.14   |
 | WDC       | WD1003FZEX-00MK2A0 | 1 TB   | C9215E76AA24 | 415   | 0     | 1.14   |
 | Seagate   | ST3250823A         | 250 GB | 40FD51F75C62 | 415   | 0     | 1.14   |
+| Seagate   | ST380011A          | 80 GB  | 77915D62506B | 415   | 0     | 1.14   |
 | WDC       | WD10EARS-00MVWB0   | 1 TB   | 773798722579 | 415   | 0     | 1.14   |
 | Seagate   | ST31000528AS       | 1 TB   | DE9C107A279D | 414   | 0     | 1.14   |
 | Seagate   | ST31000524AS       | 1 TB   | BF341E61C638 | 414   | 0     | 1.14   |
@@ -4390,6 +4429,7 @@ Rating — avg. rating per sample.
 | Maxtor    | 6V320F0            | 320 GB | 924A3C08FC51 | 410   | 0     | 1.13   |
 | WDC       | WD3200AAKS-75L9A0  | 320 GB | C2A27F3F16C4 | 410   | 0     | 1.12   |
 | WDC       | WD3200AAKS-75L9A0  | 320 GB | 9EBC366A9045 | 410   | 0     | 1.12   |
+| Seagate   | ST2000DM006-2DM164 | 2 TB   | 6607C421A27F | 410   | 0     | 1.12   |
 | WDC       | WD5000LPVX-80V0TT0 | 500 GB | 1B9171F08416 | 410   | 0     | 1.12   |
 | WDC       | WD1600BEVT-22A23T0 | 160 GB | F324A5644DDC | 409   | 0     | 1.12   |
 | WDC       | WD10EZEX-08RKKA0   | 1 TB   | 9217A0E7F0C7 | 409   | 0     | 1.12   |
@@ -4440,6 +4480,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000HHTZ-04N21V0 | 500 GB | 2FB7CD4DA117 | 405   | 0     | 1.11   |
 | Hitachi   | HDS5C1010CLA382    | 1 TB   | 654261FBD206 | 405   | 0     | 1.11   |
 | WDC       | WD5000BPVT-08HXZT3 | 500 GB | 1C3F325B43A8 | 405   | 0     | 1.11   |
+| Seagate   | ST3160811AS        | 160 GB | 310D7AD1A2F7 | 1216  | 2     | 1.11   |
 | Seagate   | ST3000VX000-9YW166 | 3 TB   | 90B61F83019E | 405   | 0     | 1.11   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | 63826FB158F5 | 405   | 0     | 1.11   |
 | WDC       | WD1002FAEX-00Y9A0  | 1 TB   | 9B63A3337C37 | 405   | 0     | 1.11   |
@@ -4452,6 +4493,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 9919540486B9 | 404   | 0     | 1.11   |
 | WDC       | WD6400BPVT-80HXZT3 | 640 GB | 132EC32918C5 | 404   | 0     | 1.11   |
 | Hitachi   | HTS545025B9A300    | 250 GB | 50ECC6FA53F4 | 404   | 0     | 1.11   |
+| Seagate   | ST380013AS         | 80 GB  | FBC89EA2C87E | 2427  | 5     | 1.11   |
 | WDC       | WD2500AAJS-00L7A0  | 250 GB | FF8096E10AE3 | 404   | 0     | 1.11   |
 | Seagate   | ST9320325AS        | 320 GB | A2103891AD41 | 404   | 0     | 1.11   |
 | Toshiba   | MQ01ABD032         | 320 GB | 16DD4DB4B129 | 404   | 0     | 1.11   |
@@ -4511,6 +4553,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2500JS-22MHB0    | 250 GB | 5078A8705F76 | 399   | 0     | 1.10   |
 | WDC       | WD1600BEVT-80A23T0 | 160 GB | 94FC424DC19E | 399   | 0     | 1.10   |
 | WDC       | WD1600BJKT-75F4T0  | 160 GB | 40324BFDE173 | 399   | 0     | 1.10   |
+| Seagate   | ST1000LM024 HN-... | 1 TB   | DD8AA875699C | 399   | 0     | 1.09   |
 | Seagate   | ST1000NM0033-9Z... | 1 TB   | E5AD51589DE1 | 399   | 0     | 1.09   |
 | Seagate   | ST750LM022 HN-M... | 750 GB | D3819DB7EEBA | 399   | 0     | 1.09   |
 | Seagate   | ST250DM000-1BC141  | 250 GB | 55E9DFF5941A | 399   | 0     | 1.09   |
@@ -4587,6 +4630,7 @@ Rating — avg. rating per sample.
 | WDC       | WD1200BEVS-07RST0  | 120 GB | 56DE5F281D3E | 393   | 0     | 1.08   |
 | Seagate   | ST1000DM003-9YN162 | 1 TB   | 5B8716FC4AFE | 393   | 0     | 1.08   |
 | Seagate   | ST340014A          | 40 GB  | E8378BAB6ADD | 1180  | 2     | 1.08   |
+| Seagate   | ST380012ACE        | 80 GB  | A04BF4C0B893 | 393   | 0     | 1.08   |
 | WDC       | WD1200JB-00GVA0    | 120 GB | 87CB7B4636D7 | 393   | 0     | 1.08   |
 | WDC       | WD2500AAKX-001CA0  | 250 GB | 3B8CDD9E638E | 393   | 0     | 1.08   |
 | WDC       | WD10EARX-00N0YB0   | 1 TB   | 89C5808C4566 | 393   | 0     | 1.08   |
@@ -4613,6 +4657,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST1000VX000-1CU162 | 1 TB   | 6E7E17A2ED23 | 391   | 0     | 1.07   |
 | Seagate   | ST1000DM003-9YN162 | 1 TB   | 8AFA4764BC63 | 391   | 0     | 1.07   |
 | Seagate   | ST2000DM001-9YN164 | 2 TB   | 6AB34216F8FB | 391   | 0     | 1.07   |
+| Seagate   | ST3160815AS        | 160 GB | 70645934610E | 391   | 0     | 1.07   |
 | Toshiba   | DT01ACA100         | 1 TB   | DA17AE365E2E | 391   | 0     | 1.07   |
 | Seagate   | ST3320620AS        | 320 GB | B082492FD2C8 | 1172  | 2     | 1.07   |
 | WDC       | WD10EARX-00N0YB0   | 1 TB   | DE9C95B03D8A | 390   | 0     | 1.07   |
@@ -4727,8 +4772,10 @@ Rating — avg. rating per sample.
 | Seagate   | ST32000641AS       | 2 TB   | FBAC9DAD45CC | 381   | 0     | 1.05   |
 | Toshiba   | MK8032GSX          | 80 GB  | A8F58855E8E0 | 381   | 0     | 1.04   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | B14AC3EE3BE1 | 381   | 0     | 1.04   |
+| Samsung   | HD642JJ            | 640 GB | C5A9F5F64FD8 | 381   | 0     | 1.04   |
 | WDC       | WD10EZEX-00BN5A0   | 1 TB   | DAD4BE75853D | 381   | 0     | 1.04   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 1FA524BACC1D | 381   | 0     | 1.04   |
+| Samsung   | HD252HJ            | 250 GB | D60D2A75DA85 | 381   | 0     | 1.04   |
 | WDC       | WD10JPVT-08A1YT2   | 1 TB   | 479DCC286EF4 | 380   | 0     | 1.04   |
 | Samsung   | HM321HI            | 320 GB | 6E061F2906BA | 380   | 0     | 1.04   |
 | Hitachi   | HDS721680PLAT80    | 82 GB  | 958388A7AD54 | 380   | 0     | 1.04   |
@@ -4970,6 +5017,7 @@ Rating — avg. rating per sample.
 | WDC       | WD20EARS-00J99B0   | 2 TB   | 2CFEA95F3828 | 362   | 0     | 0.99   |
 | WDC       | WD2500BJKT-00F4T0  | 250 GB | 2B60F13D986D | 362   | 0     | 0.99   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 9F0D158A8F81 | 362   | 0     | 0.99   |
+| Hitachi   | HDS721050CLA362    | 500 GB | 586E50B47389 | 1813  | 4     | 0.99   |
 | Toshiba   | DT01ACA100         | 1 TB   | 08F95EA2A38C | 362   | 0     | 0.99   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 2DD84F073C46 | 362   | 0     | 0.99   |
 | WDC       | WD2500AAJS-00VTA0  | 250 GB | 21EB3350B2E3 | 362   | 0     | 0.99   |
@@ -5227,6 +5275,7 @@ Rating — avg. rating per sample.
 | WDC       | WD740GD-00FLA0     | 74 GB  | 1B2B5E424858 | 2395  | 6     | 0.94   |
 | Maxtor    | STM3250310AS       | 250 GB | A43DA2EC6475 | 342   | 0     | 0.94   |
 | Toshiba   | DT01ACA100         | 1 TB   | 1613969B65EF | 342   | 0     | 0.94   |
+| WDC       | WD1600BEVS-60RST0  | 160 GB | 28AFC7B2B5E8 | 342   | 0     | 0.94   |
 | Hitachi   | HTS542516K9SA00    | 160 GB | 7FB8A6801B33 | 341   | 0     | 0.94   |
 | Seagate   | ST3160815A         | 160 GB | 7E32984A0FEC | 341   | 0     | 0.94   |
 | WDC       | WD7500BPKX-22HPJT0 | 750 GB | 6CF9346F4A8C | 341   | 0     | 0.94   |
@@ -5287,6 +5336,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AZRX-00A8LB0 | 320 GB | 59BC5482C4CD | 338   | 0     | 0.93   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 09B655DD8B24 | 338   | 0     | 0.93   |
 | HGST      | HUS724020ALA640    | 2 TB   | 6FFD2E4A62E4 | 338   | 0     | 0.93   |
+| Seagate   | ST1000DM003-1CH162 | 1 TB   | 2709445B08D8 | 338   | 0     | 0.93   |
 | Seagate   | ST31000524AS       | 1 TB   | 2286D000B984 | 338   | 0     | 0.93   |
 | Toshiba   | DT01ACA050         | 500 GB | C209F1B26BB0 | 338   | 0     | 0.93   |
 | WDC       | WD10EADS-22M2B0    | 1 TB   | DF4297C91840 | 675   | 1     | 0.93   |
@@ -5317,6 +5367,7 @@ Rating — avg. rating per sample.
 | Samsung   | HM250HI            | 250 GB | FBACAB32F1D8 | 335   | 0     | 0.92   |
 | Samsung   | HD502HJ            | 500 GB | FC895DD45149 | 335   | 0     | 0.92   |
 | Seagate   | ST3250820AS        | 250 GB | 534E3C7C8B7A | 1007  | 2     | 0.92   |
+| WDC       | WD5000AAKX-00U6AA0 | 500 GB | 475ABD687438 | 335   | 0     | 0.92   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 534E1A16329A | 335   | 0     | 0.92   |
 | Seagate   | ST3500418AS        | 500 GB | B4B46E76715F | 335   | 0     | 0.92   |
 | WDC       | WD5000AZRX-00L4HB0 | 500 GB | 91619E68BEAD | 335   | 0     | 0.92   |
@@ -5353,6 +5404,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3250820NS        | 250 GB | 893E7B9BDCA5 | 999   | 2     | 0.91   |
 | WDC       | WD2500BEVT-22A23T0 | 250 GB | 2768F6724622 | 333   | 0     | 0.91   |
 | Seagate   | ST31000528AS       | 1 TB   | 34266E250457 | 333   | 0     | 0.91   |
+| Toshiba   | DT01ACA100         | 1 TB   | 891565E314E2 | 333   | 0     | 0.91   |
 | Hitachi   | HTS547564A9E384    | 640 GB | 6740D87D72DD | 666   | 1     | 0.91   |
 | Samsung   | HD161HJ            | 160 GB | 3C8DB0FEF39A | 2330  | 6     | 0.91   |
 | WDC       | WD2500BEKT-60A25T1 | 250 GB | 3058D52FF334 | 332   | 0     | 0.91   |
@@ -5430,9 +5482,11 @@ Rating — avg. rating per sample.
 | Hitachi   | HDT725032VLA360    | 320 GB | 6388CB4AE7E5 | 326   | 0     | 0.90   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 6A939D3C3A58 | 326   | 0     | 0.90   |
 | WDC       | WD1600BEVS-26VAT0  | 160 GB | 2CDD37A96DE6 | 326   | 0     | 0.89   |
+| Samsung   | HM321HI            | 320 GB | A896062D922C | 326   | 0     | 0.89   |
 | Hitachi   | HDP725025GLA380    | 250 GB | 8B41FE468B20 | 326   | 0     | 0.89   |
 | WDC       | WD5000LPLX-66ZNTT0 | 500 GB | 4829C13127AA | 326   | 0     | 0.89   |
 | WDC       | WD5000BEVT-22A0RT0 | 500 GB | 814A13E57B9E | 326   | 0     | 0.89   |
+| Seagate   | ST3200827AS        | 200 GB | 7550F7BB2B46 | 326   | 0     | 0.89   |
 | WDC       | WD1600BEVT-22ZCT0  | 160 GB | E28AD405115E | 326   | 0     | 0.89   |
 | WDC       | WD800BB-22JHC0     | 80 GB  | 848F6FB72DAB | 326   | 0     | 0.89   |
 | Toshiba   | MQ01ABD075         | 750 GB | 71885458E426 | 326   | 0     | 0.89   |
@@ -5455,6 +5509,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3500413AS        | 500 GB | 7868D976EBE5 | 650   | 1     | 0.89   |
 | WDC       | WD5000AADS-00S9B0  | 500 GB | 46B9CB07217A | 325   | 0     | 0.89   |
 | Seagate   | ST96812A           | 60 GB  | 9347D7F61F60 | 325   | 0     | 0.89   |
+| Seagate   | ST31000524AS       | 1 TB   | 61AC32CC8240 | 325   | 0     | 0.89   |
 | Samsung   | HD105SI            | 1 TB   | 4F44C2F0D3B5 | 325   | 0     | 0.89   |
 | Hitachi   | HTS545050B9A300    | 500 GB | 5F9AFBEA44DB | 324   | 0     | 0.89   |
 | WDC       | WD2500YS-01SHB1    | 250 GB | F993732EEDE6 | 324   | 0     | 0.89   |
@@ -5719,6 +5774,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545025B9SA02    | 250 GB | F65F19B92B73 | 306   | 0     | 0.84   |
 | WDC       | WD2500BEVT-75A23T0 | 250 GB | D6F01FAB4470 | 306   | 0     | 0.84   |
 | WDC       | WD400BB-00JHA0     | 40 GB  | 503DA11C22A0 | 1836  | 5     | 0.84   |
+| Seagate   | ST340016A          | 40 GB  | 285312DCE31B | 306   | 0     | 0.84   |
 | WDC       | WD10EZEX-00BN5A0   | 1 TB   | AA93ADF4BCD9 | 306   | 0     | 0.84   |
 | WDC       | WD7500BPVT-22HXZT3 | 750 GB | A96B87DC7EE5 | 306   | 0     | 0.84   |
 | Toshiba   | MQ01ABD100         | 1 TB   | AAD5C2581AE7 | 305   | 0     | 0.84   |
@@ -5806,8 +5862,11 @@ Rating — avg. rating per sample.
 | WDC       | WD600BEAS-22KZT0   | 60 GB  | 3864F917EAA1 | 300   | 0     | 0.82   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 401E77CFDD9E | 300   | 0     | 0.82   |
 | WDC       | WD1002FAEX-00Z3A0  | 1 TB   | CB406CBBD853 | 299   | 0     | 0.82   |
+| Seagate   | ST3000DM001-1CH166 | 3 TB   | CE6635B9B9C1 | 299   | 0     | 0.82   |
+| WDC       | WD20EARS-00J99B0   | 2 TB   | 0183F5282C15 | 299   | 0     | 0.82   |
 | WDC       | WD800AAJS-22PSA0   | 80 GB  | 545CD436E4D8 | 299   | 0     | 0.82   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | 366F373F89B5 | 299   | 0     | 0.82   |
+| WDC       | WD20EARX-00PASB0   | 2 TB   | 33DDFA54A898 | 299   | 0     | 0.82   |
 | Hitachi   | HTS547550A9E384    | 500 GB | 8BB6C25405B8 | 299   | 0     | 0.82   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | C481C04995E6 | 299   | 0     | 0.82   |
 | Fujitsu   | MHZ2250BH G2       | 250 GB | 6CDDA85D5762 | 299   | 0     | 0.82   |
@@ -6012,6 +6071,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD103SI            | 1 TB   | CD0AADFD2523 | 1138  | 3     | 0.78   |
 | WDC       | WD2500BEKT-00PVMT0 | 250 GB | 43AD5929D2F3 | 284   | 0     | 0.78   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | CA572E72759E | 284   | 0     | 0.78   |
+| WDC       | WD10EZEX-00RKKA0   | 1 TB   | 82937B4F0316 | 284   | 0     | 0.78   |
 | WDC       | WD2500BEVT-60ZCT1  | 250 GB | 09D1670C651F | 284   | 0     | 0.78   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 834F185E9ABB | 284   | 0     | 0.78   |
 | Toshiba   | DT01ACA100         | 1 TB   | B75F126E896C | 284   | 0     | 0.78   |
@@ -6063,6 +6123,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160811AS        | 160 GB | AF82DB603A2D | 281   | 0     | 0.77   |
 | Seagate   | ST2000DL003-9VT166 | 2 TB   | D727B2F397D9 | 281   | 0     | 0.77   |
 | WDC       | WD1200BEVT-22ZCT0  | 120 GB | BE331D11D1A0 | 281   | 0     | 0.77   |
+| WDC       | WD20EZRX-00D8PB0   | 2 TB   | 0B7CAF34B5E7 | 562   | 1     | 0.77   |
 | Seagate   | ST31000524AS       | 1 TB   | 5428D3DD9317 | 281   | 0     | 0.77   |
 | WDC       | WD30EFRX-68EUZN0   | 3 TB   | C8DF8CF8EAEE | 280   | 0     | 0.77   |
 | Samsung   | HM500JI            | 500 GB | 5BCA29A9D2F6 | 280   | 0     | 0.77   |
@@ -6099,6 +6160,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS547550A9E384    | 500 GB | 1B9CFF27FF2E | 278   | 0     | 0.76   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 67B5C8524243 | 278   | 0     | 0.76   |
 | Hitachi   | HTS727575A9E364    | 750 GB | 9942AB962589 | 278   | 0     | 0.76   |
+| WDC       | WD30EZRX-00DC0B0   | 3 TB   | 71F761229C22 | 278   | 0     | 0.76   |
 | Seagate   | ST380817AS         | 80 GB  | 6A4F2F6FB797 | 278   | 0     | 0.76   |
 | WDC       | WD5000AAKX-60U6AA0 | 500 GB | F8F218412A0E | 278   | 0     | 0.76   |
 | WDC       | WD1600BEVT-80A23T0 | 160 GB | F29D8B579A42 | 278   | 0     | 0.76   |
@@ -6298,6 +6360,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721010CLA332    | 1 TB   | 4B07C789BF61 | 799   | 2     | 0.73   |
 | Seagate   | ST3160815AS        | 160 GB | 1B1E366F68F8 | 532   | 1     | 0.73   |
 | WDC       | WD20EARS-00MVWB0   | 2 TB   | D4B2D6AFA883 | 266   | 0     | 0.73   |
+| WDC       | WD10EZEX-00KUWA0   | 1 TB   | 3C9D55F78FE3 | 266   | 0     | 0.73   |
 | Seagate   | ST2000DM001-1CH164 | 2 TB   | 8D0CF6E74A1F | 266   | 0     | 0.73   |
 | WDC       | WD1001FALS-00J7B0  | 1 TB   | 17EB80058862 | 266   | 0     | 0.73   |
 | HGST      | HTS545032A7E680    | 320 GB | 0D0134E94BD1 | 265   | 0     | 0.73   |
@@ -6374,6 +6437,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LM000-1EJ162  | 500 GB | 626D11E55933 | 786   | 2     | 0.72   |
 | Seagate   | ST1000DM010-2EP102 | 1 TB   | 5CC9754906C8 | 262   | 0     | 0.72   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 89203F144199 | 262   | 0     | 0.72   |
+| WDC       | WD800AAJS-00PSA0   | 80 GB  | EC684D53449D | 262   | 0     | 0.72   |
 | Toshiba   | MK3265GSX          | 320 GB | A66EE14D2020 | 262   | 0     | 0.72   |
 | WDC       | WD5000AAKX-08U6AA0 | 500 GB | 4108EE11F603 | 262   | 0     | 0.72   |
 | WDC       | WD10EZEX-75ZF5A0   | 1 TB   | 1DF3587F7731 | 262   | 0     | 0.72   |
@@ -6418,6 +6482,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDP725025GLA380    | 250 GB | D1FF1FFBB2AB | 259   | 0     | 0.71   |
 | Seagate   | ST3500418AS        | 500 GB | AD3052AE9A01 | 778   | 2     | 0.71   |
 | HGST      | HTS721010A9E630    | 1 TB   | 67B579F1B05D | 259   | 0     | 0.71   |
+| Seagate   | ST330013A          | 30 GB  | 1CBA62309681 | 259   | 0     | 0.71   |
 | WDC       | WD2500BEVS-22UST0  | 250 GB | 1B4AA5D07677 | 259   | 0     | 0.71   |
 | Hitachi   | HTS545025B9SA02    | 250 GB | 19A476B6E2AF | 259   | 0     | 0.71   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 25773C6C1A41 | 259   | 0     | 0.71   |
@@ -6466,6 +6531,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3120026A         | 120 GB | A239D1CA213E | 2308  | 8     | 0.70   |
 | Hitachi   | HTS543216A7A384    | 160 GB | 0B77D13262B3 | 256   | 0     | 0.70   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | A21E90329E53 | 256   | 0     | 0.70   |
+| Seagate   | ST750LM022 HN-M... | 750 GB | 179318C87D40 | 512   | 1     | 0.70   |
 | Seagate   | ST380811AS         | 80 GB  | B1063613817B | 256   | 0     | 0.70   |
 | Hitachi   | HDS721050CLA362    | 500 GB | 388D7DB8865E | 255   | 0     | 0.70   |
 | Seagate   | ST2000DM001-1CH164 | 2 TB   | 41BF8DDDD8D1 | 255   | 0     | 0.70   |
@@ -6545,6 +6611,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDT725032VLA360    | 320 GB | 73F8495B9AB5 | 1261  | 4     | 0.69   |
 | Seagate   | ST980811AS         | 80 GB  | 3726A21830FE | 252   | 0     | 0.69   |
 | Seagate   | ST3500413AS        | 500 GB | E91850335656 | 252   | 0     | 0.69   |
+| Seagate   | ST3500312CS        | 500 GB | F56F180F85B4 | 252   | 0     | 0.69   |
 | Seagate   | ST3750640NS        | 750 GB | F7C6AD25D252 | 1260  | 4     | 0.69   |
 | WDC       | WD7500BPVX-22JC3T0 | 750 GB | 64AC64A08CC4 | 252   | 0     | 0.69   |
 | Maxtor    | STM3250310AS       | 250 GB | E8CFB6A3779B | 251   | 0     | 0.69   |
@@ -6567,11 +6634,13 @@ Rating — avg. rating per sample.
 | WDC       | WD2000FYYZ-01UL1B1 | 2 TB   | 67666A9500FD | 502   | 1     | 0.69   |
 | Hitachi   | HDP725050GLA360    | 500 GB | CEE7C657538F | 1255  | 4     | 0.69   |
 | Seagate   | ST3250820AS        | 250 GB | 1B0809635D55 | 251   | 0     | 0.69   |
+| Seagate   | ST500LM012 HN-M... | 500 GB | 48498BD7E8EF | 251   | 0     | 0.69   |
 | WDC       | WD7501AALS-00E3A0  | 750 GB | FB3E5C2D12B1 | 251   | 0     | 0.69   |
 | Seagate   | ST1000VX000-1CU162 | 1 TB   | AEC1CD04AF8E | 251   | 0     | 0.69   |
 | WDC       | WD10EARS-00MVWB0   | 1 TB   | 0CD038C9E7F5 | 250   | 0     | 0.69   |
 | Seagate   | ST3320620A         | 320 GB | 3954B2413F6D | 250   | 0     | 0.69   |
 | Seagate   | ST3500413AS        | 500 GB | 94FBE4D9D310 | 250   | 0     | 0.69   |
+| Fujitsu   | MHW2080BH PL       | 80 GB  | F0FB8CC9E370 | 250   | 0     | 0.69   |
 | Seagate   | ST1000VX000-1ES162 | 1 TB   | A693D9AB9BE1 | 250   | 0     | 0.69   |
 | Seagate   | ST32000542AS       | 2 TB   | 66923CD7DF28 | 250   | 0     | 0.69   |
 | Seagate   | ST9500423AS        | 500 GB | 490B9FE4F221 | 249   | 0     | 0.68   |
@@ -6734,6 +6803,7 @@ Rating — avg. rating per sample.
 | WDC       | WD1600BEVS-22RST0  | 160 GB | 849D9234FB02 | 241   | 0     | 0.66   |
 | Maxtor    | STM3160815AS       | 160 GB | 48F4C2A93CFC | 241   | 0     | 0.66   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 04459D3952F4 | 241   | 0     | 0.66   |
+| WDC       | WD40EFRX-68WT0N0   | 4 TB   | CFE22F81CB90 | 241   | 0     | 0.66   |
 | Seagate   | ST250DM000-1BC141  | 250 GB | CDC12A36B848 | 241   | 0     | 0.66   |
 | WDC       | WD1600BEVS-07RST0  | 160 GB | 50BA425806B5 | 241   | 0     | 0.66   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | 7A67DE279BF7 | 241   | 0     | 0.66   |
@@ -6775,6 +6845,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10EZEX-60ZF5A0   | 1 TB   | 0BF8F10EC3DB | 238   | 0     | 0.65   |
 | Seagate   | ST750LM022 HN-M... | 750 GB | 82ED56863677 | 238   | 0     | 0.65   |
 | Hitachi   | HDS721032CLA362    | 320 GB | BA1DD0CE4F6B | 238   | 0     | 0.65   |
+| Seagate   | ST320LT020-9YG142  | 320 GB | 12014EF1127C | 714   | 2     | 0.65   |
 | Seagate   | ST3250410AS        | 250 GB | 768405C7CBC0 | 238   | 0     | 0.65   |
 | WDC       | WD2500AAJS-60Z0A0  | 250 GB | F597F6B6860F | 237   | 0     | 0.65   |
 | Hitachi   | HTS541010G9SA00    | 100 GB | 529EA6C1D2CB | 237   | 0     | 0.65   |
@@ -6918,6 +6989,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST1000DM003-1SB102 | 1 TB   | 7A7F565F6CC5 | 229   | 0     | 0.63   |
 | HGST      | HTS541010A9E680    | 1 TB   | ECC7D76B5105 | 229   | 0     | 0.63   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | FBFF5062726D | 229   | 0     | 0.63   |
+| WDC       | WD10EZEX-00BN5A0   | 1 TB   | 3BE28B1183F6 | 229   | 0     | 0.63   |
 | Toshiba   | DT01ACA100         | 1 TB   | 9D3EE69ED999 | 229   | 0     | 0.63   |
 | WDC       | WD3200BPVT-24ZEST0 | 320 GB | E75E178A5213 | 229   | 0     | 0.63   |
 | WDC       | WD3200BEKX-00B7WT0 | 320 GB | 799BD4AC2372 | 229   | 0     | 0.63   |
@@ -6979,6 +7051,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3250820A         | 250 GB | F563659C65DF | 225   | 0     | 0.62   |
 | WDC       | WD5000BPKT-00PK4T0 | 500 GB | AB3D89AADC1E | 225   | 0     | 0.62   |
 | Seagate   | ST3160212AS        | 160 GB | E82863923CB6 | 225   | 0     | 0.62   |
+| WDC       | WD10EZEX-08WN4A0   | 1 TB   | 4EE85397F485 | 224   | 0     | 0.62   |
 | Toshiba   | MK5076GSXN         | 500 GB | 97280B63CE03 | 224   | 0     | 0.62   |
 | WDC       | WD10EARS-003BB1    | 1 TB   | F9BA2A021AF3 | 224   | 0     | 0.62   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | C2E0B370B119 | 224   | 0     | 0.62   |
@@ -7107,6 +7180,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS721075A9E630    | 750 GB | 8CB2773FB8B5 | 217   | 0     | 0.60   |
 | Seagate   | ST750LM022 HN-M... | 750 GB | B6DDDFAEBCDD | 217   | 0     | 0.60   |
 | WDC       | WD5000LPVT-16G33T0 | 500 GB | DE548101C371 | 217   | 0     | 0.60   |
+| Toshiba   | HDWD110            | 1 TB   | 34408818A338 | 217   | 0     | 0.60   |
 | WDC       | WD3200AAJB-00J3A0  | 320 GB | 5BF27B0EFA88 | 217   | 0     | 0.60   |
 | Seagate   | ST250DM000-1BD141  | 250 GB | 4F61CD86BB3A | 435   | 1     | 0.60   |
 | HGST      | HTS545050A7E380    | 500 GB | 30B2890B1DA3 | 217   | 0     | 0.60   |
@@ -7546,6 +7620,7 @@ Rating — avg. rating per sample.
 | Toshiba   | DT01ACA200         | 2 TB   | 43E4734D58D7 | 193   | 0     | 0.53   |
 | WDC       | WD3200AAKX-001CA0  | 320 GB | 09C4F69CA16C | 193   | 0     | 0.53   |
 | Seagate   | ST9160310AS        | 160 GB | C0DEE9FD73FA | 193   | 0     | 0.53   |
+| Seagate   | ST1000DM010-2EP102 | 1 TB   | 8A3E45DE87BA | 193   | 0     | 0.53   |
 | WDC       | WD5000AAKS-00UU3A0 | 500 GB | 073D892D29E0 | 580   | 2     | 0.53   |
 | Seagate   | ST4000DM000-1F2168 | 4 TB   | 995D222BEFE0 | 193   | 0     | 0.53   |
 | WDC       | WD15EARS-00MVWB0   | 1.5 TB | 6B6E9C2B9238 | 1160  | 5     | 0.53   |
@@ -7555,6 +7630,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000BEVT-24A0RT0 | 500 GB | 9B6C80393DAD | 193   | 0     | 0.53   |
 | Hitachi   | HTS545016B9A300    | 160 GB | C6756D12E561 | 386   | 1     | 0.53   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 843784EFD448 | 193   | 0     | 0.53   |
+| Seagate   | ST3500418AS        | 500 GB | 8E7AC34D8B7C | 579   | 2     | 0.53   |
 | Seagate   | ST340014A          | 40 GB  | 89C112F9309D | 193   | 0     | 0.53   |
 | Toshiba   | DT01ACA200         | 2 TB   | F6D21963E81A | 193   | 0     | 0.53   |
 | WDC       | WD10EZEX-00BN5A0   | 1 TB   | 5703797D2F8A | 193   | 0     | 0.53   |
@@ -7731,6 +7807,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK1252GSX          | 120 GB | C290FE070F75 | 185   | 0     | 0.51   |
 | WDC       | WD2500BEVT-35A23T0 | 250 GB | D8DAC78D76F0 | 185   | 0     | 0.51   |
 | Seagate   | ST750LM022 HN-M... | 750 GB | A12702A4D936 | 184   | 0     | 0.51   |
+| WDC       | WD7500BPVT-00HXZT3 | 750 GB | 95DF544CF7DE | 184   | 0     | 0.51   |
 | WDC       | WD2500BEVT-24A23T0 | 250 GB | F8A55E164A5B | 184   | 0     | 0.51   |
 | WDC       | WD6400BPVT-35HXZT1 | 640 GB | 12CFD88E9274 | 184   | 0     | 0.51   |
 | WDC       | WD10EZRX-00A8LB0   | 1 TB   | 31A238A9C6CD | 184   | 0     | 0.51   |
@@ -7795,6 +7872,7 @@ Rating — avg. rating per sample.
 | Maxtor    | STM3250820AS       | 250 GB | 8253EDC28B3E | 181   | 0     | 0.50   |
 | Toshiba   | MQ01ABD075         | 750 GB | AF5CE7397B56 | 181   | 0     | 0.50   |
 | Seagate   | ST3250620NS        | 250 GB | 8F2F930AD9A3 | 1273  | 6     | 0.50   |
+| Hitachi   | HDS721050CLA360    | 500 GB | 59B90B232624 | 181   | 0     | 0.50   |
 | WDC       | WD2500KS-00MJB0    | 250 GB | E4DA0429633D | 545   | 2     | 0.50   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 7CD3D3CE6611 | 181   | 0     | 0.50   |
 | WDC       | WD5000BPKT-75PK4T0 | 500 GB | 0803A28B0CA7 | 181   | 0     | 0.50   |
@@ -7918,11 +7996,13 @@ Rating — avg. rating per sample.
 | WDC       | WD5000BPVT-80HXZT3 | 500 GB | B6A243B1B771 | 176   | 0     | 0.48   |
 | Hitachi   | HDT725032VLA380    | 320 GB | 8B91A7B46E9A | 882   | 4     | 0.48   |
 | WDC       | WD20EZRX-00D8PB0   | 2 TB   | 453B9FEAA39F | 176   | 0     | 0.48   |
+| Hitachi   | HTS541612J9SA00    | 120 GB | F90B54FCD064 | 529   | 2     | 0.48   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 6DD2F277DECB | 176   | 0     | 0.48   |
 | Seagate   | ST3250318AS        | 250 GB | 3401A98B9CE0 | 529   | 2     | 0.48   |
 | Seagate   | ST9500325AS        | 500 GB | 4673E933A620 | 352   | 1     | 0.48   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 3C9387C53D19 | 176   | 0     | 0.48   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 4BC6A6F758F7 | 176   | 0     | 0.48   |
+| Toshiba   | DT01ACA200         | 2 TB   | 5946E94F3376 | 176   | 0     | 0.48   |
 | Hitachi   | HDS721680PLA380    | 80 GB  | E75A309418A9 | 176   | 0     | 0.48   |
 | Seagate   | ST500LM012 HN-M... | 500 GB | 02EF6D014DC2 | 176   | 0     | 0.48   |
 | WDC       | WD1600AAJS-00B4A0  | 160 GB | 3822021B0D03 | 176   | 0     | 0.48   |
@@ -8043,6 +8123,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD080HJ            | 80 GB  | 27C85A581ECC | 512   | 2     | 0.47   |
 | Hitachi   | HTS545032A7E380    | 320 GB | 8607B28B1A18 | 170   | 0     | 0.47   |
 | Samsung   | HM641JI            | 640 GB | E45ED0A53296 | 170   | 0     | 0.47   |
+| Seagate   | ST320LM001 HN-M... | 320 GB | 60775635339E | 170   | 0     | 0.47   |
 | Hitachi   | HDS721050CLA362    | 500 GB | 8E1854752709 | 511   | 2     | 0.47   |
 | Hitachi   | HTS545025B9A300    | 250 GB | A5F28555CCCE | 170   | 0     | 0.47   |
 | WDC       | WD5000AZRX-00A8LB0 | 500 GB | B6BFD15E6DF3 | 170   | 0     | 0.47   |
@@ -8316,6 +8397,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5001AALS-00L3B2  | 500 GB | EFF2A367E0DC | 1400  | 8     | 0.43   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 8839F4F76431 | 155   | 0     | 0.43   |
 | Seagate   | ST320LT020-9YG142  | 320 GB | 5034CEEA1B26 | 155   | 0     | 0.43   |
+| Hitachi   | HDS721010CLA332    | 1 TB   | F2004779658C | 777   | 4     | 0.43   |
 | Seagate   | ST500LM000-1EJ162  | 500 GB | 8339D7CE2B0D | 155   | 0     | 0.43   |
 | Seagate   | ST3500418AS        | 500 GB | CF34C2173297 | 155   | 0     | 0.43   |
 | WDC       | WD7500BPVX-22JC3T0 | 750 GB | 5AC85222BBE2 | 155   | 0     | 0.43   |
@@ -8349,6 +8431,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST750LM022 HN-M... | 750 GB | 9495FF364E06 | 154   | 0     | 0.42   |
 | WDC       | WD5000LPLX-00ZNTT0 | 500 GB | 9053C0B974A3 | 154   | 0     | 0.42   |
 | WDC       | WD10EARS-00Y5B1    | 1 TB   | CA11169AA30A | 2004  | 12    | 0.42   |
+| Seagate   | ST2000DM006-2DM164 | 2 TB   | 13296D728A15 | 154   | 0     | 0.42   |
 | Hitachi   | HTS547550A9E384    | 500 GB | C6F65D7AADD0 | 616   | 3     | 0.42   |
 | WDC       | WD2500BEKT-60PVMT0 | 250 GB | 89A23D53A1BC | 154   | 0     | 0.42   |
 | Hitachi   | HDP725050GLA360    | 500 GB | A35D2EBB76AD | 770   | 4     | 0.42   |
@@ -8397,6 +8480,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545050A7E380    | 500 GB | AB356C4F5F8D | 152   | 0     | 0.42   |
 | Samsung   | HN-M750MBB         | 750 GB | C2221E6E2B23 | 152   | 0     | 0.42   |
 | Seagate   | ST380215A          | 80 GB  | 0570D9C591FE | 608   | 3     | 0.42   |
+| WDC       | WD1600BEVT-22ZCT0  | 160 GB | 8F28D6217C36 | 152   | 0     | 0.42   |
 | WDC       | WD3200BEVT-22ZCT0  | 320 GB | 29870E132810 | 151   | 0     | 0.42   |
 | Hitachi   | HDP725032GLA360    | 320 GB | 28B1F8B47A8E | 759   | 4     | 0.42   |
 | WDC       | WD5000LPVX-22V0TT0 | 500 GB | 2BCAE64278AA | 151   | 0     | 0.42   |
@@ -8406,6 +8490,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 371BFD62E1D7 | 151   | 0     | 0.42   |
 | Toshiba   | MQ01ABF050         | 500 GB | C3628E88AF18 | 151   | 0     | 0.42   |
 | Seagate   | ST3320620AS        | 320 GB | 7C63C6D91B6E | 2575  | 16    | 0.41   |
+| WDC       | WD7500BPKT-75PK4T0 | 750 GB | 59798C66526D | 151   | 0     | 0.41   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | BD179E70682E | 151   | 0     | 0.41   |
 | WDC       | WD800BB-22JHC0     | 80 GB  | E6FA73AA4AF0 | 302   | 1     | 0.41   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 28615848C752 | 151   | 0     | 0.41   |
@@ -8492,6 +8577,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK6475GSX          | 640 GB | 1A7F84A9E018 | 147   | 0     | 0.40   |
 | Samsung   | HD322GJ            | 320 GB | 8262FE4094DC | 147   | 0     | 0.40   |
 | WDC       | WD1600BEVT-22ZCT0  | 160 GB | 0767DACA836C | 442   | 2     | 0.40   |
+| Seagate   | ST500LT012-1DG142  | 500 GB | 06845708881C | 147   | 0     | 0.40   |
 | Toshiba   | MQ01ABF050         | 500 GB | 5F2D4E32EA2A | 147   | 0     | 0.40   |
 | WDC       | WD10EARX-00N0YB0   | 1 TB   | 0F31B3C0833F | 147   | 0     | 0.40   |
 | Toshiba   | MQ01ABD050         | 500 GB | 2327C35C30A8 | 295   | 1     | 0.40   |
@@ -8619,6 +8705,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-00L7A0  | 320 GB | 4CC98FEC3D2D | 143   | 0     | 0.39   |
 | Toshiba   | MQ01ABF050         | 500 GB | D2E0CA1E1DB7 | 142   | 0     | 0.39   |
 | WDC       | WD5000LPVX-80V0TT0 | 500 GB | 6979917E9E93 | 142   | 0     | 0.39   |
+| Samsung   | HD321KJ            | 320 GB | C25970A7CE81 | 142   | 0     | 0.39   |
 | Samsung   | HD103SI            | 1 TB   | 647BE1C1B4A1 | 999   | 6     | 0.39   |
 | WDC       | WD5000AAKS-00V6A0  | 500 GB | F04E26C70A38 | 1284  | 8     | 0.39   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 32C00C35C2C4 | 142   | 0     | 0.39   |
@@ -8648,6 +8735,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK3263GSXN         | 320 GB | 04073720CD6D | 425   | 2     | 0.39   |
 | WDC       | WD2500AAJS-00L7A0  | 250 GB | E5DE9F26A1B3 | 1275  | 8     | 0.39   |
 | WDC       | WD1600AAJS-00PSA0  | 160 GB | 90DF5E5E1859 | 1132  | 7     | 0.39   |
+| Seagate   | ST9250315AS        | 250 GB | F7009CCA69AB | 141   | 0     | 0.39   |
 | WDC       | WD10EZEX-08M2NA0   | 1 TB   | DE6B3B44BA83 | 141   | 0     | 0.39   |
 | WDC       | WD5000AAKX-08ERMA0 | 500 GB | 2A276BE318DC | 141   | 0     | 0.39   |
 | WDC       | WD3200BPVT-35ZEST0 | 320 GB | 9D0D9012F716 | 141   | 0     | 0.39   |
@@ -8694,6 +8782,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BPVT-80JJ5T0 | 320 GB | 6D44BC950AE1 | 139   | 0     | 0.38   |
 | HGST      | HTS541010A9E680    | 1 TB   | A0C6BF9BEDB9 | 139   | 0     | 0.38   |
 | WDC       | WD800BB-00HEA0     | 80 GB  | DDA5FDC86106 | 836   | 5     | 0.38   |
+| Hitachi   | HDS721616PLA380    | 164 GB | 822CDBB68E8D | 696   | 4     | 0.38   |
 | HGST      | HTS545032A7E380    | 320 GB | DFC767A70DC4 | 139   | 0     | 0.38   |
 | HGST      | HTS545032A7E380    | 320 GB | 3B1DF7DF952D | 139   | 0     | 0.38   |
 | Seagate   | ST1000VX000-1ES162 | 1 TB   | 86F584262AE7 | 139   | 0     | 0.38   |
@@ -8783,6 +8872,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545025B9A300    | 250 GB | 7DF38C1B40D2 | 676   | 4     | 0.37   |
 | Seagate   | ST380011A          | 80 GB  | 3461DA80FD94 | 1217  | 8     | 0.37   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 65D34BE56727 | 135   | 0     | 0.37   |
+| Toshiba   | HDWD110            | 1 TB   | BF5F08988BF5 | 135   | 0     | 0.37   |
 | Hitachi   | HTS547550A9E384    | 500 GB | FAE024D0EC17 | 135   | 0     | 0.37   |
 | Hitachi   | HDP725050GLA360    | 500 GB | 2AB6E42FE77A | 810   | 5     | 0.37   |
 | Seagate   | ST340016A          | 40 GB  | E914DF2C7B16 | 810   | 5     | 0.37   |
@@ -8903,6 +8993,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MG03ACA100         | 1 TB   | 4764AE277A42 | 130   | 0     | 0.36   |
 | Seagate   | ST9160314AS        | 160 GB | EC2605806EA4 | 390   | 2     | 0.36   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 0204C8EA8288 | 130   | 0     | 0.36   |
+| WDC       | WD10SPCX-24HWST1   | 1 TB   | 47B22EC62228 | 130   | 0     | 0.36   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | 87F12E68CBEC | 130   | 0     | 0.36   |
 | Hitachi   | HDP725032GLA360    | 320 GB | 9FF26C222828 | 520   | 3     | 0.36   |
 | Toshiba   | MK1655GSX          | 160 GB | D515D2E75161 | 130   | 0     | 0.36   |
@@ -9023,6 +9114,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS547550A9E384    | 500 GB | EE434210CDE4 | 125   | 0     | 0.34   |
 | WDC       | WD30EZRX-00MMMB0   | 3 TB   | 5F8FCD9398A1 | 1127  | 8     | 0.34   |
 | Toshiba   | MQ01ABF050         | 500 GB | 00A6F734D15D | 125   | 0     | 0.34   |
+| Seagate   | ST3160813AS        | 160 GB | 45638F83AD43 | 125   | 0     | 0.34   |
 | WDC       | WD1600JS-00NCB1    | 160 GB | 00498957E1AC | 125   | 0     | 0.34   |
 | WDC       | WD800AAJS-00B4A0   | 80 GB  | 2F14927525DD | 500   | 3     | 0.34   |
 | Seagate   | ST9500325AS        | 500 GB | F415CFDDF472 | 125   | 0     | 0.34   |
@@ -9036,6 +9128,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS545050A7E680    | 500 GB | 6C6806933526 | 124   | 0     | 0.34   |
 | Seagate   | ST250DM000-1BD141  | 250 GB | 1AB7FC7EBD6A | 499   | 3     | 0.34   |
 | Toshiba   | MQ01ABF050         | 500 GB | 485668C5C493 | 124   | 0     | 0.34   |
+| Seagate   | ST1000LM014-1EJ164 | 1 TB   | D4F8DD3C49D4 | 124   | 0     | 0.34   |
 | Seagate   | ST3200826AS        | 200 GB | 6975E6D9E6AD | 498   | 3     | 0.34   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | E3DDEFA0690D | 124   | 0     | 0.34   |
 | Seagate   | ST340016A          | 39 GB  | CA45D3738AA9 | 124   | 0     | 0.34   |
@@ -9163,6 +9256,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD103SJ            | 1 TB   | 5130487DF159 | 1327  | 10    | 0.33   |
 | WDC       | WD10EZEX-00RKKA0   | 1 TB   | 29F75280F690 | 1084  | 8     | 0.33   |
 | Seagate   | ST1000DX001-1CM162 | 1 TB   | 1070F405DD15 | 120   | 0     | 0.33   |
+| Hitachi   | HDS728080PLAT20    | 82 GB  | A9F6E830040E | 361   | 2     | 0.33   |
 | Seagate   | ST1000LM010-9YH146 | 1 TB   | A654E34C61BB | 120   | 0     | 0.33   |
 | WDC       | WD10EARS-00Z5B1    | 1 TB   | E31C4025E952 | 361   | 2     | 0.33   |
 | WDC       | WD10JPCX-24UE4T0   | 1 TB   | 39A0A5F812CA | 120   | 0     | 0.33   |
@@ -9410,6 +9504,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST31000524AS       | 1 TB   | 78718EA30937 | 111   | 0     | 0.30   |
 | Toshiba   | DT01ACA050         | 500 GB | 9330590E9834 | 111   | 0     | 0.30   |
 | WDC       | WD1600JS-22NCB1    | 160 GB | 481492C2C10B | 111   | 0     | 0.30   |
+| Samsung   | HN-M101MBB         | 1 TB   | 665DF201993B | 111   | 0     | 0.30   |
 | Fujitsu   | MPE3064AT          | 6 GB   | 1769C4DFA070 | 111   | 0     | 0.30   |
 | WDC       | WD2500BEVT-08A23T1 | 250 GB | 62DBC7B0A2A3 | 111   | 0     | 0.30   |
 | WDC       | WD5000BEVT-60ZAT1  | 500 GB | F258644DEA22 | 111   | 0     | 0.30   |
@@ -9465,6 +9560,7 @@ Rating — avg. rating per sample.
 | Samsung   | SP2004C            | 200 GB | 522601B982AD | 438   | 3     | 0.30   |
 | HGST      | HTS721010A9E630    | 1 TB   | CBFECF093669 | 109   | 0     | 0.30   |
 | Toshiba   | DT01ACA050         | 500 GB | 47540B307AF3 | 109   | 0     | 0.30   |
+| WDC       | WD10EZEX-21WN4A0   | 1 TB   | 88AA7395FB75 | 109   | 0     | 0.30   |
 | WDC       | WD5000BEKT-80KA9T0 | 500 GB | 091BE9276C84 | 438   | 3     | 0.30   |
 | Toshiba   | HDWD110            | 1 TB   | C452CCD9D0B7 | 109   | 0     | 0.30   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 0E999D93B978 | 109   | 0     | 0.30   |
@@ -9492,6 +9588,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDT725032VLA360    | 320 GB | 90484C3E7D0F | 1085  | 9     | 0.30   |
 | WDC       | WD10EZEX-00RKKA0   | 1 TB   | 3948196DAFBE | 108   | 0     | 0.30   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 6B25517CD443 | 108   | 0     | 0.30   |
+| WDC       | WD3202ABYS-01B7A0  | 320 GB | 58296D2E0E7A | 650   | 5     | 0.30   |
 | WDC       | WD7500BPKT-75PK4T0 | 750 GB | A885DAD76A6A | 108   | 0     | 0.30   |
 | WDC       | WD5000AAKS-00A7B0  | 500 GB | EB93399F34B9 | 974   | 8     | 0.30   |
 | Seagate   | ST1000DM003-1ER162 | 1 TB   | C3FE23D82F2E | 108   | 0     | 0.30   |
@@ -9882,6 +9979,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BPVT-80JJ5T0 | 320 GB | A752979936AE | 95    | 0     | 0.26   |
 | Hitachi   | HTS542516K9SA00    | 160 GB | 41DEE3B8D82C | 284   | 2     | 0.26   |
 | Seagate   | ST3320620A         | 320 GB | 85AFF1C5B3CA | 94    | 0     | 0.26   |
+| Fujitsu   | MHV2060AT          | 60 GB  | D57B472FFDD1 | 854   | 8     | 0.26   |
 | WDC       | WD3200BPVT-22ZEST0 | 320 GB | 98C513540CC2 | 758   | 7     | 0.26   |
 | Seagate   | ST3160023AS        | 160 GB | 3D819C55E36B | 568   | 5     | 0.26   |
 | Seagate   | ST2000DX001-1CM164 | 2 TB   | 8EB3F3F14FC3 | 94    | 0     | 0.26   |
@@ -9911,6 +10009,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA360    | 500 GB | A7BB7FB0A4E7 | 469   | 4     | 0.26   |
 | Seagate   | ST750LM022 HN-M... | 750 GB | 850BC332FFE3 | 93    | 0     | 0.26   |
 | Toshiba   | MK1665GSX H        | 160 GB | 1BAB79AA784F | 93    | 0     | 0.26   |
+| Toshiba   | MQ01ABF050         | 500 GB | D009CF654F41 | 93    | 0     | 0.26   |
 | Samsung   | HN-M750MBB         | 750 GB | B328297223F1 | 93    | 0     | 0.26   |
 | Hitachi   | HTS547575A9E384    | 750 GB | DBED9A895244 | 93    | 0     | 0.26   |
 | Seagate   | ST3250410AS        | 250 GB | CC13322DEC08 | 281   | 2     | 0.26   |
@@ -10163,6 +10262,7 @@ Rating — avg. rating per sample.
 | WDC       | WD800BB-00JHC0     | 80 GB  | 90042D84E4F2 | 515   | 5     | 0.24   |
 | Seagate   | ST1000DM010-2EP102 | 1 TB   | C2B1D49AD036 | 85    | 0     | 0.24   |
 | Toshiba   | MK2035GSS          | 200 GB | 543BE974276D | 257   | 2     | 0.24   |
+| WDC       | WD5000LPCX-22VHAT0 | 500 GB | EA3FEFE38A50 | 85    | 0     | 0.24   |
 | Hitachi   | HDT721032SLA380    | 320 GB | DADEB20BB404 | 428   | 4     | 0.23   |
 | WDC       | WD5000AAKX-75U6AA0 | 500 GB | 5D63965CA80E | 85    | 0     | 0.23   |
 | Hitachi   | HDP725050GLA360    | 500 GB | D88EFD2AD70F | 685   | 7     | 0.23   |
@@ -10181,6 +10281,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK2035GSS          | 200 GB | 0CEBD481FB33 | 765   | 8     | 0.23   |
 | WDC       | WD10EFRX-68FYTN0   | 1 TB   | EBD8437A104D | 85    | 0     | 0.23   |
 | Fujitsu   | MHW2120BH          | 120 GB | B098F4697B58 | 85    | 0     | 0.23   |
+| WDC       | WD5000LPCX-21VHAT0 | 500 GB | 73877F904E4E | 85    | 0     | 0.23   |
 | WDC       | WD1600AAJS-00L7A0  | 160 GB | 827EF30E3570 | 765   | 8     | 0.23   |
 | Seagate   | ST3120022A         | 120 GB | FDB0C84ED144 | 595   | 6     | 0.23   |
 | Maxtor    | STM3160215AS       | 160 GB | 31C39DFEB69D | 1104  | 12    | 0.23   |
@@ -10502,6 +10603,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-00L7A0  | 320 GB | C38FB703B4DE | 774   | 9     | 0.21   |
 | WDC       | WD3200AAKX-001CA0  | 320 GB | 4353A113F4D6 | 774   | 9     | 0.21   |
 | Hitachi   | HTS545016B9A300    | 160 GB | ECE10164123F | 154   | 1     | 0.21   |
+| HGST      | HTS545050A7E680    | 500 GB | FD19BB077EB2 | 154   | 1     | 0.21   |
 | WDC       | WD5000LPVT-00G33T0 | 500 GB | BB69FD788D3A | 619   | 7     | 0.21   |
 | Seagate   | ST1000DM005 HD1... | 1 TB   | C39023C674F2 | 696   | 8     | 0.21   |
 | Seagate   | ST3500320AS        | 500 GB | 50F8E6736CC8 | 541   | 6     | 0.21   |
@@ -10704,6 +10806,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST340810A          | 40 GB  | 141FE4BD4FE3 | 504   | 6     | 0.20   |
 | HGST      | HTS545050A7E680    | 500 GB | 08DD1FE122B1 | 72    | 0     | 0.20   |
 | Seagate   | ST500LM021-1KJ152  | 500 GB | E53D09D0CABF | 72    | 0     | 0.20   |
+| WDC       | WD6400AAKS-22A7B2  | 640 GB | 3C03DD70FCCC | 72    | 0     | 0.20   |
 | WDC       | WD5000BEVT-35A0RT0 | 500 GB | 979D4F2E8710 | 647   | 8     | 0.20   |
 | Hitachi   | HTS547575A9E384    | 750 GB | 8D6865B1F9F6 | 359   | 4     | 0.20   |
 | WDC       | WD2500BEVT-00ZCT0  | 250 GB | 8C27B78D67C4 | 71    | 0     | 0.20   |
@@ -10856,6 +10959,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST1000DM003-1ER162 | 1 TB   | FA68BBD92256 | 67    | 0     | 0.19   |
 | WDC       | WD5000AAKS-00D2B0  | 500 GB | 50B9669A6028 | 609   | 8     | 0.19   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 3DD0EE0656EA | 541   | 7     | 0.19   |
+| WDC       | WD10EZEX-60M2NA0   | 1 TB   | 668A2116BD78 | 67    | 0     | 0.19   |
 | WDC       | WD3200AAJS-00YZCA0 | 320 GB | 66FD4A7FE01B | 744   | 10    | 0.19   |
 | HGST      | HTS545050A7E380    | 500 GB | 5D78F061E6A8 | 135   | 1     | 0.19   |
 | WDC       | WD5000LPCX-24C6HT0 | 500 GB | 810B3E6C8963 | 67    | 0     | 0.19   |
@@ -10918,6 +11022,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-00B4A0  | 320 GB | 80B4918D069B | 662   | 9     | 0.18   |
 | WDC       | WD20EARX-00PASB0   | 2 TB   | 948D1223478C | 463   | 6     | 0.18   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 73F147331C84 | 264   | 3     | 0.18   |
+| Hitachi   | HUA722020ALA331    | 2 TB   | FE9A52EBB882 | 331   | 4     | 0.18   |
 | WDC       | WD3200BPVT-22ZEST0 | 320 GB | 98740AB87293 | 66    | 0     | 0.18   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | F75FE0936A03 | 330   | 4     | 0.18   |
 | WDC       | WD10JUCT-63CYNY0   | 1 TB   | 46F256222305 | 66    | 0     | 0.18   |
@@ -10975,6 +11080,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAKS-00B3A0  | 320 GB | ECBAFF942114 | 64    | 0     | 0.18   |
 | Seagate   | ST3160318AS        | 160 GB | 5E2CB422DF06 | 711   | 10    | 0.18   |
 | HGST      | HTS541010A9E680    | 1 TB   | F1F649576C66 | 64    | 0     | 0.18   |
+| WDC       | WD2500AAJB-00J3A0  | 250 GB | 5A48685B0350 | 452   | 6     | 0.18   |
 | WDC       | WD3200BEVT-00ZCT0  | 320 GB | C78A81305E94 | 193   | 2     | 0.18   |
 | WDC       | WD2500LPCX-24C6HT0 | 250 GB | 06E548480CF9 | 64    | 0     | 0.18   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 0BB21B8354CE | 64    | 0     | 0.18   |
@@ -11088,6 +11194,8 @@ Rating — avg. rating per sample.
 | WDC       | WD10EZEX-00BN5A0   | 1 TB   | 06C0C4F5ACB0 | 61    | 0     | 0.17   |
 | HGST      | HTS541010A9E680    | 1 TB   | A60C2591E0BC | 61    | 0     | 0.17   |
 | Seagate   | ST9250315AS        | 250 GB | 9C51CBA310A0 | 123   | 1     | 0.17   |
+| WDC       | WD10JPVX-08JC3T6   | 1 TB   | 9FEE36557529 | 61    | 0     | 0.17   |
+| Samsung   | HM320JI            | 320 GB | D478AEEC8264 | 676   | 10    | 0.17   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 9C9BE9C4BC60 | 61    | 0     | 0.17   |
 | WDC       | WD3200AAJS-00YZCA0 | 320 GB | 648D541D56A0 | 552   | 8     | 0.17   |
 | Samsung   | HD105SI            | 1 TB   | F487ECA55B61 | 491   | 7     | 0.17   |
@@ -11433,7 +11541,9 @@ Rating — avg. rating per sample.
 | Samsung   | HD080HJ            | 80 GB  | 9D706158AA64 | 801   | 14    | 0.15   |
 | Seagate   | ST3160215A         | 160 GB | 07C77EA6D69E | 480   | 8     | 0.15   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 088CA6B01DD4 | 53    | 0     | 0.15   |
+| Seagate   | ST1000LM024 HN-... | 1 TB   | 47A433CC5597 | 426   | 7     | 0.15   |
 | Toshiba   | MQ01ABD050         | 500 GB | 3385ECD6987E | 53    | 0     | 0.15   |
+| WDC       | WD5000AZLX-60K2TA0 | 500 GB | 58DA4D745B48 | 53    | 0     | 0.15   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 57828F9F4353 | 53    | 0     | 0.15   |
 | Toshiba   | MK1652GSX          | 160 GB | A314DCBB8B3E | 159   | 2     | 0.15   |
 | Seagate   | ST500LM012 HN-M... | 500 GB | 0AB99743813E | 53    | 0     | 0.15   |
@@ -11482,6 +11592,7 @@ Rating — avg. rating per sample.
 | WDC       | WD20EZRX-00D8PB0   | 2 TB   | E057B7F80091 | 52    | 0     | 0.14   |
 | HGST      | HTS545050A7E680    | 500 GB | A040D7D899BA | 52    | 0     | 0.14   |
 | Seagate   | ST3250410AS        | 250 GB | EEA0A7F86AE7 | 2237  | 42    | 0.14   |
+| WDC       | WD3200AAJS-08L7A0  | 320 GB | 2AA015A2DD47 | 468   | 8     | 0.14   |
 | WDC       | WD3200AAKX-073CA1  | 320 GB | D35EEE5DE239 | 467   | 8     | 0.14   |
 | Toshiba   | DT01ACA100         | 1 TB   | B56ECFC1B591 | 51    | 0     | 0.14   |
 | Toshiba   | HDWD105            | 500 GB | 536B8D83B1C8 | 51    | 0     | 0.14   |
@@ -11540,6 +11651,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500DM002-1BD142  | 500 GB | 053C12021390 | 202   | 3     | 0.14   |
 | Seagate   | ST4000DM000-1F2168 | 4 TB   | 2D72DF21C017 | 252   | 4     | 0.14   |
 | Seagate   | ST3250318AS        | 250 GB | 47FEF6B287BC | 50    | 0     | 0.14   |
+| Seagate   | ST960812A          | 60 GB  | 66E2E27197AA | 151   | 2     | 0.14   |
 | Toshiba   | MQ01ABD050         | 500 GB | 66F055508707 | 50    | 0     | 0.14   |
 | Seagate   | ST340014A          | 40 GB  | EBAB4CA230BC | 454   | 8     | 0.14   |
 | WDC       | WD10EZEX-08M2NA0   | 1 TB   | 0664AA4496AB | 50    | 0     | 0.14   |
@@ -11935,6 +12047,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS722020K9SA00    | 200 GB | EB52E099C546 | 169   | 3     | 0.12   |
 | WDC       | WD10EZEX-00UD2A0   | 1 TB   | 3A816B7A3AB0 | 381   | 8     | 0.12   |
 | Toshiba   | MK2046GSX          | 200 GB | 15197243B132 | 211   | 4     | 0.12   |
+| Seagate   | ST1000DM010-2EP102 | 1 TB   | 38E4029C52ED | 42    | 0     | 0.12   |
 | Toshiba   | HDWD110            | 1 TB   | B503A62E2255 | 42    | 0     | 0.12   |
 | Toshiba   | HDWD110            | 1 TB   | C0CCFC11CF84 | 42    | 0     | 0.12   |
 | WDC       | WD10EZEX-08WN4A0   | 1 TB   | 5CB998F4BF20 | 42    | 0     | 0.12   |
@@ -12015,6 +12128,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST750LM022 HN-M... | 750 GB | 6B16DCA95E61 | 368   | 8     | 0.11   |
 | Hitachi   | HTS543232A7A384    | 320 GB | 277D2B3F31BA | 40    | 0     | 0.11   |
 | Maxtor    | 6E040L0            | 41 GB  | F8CEAE791571 | 40    | 0     | 0.11   |
+| Samsung   | HM250HI            | 250 GB | F55ED51FD581 | 204   | 4     | 0.11   |
 | Samsung   | HM160HI            | 160 GB | C295FAA0C89E | 367   | 8     | 0.11   |
 | Seagate   | ST9120822AS        | 120 GB | 6DD8C5DADE3F | 898   | 21    | 0.11   |
 | HGST      | HTS725050A7E630    | 500 GB | 73B40D183A75 | 40    | 0     | 0.11   |
@@ -12037,6 +12151,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160811AS        | 160 GB | C48250859778 | 406   | 9     | 0.11   |
 | Samsung   | HD103UJ            | 1 TB   | C83D6BE474DC | 1013  | 24    | 0.11   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 2B921672AA76 | 40    | 0     | 0.11   |
+| Toshiba   | MQ01ABF050         | 500 GB | 6506903A93E7 | 40    | 0     | 0.11   |
 | Fujitsu   | MJA2250BH G2       | 250 GB | B3AA521B2148 | 607   | 14    | 0.11   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | E215DFDF5C7C | 364   | 8     | 0.11   |
 | WDC       | WD5000AAKB-00H8A0  | 500 GB | 3CA8D6B583A7 | 444   | 10    | 0.11   |
@@ -12231,10 +12346,12 @@ Rating — avg. rating per sample.
 | Toshiba   | DT01ACA100         | 1 TB   | 6D57D0C88BA0 | 36    | 0     | 0.10   |
 | Hitachi   | HDS721616PLA380    | 160 GB | 7ED3E4EC33DF | 1760  | 47    | 0.10   |
 | Toshiba   | MK3265GSX          | 320 GB | 2471ABB1F935 | 586   | 15    | 0.10   |
+| Seagate   | ST1000LM024 HN-... | 1 TB   | 97B707A07264 | 183   | 4     | 0.10   |
 | Seagate   | ST9750420AS        | 750 GB | 85C49007D7A6 | 476   | 12    | 0.10   |
 | Fujitsu   | MHV2080BH PL       | 80 GB  | C843A7508067 | 402   | 10    | 0.10   |
 | Seagate   | ST380013AS         | 80 GB  | 3C806888DFA0 | 658   | 17    | 0.10   |
 | WDC       | WD30EFRX-68AX9N0   | 3 TB   | 1E27343945BD | 146   | 3     | 0.10   |
+| Toshiba   | MQ01ABD100         | 1 TB   | 6DCFBBDF8553 | 36    | 0     | 0.10   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | 073496711B72 | 36    | 0     | 0.10   |
 | WDC       | WD5000AAKX-60U6AA0 | 500 GB | 1967A3E5C053 | 36    | 0     | 0.10   |
 | WDC       | WD1600AAJS-22L7A0  | 160 GB | 677F404F864A | 365   | 9     | 0.10   |
@@ -12270,6 +12387,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9250315AS        | 250 GB | 8A76325753D7 | 750   | 20    | 0.10   |
 | Seagate   | ST1000DM003-1SB10C | 1 TB   | B776E9122CFA | 35    | 0     | 0.10   |
 | Seagate   | ST3320620AS        | 320 GB | 780D9E965097 | 35    | 0     | 0.10   |
+| Toshiba   | MQ01ABF050         | 500 GB | BEA3A5F7AD09 | 35    | 0     | 0.10   |
 | WDC       | WD10EZEX-00ZF5A0   | 1 TB   | 91FF3120B7AF | 213   | 5     | 0.10   |
 | Seagate   | ST500DM002-1SB10A  | 500 GB | CEF0B89BF9AF | 35    | 0     | 0.10   |
 | Seagate   | STM3250318AS       | 250 GB | DF83058254C7 | 819   | 22    | 0.10   |
@@ -12394,6 +12512,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK5059GSXP         | 500 GB | 2FD026D6CE57 | 33    | 0     | 0.09   |
 | WDC       | WD5000LPVX-22V0TT0 | 500 GB | 6B20A1C0F7EF | 33    | 0     | 0.09   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 60FAB1E20067 | 268   | 7     | 0.09   |
+| WDC       | WD5000LPVX-22V0TT0 | 500 GB | AD61F1D70761 | 33    | 0     | 0.09   |
 | WDC       | WD10EARX-00N0YB0   | 1 TB   | 093C2FA96399 | 502   | 14    | 0.09   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | EAF25D1D536C | 234   | 6     | 0.09   |
 | Seagate   | ST3160827AS        | 160 GB | 5DAF1C69309E | 935   | 27    | 0.09   |
@@ -12418,6 +12537,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MQ01ABF050         | 500 GB | A3563A201031 | 33    | 0     | 0.09   |
 | Hitachi   | HTS545050B9A300    | 500 GB | 38269CB9ECE0 | 694   | 20    | 0.09   |
 | Seagate   | ST4000VN000-1H4168 | 4 TB   | FA12782DB029 | 33    | 0     | 0.09   |
+| Toshiba   | MQ01ABF050         | 500 GB | 13028BB1D20A | 33    | 0     | 0.09   |
 | WDC       | WD5000LPCX-21VHAT0 | 500 GB | 0C83573BB6A2 | 33    | 0     | 0.09   |
 | Toshiba   | DT01ACA050         | 500 GB | 4813D1DE84D0 | 33    | 0     | 0.09   |
 | WDC       | WD2500AAJS-00YZCA0 | 250 GB | 0EE7260C7E65 | 33    | 0     | 0.09   |
@@ -12458,6 +12578,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000LPCX-24VHAT0 | 500 GB | DB5B901BF78B | 32    | 0     | 0.09   |
 | Seagate   | ST1000DM003-1ER162 | 1 TB   | CEF30B03DAFA | 32    | 0     | 0.09   |
 | Seagate   | ST340014A          | 40 GB  | A25136F95FCF | 64    | 1     | 0.09   |
+| WDC       | WD3200BPVT-35ZEST0 | 320 GB | 7425E6EE22F5 | 291   | 8     | 0.09   |
 | Seagate   | ST3250410AS        | 250 GB | 9786B23A678E | 485   | 14    | 0.09   |
 | Seagate   | ST380215A          | 80 GB  | 67B15097C29E | 1261  | 38    | 0.09   |
 | Seagate   | ST3000DM008-2DM166 | 3 TB   | D782DF8A2040 | 32    | 0     | 0.09   |
@@ -12574,6 +12695,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LM021-1KJ152  | 500 GB | 684C6683FFFC | 30    | 0     | 0.08   |
 | Hitachi   | HTS543232A7A384    | 320 GB | CFCA64B085E9 | 513   | 16    | 0.08   |
 | Seagate   | ST38410A           | 8 GB   | EC254C74D1CD | 754   | 24    | 0.08   |
+| Seagate   | ST500DM002-1BD142  | 500 GB | BB9EDF9CA518 | 30    | 0     | 0.08   |
 | WDC       | WD3200BEVT-22A23T0 | 320 GB | B8FED7D98D78 | 210   | 6     | 0.08   |
 | Seagate   | ST31000524AS       | 1 TB   | 331313BBD46B | 811   | 26    | 0.08   |
 | WDC       | WD5000BEVT-80A0RT1 | 500 GB | 985C633D60F4 | 180   | 5     | 0.08   |
@@ -12586,6 +12708,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 385EC431E3E5 | 209   | 6     | 0.08   |
 | WDC       | WD3200BPVT-24ZEST0 | 320 GB | E589C7A62E81 | 29    | 0     | 0.08   |
 | WDC       | WD2500AAJS-55M0A0  | 250 GB | 348FDA8E3C2C | 269   | 8     | 0.08   |
+| Seagate   | ST380215A          | 80 GB  | 7BE0B542CC4B | 29    | 0     | 0.08   |
 | Toshiba   | MK8034GSX          | 80 GB  | 4E6CD23CC69E | 269   | 8     | 0.08   |
 | Toshiba   | DT01ACA100         | 1 TB   | F7160E54CA4A | 59    | 1     | 0.08   |
 | Seagate   | ST380817AS         | 80 GB  | 18848CDAC411 | 328   | 10    | 0.08   |
@@ -12657,6 +12780,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST2000DM001-9YN164 | 2 TB   | E6DBDCDB588A | 29    | 0     | 0.08   |
 | WDC       | WD3200JB-00KFA0    | 320 GB | 68DAFCA410A6 | 29    | 0     | 0.08   |
 | Hitachi   | HTS545016B9A300    | 160 GB | BA775E9CB9B8 | 28    | 0     | 0.08   |
+| Seagate   | ST3320613AS        | 320 GB | ACA834B53C05 | 289   | 9     | 0.08   |
 | Toshiba   | MQ01ABF032         | 320 GB | 23B146E90104 | 28    | 0     | 0.08   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 247C977BE73B | 260   | 8     | 0.08   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | ACF56EDE2166 | 28    | 0     | 0.08   |
@@ -12696,6 +12820,7 @@ Rating — avg. rating per sample.
 | Toshiba   | HDWD105            | 500 GB | BBEA39D9A153 | 28    | 0     | 0.08   |
 | HGST      | HTS541010A9E680    | 1 TB   | BB1230C12B1A | 28    | 0     | 0.08   |
 | Toshiba   | MK3276GSX -63      | 320 GB | 1D5EBEE4EAAA | 28    | 0     | 0.08   |
+| WDC       | WD1600BEVT-24A23T0 | 160 GB | EB5E5167F706 | 28    | 0     | 0.08   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | 820226F8068A | 255   | 8     | 0.08   |
 | Toshiba   | MK2046GSX          | 200 GB | E00C12ECCC18 | 1165  | 40    | 0.08   |
 | Seagate   | ST1000VM002-1ET162 | 1 TB   | BD9F5C4F576E | 28    | 0     | 0.08   |
@@ -12715,6 +12840,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD502HJ            | 500 GB | 31C31B7303BE | 392   | 13    | 0.08   |
 | WDC       | WD20EARX-00PASB0   | 2 TB   | 809917F08512 | 252   | 8     | 0.08   |
 | WDC       | WD3200AAJB-00J3A0  | 320 GB | FE8BFFB071DD | 308   | 10    | 0.08   |
+| WDC       | WD5000AAKS-00D2B0  | 500 GB | 6037D6C993B6 | 1679  | 59    | 0.08   |
 | Toshiba   | MK3275GSX          | 320 GB | FE8BF47CE1A3 | 251   | 8     | 0.08   |
 | Seagate   | ST9160310AS        | 160 GB | 7D9CE2264765 | 503   | 17    | 0.08   |
 | Hitachi   | HTS543212L9SA02    | 120 GB | 6DA22455514A | 27    | 0     | 0.08   |
@@ -12866,6 +12992,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS542512K9SA00    | 120 GB | C58363CAE435 | 584   | 22    | 0.07   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | 429F1F72F957 | 25    | 0     | 0.07   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 01D42DB7C077 | 482   | 18    | 0.07   |
+| Seagate   | ST3250318AS        | 250 GB | B4B4A5822D13 | 660   | 25    | 0.07   |
 | WDC       | WD1600AAJB-56R1A0  | 159 GB | 8829549B113E | 228   | 8     | 0.07   |
 | Seagate   | ST3250318AS        | 250 GB | 66FE76437490 | 533   | 20    | 0.07   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | FE5AAA207802 | 25    | 0     | 0.07   |
@@ -13011,6 +13138,7 @@ Rating — avg. rating per sample.
 | Apple     | HDD HTS547550A9... | 500 GB | 4E91E98727ED | 23    | 0     | 0.06   |
 | WDC       | WD5000LPCX-24VHAT0 | 500 GB | 0BFC81602205 | 23    | 0     | 0.06   |
 | Seagate   | ST500DM005 HD502HJ | 500 GB | 0EBAB71EA2A1 | 350   | 14    | 0.06   |
+| WDC       | WD10EZRX-00A8LB0   | 1 TB   | 51BF5B01D0C6 | 23    | 0     | 0.06   |
 | Samsung   | HM321HX            | 320 GB | A446827B250E | 186   | 7     | 0.06   |
 | Seagate   | ST500LM000-SSHD... | 500 GB | D9EA0E3D12E1 | 69    | 2     | 0.06   |
 | Seagate   | ST9320325AS        | 320 GB | D88B64C357EA | 512   | 21    | 0.06   |
@@ -13218,12 +13346,14 @@ Rating — avg. rating per sample.
 | Seagate   | ST380815AS         | 80 GB  | 86EAA6B13C70 | 284   | 13    | 0.06   |
 | Hitachi   | HDS721616PLA380    | 160 GB | 48B6835DDF80 | 832   | 40    | 0.06   |
 | Hitachi   | HTS545050A7E380    | 500 GB | 67975D1BA98A | 283   | 13    | 0.06   |
+| Toshiba   | MK1637GSX          | 160 GB | 389E305CC5CB | 202   | 9     | 0.06   |
 | Fujitsu   | MHZ2080BH G1       | 80 GB  | E1212ECB45B7 | 20    | 0     | 0.06   |
 | Samsung   | HM321HI            | 320 GB | 0ED60F66A55C | 182   | 8     | 0.06   |
 | Samsung   | HD080HJ            | 80 GB  | 7A25D2AE2854 | 384   | 18    | 0.06   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | BE902497CC11 | 121   | 5     | 0.06   |
 | Hitachi   | HTS545050B9A300    | 500 GB | 8F2FAE7C6EE3 | 1512  | 74    | 0.06   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | 4F9E564B3B9A | 20    | 0     | 0.06   |
+| Toshiba   | DT01ACA100         | 1 TB   | CE28AEF372A6 | 20    | 0     | 0.06   |
 | WDC       | WD20EFRX-68EUZN0   | 2 TB   | 25485C7797A2 | 20    | 0     | 0.06   |
 | Seagate   | ST3500418AS        | 500 GB | 9A9E512EA566 | 383   | 18    | 0.06   |
 | WDC       | WD1600BEVT-80A23T0 | 160 GB | 5463FC021E46 | 181   | 8     | 0.06   |
@@ -13432,6 +13562,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721616PLA380    | 160 GB | AE07B2820130 | 1039  | 60    | 0.05   |
 | WDC       | WD15EARS-00MVWB0   | 1.5 TB | BB93C7E5F878 | 85    | 4     | 0.05   |
 | Seagate   | ST1000LM035-1RK172 | 1 TB   | 3D8608872BA5 | 17    | 0     | 0.05   |
+| Seagate   | ST2000DM006-2DM164 | 2 TB   | 5609C356DE9A | 17    | 0     | 0.05   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 2C3C8F01FD2D | 17    | 0     | 0.05   |
 | Seagate   | ST3500418AS        | 500 GB | 89FD40778327 | 67    | 3     | 0.05   |
 | WDC       | WD3200AAJS-00L7A0  | 320 GB | 1401BD74D947 | 220   | 12    | 0.05   |
@@ -13499,6 +13630,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKB-00H8A0  | 500 GB | EE414FD25B0B | 177   | 10    | 0.04   |
 | WDC       | WD2500AAJS-00B4A0  | 250 GB | 1B670F6201D3 | 161   | 9     | 0.04   |
 | Seagate   | ST1000DM003-1CH162 | 1 TB   | FEF5EF0CC8AC | 725   | 44    | 0.04   |
+| Seagate   | ST1000LM048-2E7172 | 1 TB   | E77398FA9C40 | 16    | 0     | 0.04   |
 | WDC       | WD5000AAKS-00UU3A0 | 500 GB | 657B1FE1F3DA | 144   | 8     | 0.04   |
 | Toshiba   | MK2552GSX          | 250 GB | 40A9FD9A69E6 | 1206  | 74    | 0.04   |
 | WDC       | WD3200BEVT-11ZCT0  | 320 GB | FA0730590B3D | 32    | 1     | 0.04   |
@@ -13641,11 +13773,14 @@ Rating — avg. rating per sample.
 | WDC       | WD5000BPVT-60HXZT3 | 500 GB | 2888319E296E | 567   | 39    | 0.04   |
 | WDC       | WD2500AAJB-00J3A0  | 250 GB | 9B41287D9121 | 170   | 11    | 0.04   |
 | WDC       | WD10JPVX-00JC3T0   | 1 TB   | 80FBB76B6CE6 | 84    | 5     | 0.04   |
+| HGST      | HTE725050A7E630    | 500 GB | A7EA7E962691 | 14    | 0     | 0.04   |
 | HGST      | HTS545050A7E680    | 500 GB | 044BAE35FCB3 | 14    | 0     | 0.04   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 0C462723783C | 239   | 16    | 0.04   |
 | Toshiba   | MK2555GSX          | 250 GB | 38AF1DCFA851 | 183   | 12    | 0.04   |
+| WDC       | WD1600AAJS-00B4A0  | 160 GB | 62B8E1B8582C | 760   | 53    | 0.04   |
 | Hitachi   | HTS541010G9SA00    | 100 GB | 28F0CAAC07AB | 84    | 5     | 0.04   |
 | WDC       | WD3200AAKS-00L9A0  | 320 GB | D89BD206CF67 | 422   | 29    | 0.04   |
+| Seagate   | ST1000LM014-SSH... | 1 TB   | A4E2541B6DCA | 689   | 48    | 0.04   |
 | Toshiba   | MK5065GSX          | 500 GB | 21CC32C181C0 | 238   | 16    | 0.04   |
 | Maxtor    | 6E030L0            | 30 GB  | 3FE5A8B27A33 | 28    | 1     | 0.04   |
 | Seagate   | ST9250610NS        | 250 GB | F6F295C44F37 | 14    | 0     | 0.04   |
@@ -13695,6 +13830,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS722525VLSA80    | 250 GB | 2C596F8E85FA | 461   | 33    | 0.04   |
 | WDC       | WD5000AAKB-00H8A0  | 500 GB | 9233741C3954 | 298   | 21    | 0.04   |
 | Toshiba   | MK5061GSYN         | 500 GB | C31D278DFEFC | 460   | 33    | 0.04   |
+| Seagate   | ST3250318AS        | 250 GB | 129E478DDCC3 | 1122  | 82    | 0.04   |
 | Toshiba   | MK3259GSXP         | 320 GB | 5E91A0D4708C | 108   | 7     | 0.04   |
 | Hitachi   | HTS424040M9AT00    | 40 GB  | 2E6074ADCAAC | 297   | 21    | 0.04   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | EEC28CEFD926 | 13    | 0     | 0.04   |
@@ -13705,6 +13841,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LT012-1DG142  | 500 GB | 9C642681F8F7 | 13    | 0     | 0.04   |
 | WDC       | WD5000AADS-00S9B0  | 500 GB | DFCDAED6B987 | 255   | 18    | 0.04   |
 | Seagate   | ST3250620AS        | 250 GB | 1DFC6E688288 | 309   | 22    | 0.04   |
+| HGST      | HTS541010A9E680    | 1 TB   | 4897B4BA688E | 13    | 0     | 0.04   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | DED0DCAAA1B9 | 40    | 2     | 0.04   |
 | WDC       | WD2500AAJS-00L7A0  | 250 GB | 71C17F1C0046 | 40    | 2     | 0.04   |
 | Hitachi   | HTS541660J9SA00    | 60 GB  | 5259A9399279 | 107   | 7     | 0.04   |
@@ -14017,6 +14154,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK3265GSX          | 320 GB | 79C359F3E071 | 817   | 80    | 0.03   |
 | WDC       | WD2500BPVT-22ZEST0 | 250 GB | 5247B617F283 | 605   | 59    | 0.03   |
 | Hitachi   | HDS721680PLA380    | 80 GB  | 25E4AF13E32D | 90    | 8     | 0.03   |
+| Seagate   | ST500DM002-1BD142  | 500 GB | DEFA9FF6FD71 | 171   | 16    | 0.03   |
 | Toshiba   | MQ01ABF050         | 500 GB | DB653C4E9BBA | 10    | 0     | 0.03   |
 | WDC       | WD6400AAKS-65A7B0  | 640 GB | 5478DC22E379 | 110   | 10    | 0.03   |
 | WDC       | WD1002FBYS-43P1B0  | 1 TB   | 03436A782942 | 783   | 77    | 0.03   |
@@ -14061,6 +14199,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST380817AS         | 80 GB  | 760D47A11140 | 58    | 5     | 0.03   |
 | Toshiba   | MK3259GSXP         | 320 GB | 839DD801CBAA | 96    | 9     | 0.03   |
 | Seagate   | ST1000DM010-2EP102 | 1 TB   | 78D30A56AB65 | 9     | 0     | 0.03   |
+| Seagate   | ST2000LM007-1R8174 | 2 TB   | E9EAEA380186 | 9     | 0     | 0.03   |
 | Toshiba   | HDWD110            | 1 TB   | 1BAFCD55851F | 106   | 10    | 0.03   |
 | WDC       | WD5000AAKX-08U6AA0 | 500 GB | 9072B40739AB | 86    | 8     | 0.03   |
 | Hitachi   | HTS727550A9E364    | 500 GB | 9FC7DAF18C82 | 9     | 0     | 0.03   |
@@ -14165,6 +14304,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10EZEX-00WN4A0   | 1 TB   | D23D484010EE | 8     | 0     | 0.02   |
 | Seagate   | ST9320325AS        | 320 GB | 6F7B2A39D49E | 470   | 53    | 0.02   |
 | Seagate   | ST3500418AS        | 500 GB | DC1B5320FDA1 | 374   | 42    | 0.02   |
+| WDC       | WD5000LPVT-22G33T0 | 500 GB | 168B79C8694B | 1243  | 142   | 0.02   |
 | WDC       | WD5000LPVX-00V0TT0 | 500 GB | D9D0DC8AB0AA | 303   | 34    | 0.02   |
 | Seagate   | ST9320325AS        | 320 GB | F5367C33C53C | 190   | 21    | 0.02   |
 | HGST      | HTS545050A7E680    | 500 GB | D043B8EBD600 | 43    | 4     | 0.02   |
@@ -14266,6 +14406,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3500411SV        | 500 GB | 00F4E9AEC409 | 569   | 73    | 0.02   |
 | Seagate   | ST3320613AS        | 320 GB | 361BD7BEC95E | 592   | 76    | 0.02   |
 | Seagate   | ST3120827AS        | 120 GB | AF124F87DB4E | 515   | 66    | 0.02   |
+| Toshiba   | MK1059GSMP         | 1 TB   | 417602858905 | 138   | 17    | 0.02   |
 | Seagate   | ST3320418AS        | 320 GB | 5D9777C4FEF1 | 536   | 69    | 0.02   |
 | Maxtor    | STM3160215AS       | 160 GB | 90AD4A1C4587 | 1486  | 193   | 0.02   |
 | WDC       | WD5000AAKS-00V1A0  | 500 GB | 92616FAC0B35 | 405   | 52    | 0.02   |
@@ -14348,6 +14489,7 @@ Rating — avg. rating per sample.
 | WDC       | WD60EFRX-68L0BN1   | 6 TB   | 44BA8A9F5118 | 63    | 8     | 0.02   |
 | HGST      | HTS725050A7E630    | 500 GB | 8B4490549C29 | 7     | 0     | 0.02   |
 | Seagate   | ST1000LM048-2E7172 | 1 TB   | 31D0DD63780B | 7     | 0     | 0.02   |
+| Toshiba   | HDWD110            | 1 TB   | 0F1B6E411BAA | 7     | 0     | 0.02   |
 | Hitachi   | HTS543225L9SA00    | 250 GB | 768726CD74C2 | 997   | 140   | 0.02   |
 | HP        | GB0250C8045        | 250 GB | 49A82696E0C9 | 1405  | 198   | 0.02   |
 | Toshiba   | MK1646GSX          | 160 GB | D5200B7F7454 | 1106  | 156   | 0.02   |
@@ -14459,6 +14601,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MQ01ABF050         | 500 GB | 3829CC92CF45 | 6     | 0     | 0.02   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 25AF1154BFD6 | 6     | 0     | 0.02   |
 | WDC       | WD5000AAKS-007AA0  | 500 GB | A0F8E95C33DB | 530   | 84    | 0.02   |
+| Seagate   | ST3250410AS        | 250 GB | 86346FFBAD0B | 1126  | 180   | 0.02   |
 | Hitachi   | HTS541612J9SA00    | 120 GB | D3BC24BD65EE | 130   | 20    | 0.02   |
 | Seagate   | ST9250315AS        | 250 GB | FF3CE66DBAD9 | 142   | 22    | 0.02   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | DF424807926F | 6     | 0     | 0.02   |
@@ -14600,6 +14743,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LT012-1DG142  | 500 GB | 62927F2401F8 | 134   | 24    | 0.01   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 68D285BE20DB | 5     | 0     | 0.01   |
 | WDC       | WD10JPCX-24UE4T0   | 1 TB   | 925BE250AEAE | 5     | 0     | 0.01   |
+| WDC       | WD5000AZLX-60K2TA0 | 500 GB | 5B55F40073D7 | 5     | 0     | 0.01   |
 | Seagate   | ST31000528AS       | 1 TB   | B5B3D29E6DE1 | 1525  | 284   | 0.01   |
 | Seagate   | ST3320613AS        | 320 GB | 65F32241AB96 | 1405  | 262   | 0.01   |
 | Seagate   | ST3500418AS        | 500 GB | 655EA0F124C2 | 1367  | 255   | 0.01   |
@@ -14640,6 +14784,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000LPCX-24VHAT0 | 500 GB | 38AEB9123D91 | 5     | 0     | 0.01   |
 | Seagate   | ST3500820AS        | 500 GB | 19286FF31761 | 477   | 93    | 0.01   |
 | WDC       | WD1600BEVS-60RST0  | 160 GB | 2CA3DF47AEDC | 81    | 15    | 0.01   |
+| Seagate   | ST3250310AS        | 250 GB | F6A31DEEA71F | 1155  | 227   | 0.01   |
 | WDC       | WD10JPVX-75JC3T0   | 1 TB   | 477E74465C14 | 172   | 33    | 0.01   |
 | Seagate   | ST1000LM024 HN-... | 1 TB   | B0717AB313E8 | 35    | 6     | 0.01   |
 | Hitachi   | HTS541612J9SA00    | 120 GB | 4228FA2E9E5C | 316   | 62    | 0.01   |
@@ -14703,6 +14848,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545050A7E380    | 500 GB | BB3DDC607C0A | 287   | 59    | 0.01   |
 | Seagate   | ST320LT020-9YG142  | 320 GB | 28F4D61412B0 | 124   | 25    | 0.01   |
 | WDC       | WD5000AAKX-60U6AA0 | 500 GB | 42AE720DFA6B | 409   | 85    | 0.01   |
+| Toshiba   | HDWA120            | 2 TB   | F70B88381AFD | 4     | 0     | 0.01   |
 | Hitachi   | HTS543216L9A300    | 160 GB | 1562A55809BC | 180   | 37    | 0.01   |
 | Seagate   | ST31000528AS       | 1 TB   | CBAA61744A9C | 246   | 51    | 0.01   |
 | WDC       | WD5000BEVT-22A0RT0 | 500 GB | EA8E54B82095 | 373   | 78    | 0.01   |
@@ -14721,6 +14867,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST31000524AS       | 1 TB   | 742D6B63F2A2 | 473   | 100   | 0.01   |
 | Hitachi   | HTE721060G9AT00    | 60 GB  | AEA85912A6B4 | 4     | 0     | 0.01   |
 | Seagate   | ST500LM012 HN-M... | 500 GB | FEE2ECE7D0C1 | 4     | 0     | 0.01   |
+| Seagate   | ST500LT012-1DG142  | 500 GB | 2AC16E906DF8 | 4     | 0     | 0.01   |
 | WDC       | WD5003AZEX-00K1GA0 | 500 GB | 306E6D4AB48B | 4     | 0     | 0.01   |
 | Seagate   | STM3250318AS       | 250 GB | 362E70F7256D | 340   | 72    | 0.01   |
 | Hitachi   | HDS721616PLA380    | 160 GB | 80DD8920E98C | 988   | 211   | 0.01   |
@@ -14819,6 +14966,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9500420AS        | 500 GB | E58E53A3F65C | 562   | 135   | 0.01   |
 | Seagate   | ST3500413AS        | 500 GB | 9F6D450EC343 | 916   | 221   | 0.01   |
 | HGST      | HTS541010A9E680    | 1 TB   | 76877B5C9B38 | 4     | 0     | 0.01   |
+| HGST      | HTS721010A9E630    | 1 TB   | F9A5BBD8AD27 | 4     | 0     | 0.01   |
 | WDC       | WD10EZEX-08WN4A0   | 1 TB   | 8DF60634326A | 4     | 0     | 0.01   |
 | Seagate   | ST1000NM0011       | 1 TB   | 7C541EC38019 | 1095  | 266   | 0.01   |
 | WDC       | WD1002FAEX-00Z3A0  | 1 TB   | 7C011F686A67 | 282   | 68    | 0.01   |
@@ -15027,6 +15175,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3250820AS        | 250 GB | BACE399CB866 | 1741  | 546   | 0.01   |
 | Maxtor    | 6E020L0            | 20 GB  | FD8AA8178827 | 22    | 6     | 0.01   |
 | Samsung   | HD161HJ            | 160 GB | 86D421C13248 | 1438  | 452   | 0.01   |
+| Seagate   | ST320LT012-1DG14C  | 320 GB | 27B929C6993F | 3     | 0     | 0.01   |
 | Seagate   | ST500LM012 HN-M... | 500 GB | BEA893A95FCD | 3     | 0     | 0.01   |
 | Toshiba   | MK3276GSX -63      | 320 GB | 2213AF191160 | 3     | 0     | 0.01   |
 | Toshiba   | MQ01ABF050         | 500 GB | 335BBBB3D93F | 3     | 0     | 0.01   |
@@ -15253,6 +15402,7 @@ Rating — avg. rating per sample.
 | Samsung   | SP0802N            | 75 GB  | 33A3D51A27C9 | 647   | 279   | 0.01   |
 | Samsung   | HD502IJ            | 500 GB | 6A0DBB49F6D2 | 1476  | 640   | 0.01   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 4A098D6826A9 | 368   | 159   | 0.01   |
+| WDC       | WD2500AAJS-07B4A0  | 250 GB | 96501BDFCD80 | 895   | 388   | 0.01   |
 | WDC       | WD10JPVX-22JC3T0   | 1 TB   | 8A67D32736BB | 105   | 45    | 0.01   |
 | Seagate   | ST3802110A         | 80 GB  | BFA91508ACB7 | 586   | 254   | 0.01   |
 | Hitachi   | HTS541680J9SA00    | 80 GB  | C7FE978C6C61 | 160   | 69    | 0.01   |
@@ -15443,6 +15593,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3320413CS        | 320 GB | FAA06619D76B | 208   | 117   | 0.00   |
 | Maxtor    | 6Y080L0            | 81 GB  | 367655C92E69 | 24    | 13    | 0.00   |
 | Seagate   | ST31000524AS       | 1 TB   | 3D8E8899B13B | 275   | 155   | 0.00   |
+| Samsung   | SP2504C            | 250 GB | F3ACF884E59F | 1971  | 1118  | 0.00   |
 | Toshiba   | MK2533GSG          | 250 GB | B7A1C2C63066 | 1671  | 948   | 0.00   |
 | Hitachi   | HTS545050B9SA00    | 500 GB | C04282DBACBD | 1773  | 1008  | 0.00   |
 | Hitachi   | HDS5C1050CLA382    | 500 GB | 14DB4B86678D | 512   | 291   | 0.00   |
@@ -15535,6 +15686,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD251KJ            | 250 GB | 99A4994F6666 | 1539  | 1019  | 0.00   |
 | Samsung   | HD252KJ            | 250 GB | 3B325ED2DB05 | 1524  | 1013  | 0.00   |
 | WDC       | WD7500AAKS-00RBA0  | 750 GB | FE165AF6D384 | 758   | 503   | 0.00   |
+| Seagate   | ST3120023AS        | 120 GB | 23BA955F26E1 | 152   | 101   | 0.00   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | C06EA2C22A66 | 224   | 149   | 0.00   |
 | Hitachi   | HTS542512K9SA00    | 120 GB | 4A90317F1588 | 1050  | 700   | 0.00   |
 | Samsung   | HD403LJ            | 400 GB | 157EE01FFB95 | 1516  | 1012  | 0.00   |
@@ -15641,13 +15793,16 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKX-001CA0  | 500 GB | CF69CADB82F3 | 122   | 94    | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | CA7A3BFCB02E | 409   | 317   | 0.00   |
 | Seagate   | ST3250820AS        | 250 GB | 0D574BD7D834 | 855   | 664   | 0.00   |
+| Seagate   | ST3500418AS        | 500 GB | 6AA20D57B660 | 1231  | 957   | 0.00   |
 | Hitachi   | HDS721010CLA332    | 1 TB   | 42D026A8F971 | 627   | 489   | 0.00   |
+| WDC       | WD2500BEVT-22A23T0 | 250 GB | 24C7184B974E | 11    | 8     | 0.00   |
 | Seagate   | ST9250315AS        | 250 GB | 6146BC9BC61D | 651   | 511   | 0.00   |
 | Fujitsu   | MHY2120BH          | 120 GB | 1AE4E8DDFD1A | 366   | 287   | 0.00   |
 | Seagate   | ST9320325AS        | 320 GB | F866DEEAF066 | 841   | 661   | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 89DE2912ED47 | 491   | 386   | 0.00   |
 | Seagate   | ST3500418AS        | 500 GB | B31437157801 | 408   | 321   | 0.00   |
 | Toshiba   | MK8034GSX          | 78 GB  | 33DF5C310FC8 | 262   | 207   | 0.00   |
+| Seagate   | ST9500325AS        | 500 GB | D8DF602A44C4 | 444   | 353   | 0.00   |
 | Seagate   | ST9160821AS        | 160 GB | 7DF65D0E9EC3 | 456   | 363   | 0.00   |
 | Seagate   | ST1000DM003-9YN162 | 1 TB   | ECD41E181E40 | 164   | 130   | 0.00   |
 | Hitachi   | HDT725032VLA380    | 320 GB | 69BA0FA26475 | 1188  | 949   | 0.00   |
@@ -15667,6 +15822,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9320325AS        | 320 GB | 06D00C731592 | 749   | 613   | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 4FEB50E91140 | 1348  | 1106  | 0.00   |
 | Seagate   | ST3500320NS        | 500 GB | FC680EEF7C1B | 1267  | 1040  | 0.00   |
+| Toshiba   | MK1059GSM          | 1 TB   | 400C2DB4D491 | 597   | 490   | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 7B8D15C6B745 | 811   | 666   | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 3476094863CB | 1273  | 1048  | 0.00   |
 | Toshiba   | MK1059GSMP         | 1 TB   | 3500B82B8F65 | 876   | 722   | 0.00   |
@@ -15794,6 +15950,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD200HJ            | 200 GB | 01A1F23592C2 | 1059  | 1014  | 0.00   |
 | WDC       | WD2500BEVT-22A23T0 | 250 GB | 0033709B8F60 | 307   | 294   | 0.00   |
 | Fujitsu   | MHY2250BH          | 250 GB | D577D7D9E343 | 336   | 321   | 0.00   |
+| WDC       | WD3200AAJB-00J3A0  | 320 GB | CCD4B9A542FA | 387   | 371   | 0.00   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | E7746DE87F8F | 1     | 0     | 0.00   |
 | Seagate   | ST500LM030-1RK17D  | 500 GB | E24346A75D15 | 1     | 0     | 0.00   |
 | Toshiba   | MK5061GSY          | 500 GB | 616852D4C4F6 | 1     | 0     | 0.00   |
@@ -15847,6 +16004,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPLX-00MBPT0   | 1 TB   | A56B631E11D5 | 57    | 57    | 0.00   |
 | Seagate   | ST9160827AS        | 160 GB | 1B0EF8BF524C | 1083  | 1098  | 0.00   |
 | Seagate   | ST9250315AS        | 250 GB | C719DD2DA9E8 | 995   | 1009  | 0.00   |
+| Toshiba   | MK3275GSX          | 320 GB | B10FC82D6D5F | 520   | 527   | 0.00   |
 | Seagate   | ST3500418AS        | 500 GB | 1626943851D0 | 991   | 1008  | 0.00   |
 | WDC       | WD5000AAKS-00UU3A0 | 500 GB | 89B0D5B1B9CC | 42    | 42    | 0.00   |
 | Samsung   | HD161HJ            | 160 GB | 99D1A9C2B7AA | 1016  | 1035  | 0.00   |
@@ -15953,6 +16111,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST31000528AS       | 1 TB   | 1E44F77E9173 | 698   | 807   | 0.00   |
 | Samsung   | HD082GJ            | 80 GB  | 054CFB92E42E | 877   | 1015  | 0.00   |
 | Samsung   | SP2504C            | 250 GB | 6835C133E6D5 | 880   | 1019  | 0.00   |
+| WDC       | WD5000AAKS-00V1A0  | 500 GB | A9828A821FFB | 878   | 1018  | 0.00   |
 | Samsung   | HD160JJ            | 160 GB | BE352EDCF002 | 875   | 1015  | 0.00   |
 | Seagate   | ST3320613AS        | 320 GB | 017094F59959 | 895   | 1042  | 0.00   |
 | Seagate   | ST31000524AS       | 1 TB   | FBDB11CAE7DE | 865   | 1009  | 0.00   |
@@ -16009,6 +16168,7 @@ Rating — avg. rating per sample.
 | Seagate   | STM3500418AS       | 500 GB | 7EF9AC20490A | 577   | 721   | 0.00   |
 | Seagate   | ST3120213A         | 120 GB | 0E8F3EB2BD6F | 445   | 557   | 0.00   |
 | Samsung   | HD080HJ            | 80 GB  | 5B58A5E695F1 | 807   | 1013  | 0.00   |
+| Seagate   | ST500LT012-9WS142  | 500 GB | 16CDF9CD9A4B | 331   | 415   | 0.00   |
 | WDC       | WD20EARS-00MVWB0   | 2 TB   | 00867E95EE7B | 1489  | 1869  | 0.00   |
 | Samsung   | HD250HJ            | 250 GB | D32EC00C0C3C | 808   | 1017  | 0.00   |
 | Samsung   | SP2504C            | 250 GB | 40B42BA129E8 | 803   | 1012  | 0.00   |
@@ -16264,6 +16424,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD252KJ            | 250 GB | 08C0F9BCCBE5 | 614   | 1016  | 0.00   |
 | Seagate   | ST31000524AS       | 1 TB   | 520ACE6EBB7F | 1221  | 2020  | 0.00   |
 | Seagate   | ST2000DM001-1CH164 | 2 TB   | 49306F64D359 | 437   | 723   | 0.00   |
+| WDC       | WD2500AAJB-00WGA0  | 250 GB | CA65001DF290 | 333   | 551   | 0.00   |
 | Seagate   | ST1000DL002-9TT153 | 1 TB   | C90E46A2C80A | 608   | 1008  | 0.00   |
 | Maxtor    | 2B020H1            | 20 GB  | A1BC40D31C5C | 33    | 55    | 0.00   |
 | Seagate   | ST2000LM007-1R8174 | 2 TB   | 04678D562BBA | 40    | 67    | 0.00   |
@@ -16414,6 +16575,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST31000340AS       | 1 TB   | EF7D0008D22B | 559   | 1046  | 0.00   |
 | Samsung   | HD160JJ-P          | 160 GB | 8EE2A3E9B606 | 548   | 1028  | 0.00   |
 | WDC       | WD15EARS-19MVWB0   | 1.5 TB | 1CAC41B50BE0 | 696   | 1306  | 0.00   |
+| Hitachi   | HTS547575A9E384    | 750 GB | CD7D73BF707D | 547   | 1028  | 0.00   |
 | Seagate   | ST380815AS         | 80 GB  | 1AA82236C48F | 2151  | 4057  | 0.00   |
 | WDC       | WD3200BEKT-60V5T1  | 320 GB | FFC286BA05E2 | 534   | 1008  | 0.00   |
 | Hitachi   | HTS723212L9A360    | 120 GB | A52FFA2E89A0 | 535   | 1012  | 0.00   |
@@ -16453,6 +16615,7 @@ Rating — avg. rating per sample.
 | Samsung   | HM321HI            | 320 GB | 871539AE0C51 | 498   | 975   | 0.00   |
 | Seagate   | ST3160811AS        | 160 GB | 85BA4BF5806F | 1104  | 2162  | 0.00   |
 | Hitachi   | HTS725032A9A364    | 320 GB | 155151972009 | 665   | 1304  | 0.00   |
+| HGST      | HTS541010A9E680    | 1 TB   | 823C4DC3D10F | 527   | 1033  | 0.00   |
 | Hitachi   | HTS543232A7A384    | 320 GB | 95ED77DD9B33 | 672   | 1318  | 0.00   |
 | Seagate   | ST9320310AS        | 320 GB | 57FC70FAB008 | 516   | 1013  | 0.00   |
 | Maxtor    | STM380815AS        | 80 GB  | F4DF679CEF98 | 925   | 1819  | 0.00   |
@@ -16555,6 +16718,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160815AS        | 160 GB | 40E9B5E32A4B | 957   | 2064  | 0.00   |
 | Hitachi   | HDS721010DLE630    | 1 TB   | A86D759B92EC | 199   | 430   | 0.00   |
 | Seagate   | ST9320325AS        | 320 GB | 6927AFAC2F94 | 495   | 1071  | 0.00   |
+| Toshiba   | MK7559GSXP         | 750 GB | 5052C080D023 | 223   | 483   | 0.00   |
 | Seagate   | ST31500341AS       | 1.5 TB | 8C8DBF778FB3 | 467   | 1011  | 0.00   |
 | Seagate   | ST9250320AS        | 250 GB | 6A9A27EB072A | 468   | 1013  | 0.00   |
 | Toshiba   | MK7575GSX          | 750 GB | D5D0C6A52E4F | 465   | 1008  | 0.00   |
@@ -16611,6 +16775,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST320LT020-9YG142  | 320 GB | EF1F0FC96B9A | 450   | 1016  | 0.00   |
 | Seagate   | ST9320325AS        | 320 GB | 97ED01960B3B | 452   | 1019  | 0.00   |
 | Samsung   | HD200HJ            | 200 GB | 1083F8925C28 | 459   | 1035  | 0.00   |
+| Maxtor    | STM3160815AS       | 160 GB | 8D1EE1D13494 | 152   | 344   | 0.00   |
 | Toshiba   | MK3265GSX          | 320 GB | 00815E8D90D2 | 538   | 1214  | 0.00   |
 | Seagate   | ST3160811AS        | 160 GB | 965BE0815DE9 | 942   | 2126  | 0.00   |
 | China     | OOS500G            | 500 GB | C246FD5D70E0 | 453   | 1024  | 0.00   |
@@ -16628,6 +16793,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2500BEVS-60UST0  | 250 GB | 9FA783A5C53B | 436   | 1010  | 0.00   |
 | Maxtor    | 6E040L0            | 41 GB  | 78880B433EB0 | 37    | 85    | 0.00   |
 | Hitachi   | HTS545050B9A300    | 500 GB | F56AEECEAFFC | 435   | 1012  | 0.00   |
+| WDC       | WD2500BB-22RDA0    | 250 GB | AD3286FD94F0 | 655   | 1524  | 0.00   |
 | Seagate   | ST9250827AS        | 250 GB | 907D668455E7 | 500   | 1164  | 0.00   |
 | Seagate   | ST3500418AS        | 500 GB | 544CC0015F4D | 432   | 1009  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 26F9666A641D | 503   | 1177  | 0.00   |
@@ -16645,6 +16811,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST31000528AS       | 1 TB   | 372047E1266B | 849   | 2016  | 0.00   |
 | Seagate   | ST320LT007-9ZV142  | 320 GB | 121229AD81C8 | 211   | 501   | 0.00   |
 | Samsung   | HD082GJ            | 80 GB  | 0B7E39EAF07E | 426   | 1015  | 0.00   |
+| Seagate   | ST3500320AS        | 500 GB | ECD4EF21D7A0 | 990   | 2359  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | A131E4D73DB9 | 423   | 1010  | 0.00   |
 | Samsung   | HD322HJ            | 320 GB | B8E60FB592B9 | 422   | 1007  | 0.00   |
 | Hitachi   | HTS547550A9E384    | 500 GB | A3D92985F627 | 431   | 1032  | 0.00   |
@@ -16662,6 +16829,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9160821AS        | 160 GB | C18A9BE613AA | 852   | 2056  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | A3F1ECDE66A5 | 419   | 1013  | 0.00   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 4DFD8BC1024A | 20    | 48    | 0.00   |
+| Samsung   | HD161HJ            | 160 GB | EB041BF953F5 | 418   | 1014  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 8072A6E138EA | 416   | 1009  | 0.00   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 1F8834A6FB90 | 843   | 2049  | 0.00   |
 | Hitachi   | HTS725050A9A364    | 500 GB | C6DE9AEE96DF | 441   | 1073  | 0.00   |
@@ -16671,6 +16839,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3320620AS        | 320 GB | 351BD7FCF516 | 904   | 2215  | 0.00   |
 | WDC       | WD3200BEVT-22A23T0 | 320 GB | D6BF24C878F6 | 686   | 1684  | 0.00   |
 | Toshiba   | MK5076GSX          | 500 GB | 3F58392B856E | 3     | 8     | 0.00   |
+| Seagate   | ST9500325AS        | 500 GB | 6F172C65A51E | 411   | 1013  | 0.00   |
 | Seagate   | ST3500418AS        | 500 GB | 10454A51B042 | 409   | 1008  | 0.00   |
 | WDC       | WD10EARS-00Y5B1    | 1 TB   | A88798204EB8 | 688   | 1700  | 0.00   |
 | Hitachi   | HTS541010A9E680    | 1 TB   | 9700EBBF20CD | 415   | 1027  | 0.00   |
@@ -16730,6 +16899,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9500420AS        | 500 GB | 7FA7494645C5 | 387   | 1009  | 0.00   |
 | Hitachi   | HTS545050B9SA00    | 500 GB | 2BB367F00228 | 386   | 1009  | 0.00   |
 | Seagate   | STM3500418AS       | 500 GB | F60CD3506521 | 388   | 1012  | 0.00   |
+| Seagate   | ST3500413AS        | 500 GB | 66F9D19E30B8 | 387   | 1010  | 0.00   |
 | Seagate   | ST3160815AS        | 160 GB | 6AFC432CF369 | 868   | 2268  | 0.00   |
 | Hitachi   | HTS725025A9A364    | 250 GB | 67836EDE2303 | 388   | 1016  | 0.00   |
 | Hitachi   | HTS542516K9SA00    | 160 GB | 33D26D4E2747 | 601   | 1573  | 0.00   |
@@ -16813,6 +16983,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS725050A9A364    | 500 GB | DD77C5E843B6 | 363   | 1015  | 0.00   |
 | Seagate   | ST1000DL002-9TT153 | 1 TB   | A27BDE383251 | 1315  | 3678  | 0.00   |
 | Seagate   | ST3250318AS        | 250 GB | 880760BF6F1F | 257   | 720   | 0.00   |
+| Seagate   | ST500LT012-9WS142  | 500 GB | 53CF0B74D93A | 359   | 1009  | 0.00   |
 | Seagate   | ST320LT020-9YG142  | 320 GB | FE6CDE660A17 | 359   | 1009  | 0.00   |
 | Toshiba   | MQ01ABD100         | 1 TB   | C199820E1A5C | 359   | 1012  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | A91BC7FD8977 | 493   | 1388  | 0.00   |
@@ -16839,6 +17010,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3500320AS        | 500 GB | 1B2A12D6B25A | 715   | 2070  | 0.00   |
 | Fujitsu   | MHZ2160BH G2       | 160 GB | 654949507B25 | 354   | 1025  | 0.00   |
 | Maxtor    | STM3250310AS       | 250 GB | D74B6D30EDAC | 351   | 1018  | 0.00   |
+| Maxtor    | STM3320613AS       | 320 GB | 12BA8689483E | 541   | 1570  | 0.00   |
 | Seagate   | ST3250310AS        | 250 GB | 5B6C2CBE4DF0 | 353   | 1028  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 8AAEF5FA3273 | 347   | 1009  | 0.00   |
 | Seagate   | ST3500418AS        | 500 GB | E1A1623C1B6A | 347   | 1012  | 0.00   |
@@ -16971,6 +17143,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST3160812A         | 160 GB | 344981FDA479 | 625   | 2125  | 0.00   |
 | Seagate   | ST9250320AS        | 250 GB | BE5371487F0E | 296   | 1010  | 0.00   |
 | Hitachi   | HDS723020BLA642    | 2 TB   | 44600F8F2D32 | 297   | 1014  | 0.00   |
+| Toshiba   | MK6465GSX          | 640 GB | 34CB90058ACC | 417   | 1423  | 0.00   |
 | Seagate   | ST9250315AS        | 250 GB | 41A6A1103703 | 591   | 2016  | 0.00   |
 | Toshiba   | MQ01ABD100         | 1 TB   | 8A77F82E95DE | 360   | 1234  | 0.00   |
 | Fujitsu   | MHV2120BH PL       | 120 GB | B854F11D5FE4 | 0     | 0     | 0.00   |
@@ -17046,6 +17219,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS542512K9SA00    | 120 GB | 7B09F82D67C6 | 271   | 1014  | 0.00   |
 | Toshiba   | MK5059GSXP         | 500 GB | 94BCB8BF67EC | 293   | 1095  | 0.00   |
 | Seagate   | ST3250820AS        | 250 GB | 52142BEB75F1 | 547   | 2045  | 0.00   |
+| HGST      | HTS541010A9E680    | 1 TB   | 18F82356FC62 | 274   | 1025  | 0.00   |
 | HGST      | HTS545050A7E380    | 500 GB | E425C02840BF | 274   | 1025  | 0.00   |
 | Hitachi   | HTS725025A9A364    | 250 GB | 0F5FE6F91BE8 | 547   | 2050  | 0.00   |
 | Maxtor    | STM380215AS        | 80 GB  | 9DA0E24D8000 | 730   | 2742  | 0.00   |
@@ -17252,6 +17426,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721680PLA380    | 80 GB  | 8C864A958858 | 393   | 2023  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | 4B2BB0444AA7 | 195   | 1009  | 0.00   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 503DE77E0A97 | 195   | 1010  | 0.00   |
+| Hitachi   | HTS547575A9E384    | 750 GB | B978238D4353 | 478   | 2473  | 0.00   |
 | Hitachi   | HDS721010DLE630    | 1 TB   | D3241E6D1F80 | 390   | 2019  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 52A569EDC0D3 | 195   | 1010  | 0.00   |
 | Hitachi   | HTS541080G9AT00    | 72 GB  | D32C50946E8B | 104   | 541   | 0.00   |
@@ -17363,7 +17538,9 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LT012-9WS142  | 500 GB | 68DB1B842F61 | 171   | 1064  | 0.00   |
 | Seagate   | ST3200822AS        | 200 GB | 87923AB5D7F3 | 325   | 2027  | 0.00   |
 | HGST      | HTS545050A7E680    | 500 GB | C90D44CEACCD | 324   | 2018  | 0.00   |
+| WDC       | WD2500AAJS-00VTA0  | 250 GB | 36DC3CA59EE3 | 239   | 1491  | 0.00   |
 | WDC       | WD20EARX-00PASB0   | 2 TB   | CC65E8192BD2 | 323   | 2019  | 0.00   |
+| Samsung   | HD080HJ            | 80 GB  | E7B2B23C42BB | 161   | 1014  | 0.00   |
 | Seagate   | ST9500325AS        | 500 GB | 5CBEEB0A43E0 | 161   | 1014  | 0.00   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 12114E9BA340 | 157   | 986   | 0.00   |
 | Seagate   | ST3802110A         | 80 GB  | 0F470737474E | 325   | 2048  | 0.00   |
@@ -17392,6 +17569,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS545050B9A300    | 500 GB | 93BF73B1FCD2 | 154   | 1013  | 0.00   |
 | Samsung   | HD502IJ            | 500 GB | 16315FB39D59 | 153   | 1008  | 0.00   |
 | Samsung   | SP0842N            | 80 GB  | 06868ED08250 | 158   | 1046  | 0.00   |
+| HGST      | HTS541010A9E680    | 1 TB   | 1B13BB779610 | 154   | 1023  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | 992491BB4289 | 152   | 1008  | 0.00   |
 | Seagate   | ST9160821AS        | 160 GB | 0E56197F61F5 | 430   | 2851  | 0.00   |
 | Seagate   | ST250DM000-1BD141  | 249 GB | 19372FC16643 | 267   | 1772  | 0.00   |
@@ -17535,6 +17713,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS541075A7E630    | 750 GB | 91BF1248F8BD | 114   | 1013  | 0.00   |
 | Hitachi   | HTS545050A7E380    | 500 GB | C461DC8CA226 | 228   | 2017  | 0.00   |
 | Seagate   | ST500LM000-SSHD... | 500 GB | 9A59D77B12C4 | 114   | 1008  | 0.00   |
+| Seagate   | ST3750528AS        | 750 GB | 15B63FC27055 | 119   | 1054  | 0.00   |
 | Samsung   | HD161HJ            | 160 GB | 0DB9A9E6642A | 120   | 1071  | 0.00   |
 | Hitachi   | HTS542516K9SA00    | 77 GB  | 3EE7D51D31E5 | 116   | 1039  | 0.00   |
 | Hitachi   | HTS725050A7E630    | 500 GB | F886EE8F8924 | 452   | 4057  | 0.00   |
@@ -17689,6 +17868,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST320LT012-9WS14C  | 320 GB | 2D58D31F73F5 | 62    | 1006  | 0.00   |
 | WDC       | WD3200BEKT-60V5T1  | 320 GB | A6E18B2B898A | 62    | 1009  | 0.00   |
 | Toshiba   | DT01ACA050         | 500 GB | 1157D04F1EFB | 62    | 1013  | 0.00   |
+| Seagate   | ST1000LM035-1RK172 | 1 TB   | 7AD0E5F6FFF5 | 61    | 1005  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | DED03793D62F | 61    | 1007  | 0.00   |
 | Hitachi   | HTS545050B9A300    | 500 GB | F2FC8A9204C3 | 67    | 1108  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | 0CD0F9268EB4 | 61    | 1007  | 0.00   |
@@ -17795,6 +17975,7 @@ Rating — avg. rating per sample.
 | HGST      | HTS725050A7E630    | 500 GB | 827347D83DB7 | 30    | 1026  | 0.00   |
 | Seagate   | ST500LT012-9WS142  | 500 GB | 992F723C2E28 | 93    | 3165  | 0.00   |
 | Hitachi   | HTS725016A9A364    | 160 GB | 244FC8659533 | 29    | 1015  | 0.00   |
+| WDC       | WD5000BMVW-11AJGS4 | 500 GB | 6D8697E22B48 | 16    | 562   | 0.00   |
 | Maxtor    | 6Y080L0            | 81 GB  | 63827240E2F0 | 29    | 1019  | 0.00   |
 | Toshiba   | MK3276GSX          | 320 GB | ADCB89AD5510 | 3     | 108   | 0.00   |
 | WDC       | WD2500AAKX-00ERMA0 | 250 GB | CFC274017F8C | 0     | 8     | 0.00   |
@@ -17812,6 +17993,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST340014A          | 40 GB  | 3990F34ACB82 | 11    | 526   | 0.00   |
 | HGST      | HTS545050A7E680    | 500 GB | 496B561E8586 | 21    | 1013  | 0.00   |
 | Toshiba   | MQ01ABF050         | 500 GB | DAF1D85FC9D4 | 27    | 1323  | 0.00   |
+| Seagate   | ST9160821AS        | 160 GB | 830B9C256E11 | 83    | 4037  | 0.00   |
 | Seagate   | ST500LT012-1DG142  | 500 GB | 14EDE1F3618A | 20    | 1014  | 0.00   |
 | Hitachi   | HTS725050A9A364    | 500 GB | 1B18EF7BB8AB | 20    | 1015  | 0.00   |
 | Hitachi   | HTS541616J9SA00    | 160 GB | 1F07078C0E47 | 1     | 96    | 0.00   |
@@ -17852,6 +18034,7 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHV2080BH PL       | 80 GB  | 35B26C75ECE6 | 0     | 6     | 0.00   |
 | WDC       | WD10EARS-00Z5B1    | 1 TB   | 37FC494A197D | 2     | 407   | 0.00   |
 | WDC       | WD2500AAKX-603CA0  | 250 GB | 908F14D6252B | 6     | 1201  | 0.00   |
+| Maxtor    | 6Y160P0            | 163 GB | 15D13D644998 | 2     | 556   | 0.00   |
 | Toshiba   | MK5061GSYN         | 500 GB | 2B8B7DD9E78D | 3     | 743   | 0.00   |
 | Toshiba   | MK3256GSY          | 320 GB | F4769B5CFFEF | 5     | 1053  | 0.00   |
 | HGST      | HTS545050A7E680    | 500 GB | 1FFDAE5F13BE | 5     | 1012  | 0.00   |

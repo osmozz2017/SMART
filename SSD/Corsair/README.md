@@ -36,6 +36,7 @@ Rating — avg. rating per sample.
 | Corsair   | Force GS           | 240 GB | 1       | 365   | 0     | 1.00   |
 | Corsair   | Force 3 SSD        | 90 GB  | 4       | 284   | 0     | 0.78   |
 | Corsair   | Force GS           | 128 GB | 13      | 232   | 0     | 0.64   |
+| Corsair   | Force 3 SSD        | 180 GB | 1       | 232   | 0     | 0.64   |
 | Corsair   | Force 3 SSD        | 480 GB | 1       | 226   | 0     | 0.62   |
 | Corsair   | Force GT           | 90 GB  | 2       | 361   | 1     | 0.37   |
 | Corsair   | Neutron GTX SSD    | 240 GB | 3       | 165   | 98    | 0.33   |
@@ -43,6 +44,7 @@ Rating — avg. rating per sample.
 | Corsair   | Force LS SSD       | 120 GB | 7       | 166   | 433   | 0.30   |
 | Corsair   | Force LS SSD       | 480 GB | 1       | 80    | 0     | 0.22   |
 | Corsair   | Neutron SSD        | 64 GB  | 2       | 174   | 6     | 0.21   |
+| Corsair   | Force LE200 SSD    | 240 GB | 1       | 64    | 0     | 0.18   |
 | Corsair   | Neutron GTX SSD    | 480 GB | 1       | 49    | 0     | 0.14   |
 | Corsair   | Force LS SSD       | 60 GB  | 12      | 150   | 250   | 0.13   |
 | Corsair   | CSSD-V32GB2        | 32 GB  | 1       | 99    | 3     | 0.07   |
@@ -61,6 +63,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Corsair   | SandForce Driven SSDs  | 18     | 76      | 415   | 95    | 0.96   |
-| Corsair   | Unknown                | 5      | 9       | 174   | 34    | 0.38   |
+| Corsair   | SandForce Driven SSDs  | 19     | 77      | 412   | 94    | 0.96   |
+| Corsair   | Unknown                | 6      | 10      | 163   | 31    | 0.36   |
 | Corsair   | Indilinx Barefoot b... | 1      | 1       | 99    | 3     | 0.07   |
