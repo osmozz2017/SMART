@@ -45,11 +45,11 @@ Rating — avg. rating per sample.
 | ADATA     | SP900              | 512 GB | 2       | 66    | 0     | 0.18   |
 | ADATA     | SP600              | 128 GB | 2       | 42    | 0     | 0.12   |
 | ADATA     | SP610              | 128 GB | 1       | 39    | 0     | 0.11   |
+| ADATA     | SX950              | 240 GB | 1       | 34    | 0     | 0.09   |
 | ADATA     | SP900NS34          | 128 GB | 1       | 30    | 0     | 0.08   |
 | ADATA     | SU800NS38          | 256 GB | 1       | 29    | 0     | 0.08   |
 | ADATA     | SU650              | 240 GB | 1       | 26    | 0     | 0.07   |
 | ADATA     | SP610              | 256 GB | 1       | 18    | 0     | 0.05   |
-| ADATA     | SX950              | 240 GB | 1       | 16    | 0     | 0.05   |
 | ADATA     | IM2S3138E-128GM-B  | 128 GB | 1       | 11    | 0     | 0.03   |
 | ADATA     | SX300              | 128 GB | 1       | 10    | 0     | 0.03   |
 | ADATA     | SU800              | 128 GB | 10      | 13    | 9     | 0.03   |

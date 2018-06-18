@@ -30,9 +30,9 @@ Rating — avg. rating per sample.
 | WDC       | WDS500G1B0A-00H9H0 | 500 GB | 2       | 16    | 0     | 0.04   |
 | WDC       | WDS120G1G0A-00SS50 | 120 GB | 8       | 11    | 0     | 0.03   |
 | WDC       | WDS120G1G0B-00RC30 | 120 GB | 1       | 1     | 0     | 0.00   |
+| WDC       | WDS120G2G0A-00JH30 | 120 GB | 1       | 0     | 0     | 0.00   |
 | WDC       | WDS250G2B0A-00SM50 | 250 GB | 1       | 0     | 0     | 0.00   |
 | WDC       | WDS100T1B0A-00H9H0 | 1 TB   | 1       | 0     | 0     | 0.00   |
-| WDC       | WDS120G2G0A-00JH30 | 120 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
 -------------

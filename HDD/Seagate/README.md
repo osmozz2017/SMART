@@ -66,8 +66,8 @@ Rating — avg. rating per sample.
 | Seagate   | ST32000644NS       | 2 TB   | 2       | 608   | 1     | 1.66   |
 | Seagate   | ST980411ASG        | 80 GB  | 2       | 831   | 7     | 1.65   |
 | Seagate   | ST9200420AS        | 200 GB | 2       | 601   | 0     | 1.65   |
+| Seagate   | ST3250820AS        | 250 GB | 31      | 878   | 274   | 1.65   |
 | Seagate   | ST3320620AS        | 320 GB | 83      | 1011  | 248   | 1.64   |
-| Seagate   | ST3250820AS        | 250 GB | 31      | 876   | 274   | 1.64   |
 | Seagate   | ST3500320NS        | 500 GB | 6       | 1002  | 190   | 1.64   |
 | Seagate   | ST2000DL003-9VT166 | 2 TB   | 45      | 694   | 80    | 1.61   |
 | Seagate   | ST3160212AS        | 160 GB | 2       | 572   | 0     | 1.57   |
@@ -131,10 +131,10 @@ Rating — avg. rating per sample.
 | Seagate   | ST3200820A         | 200 GB | 3       | 474   | 101   | 1.09   |
 | Seagate   | ST3160318AS        | 160 GB | 35      | 657   | 100   | 1.09   |
 | Seagate   | ST2000NM0033-9Z... | 2 TB   | 3       | 392   | 0     | 1.07   |
+| Seagate   | ST3500418AS        | 500 GB | 232     | 703   | 177   | 1.07   |
 | Seagate   | ST2000NC001-1DY164 | 2 TB   | 4       | 390   | 0     | 1.07   |
-| Seagate   | ST3500418AS        | 500 GB | 232     | 702   | 177   | 1.07   |
 | Seagate   | ST3250820ACE       | 250 GB | 3       | 520   | 698   | 1.05   |
-| Seagate   | ST3200820AS        | 200 GB | 18      | 719   | 590   | 1.05   |
+| Seagate   | ST3200820AS        | 200 GB | 18      | 720   | 590   | 1.05   |
 | Seagate   | ST1500DM003-1CH16G | 1.5 TB | 7       | 416   | 2     | 1.05   |
 | Seagate   | ST3500514NS        | 500 GB | 7       | 1229  | 128   | 1.04   |
 | Seagate   | ST340212AS         | 40 GB  | 2       | 1049  | 105   | 1.04   |
@@ -176,23 +176,23 @@ Rating — avg. rating per sample.
 | Seagate   | ST500DM005 HD502HJ | 500 GB | 25      | 405   | 3     | 0.83   |
 | Seagate   | ST3250620A         | 250 GB | 11      | 536   | 58    | 0.82   |
 | Seagate   | ST1000DM003-9YN162 | 1 TB   | 68      | 492   | 260   | 0.81   |
-| Seagate   | ST320011A          | 20 GB  | 6       | 549   | 5     | 0.80   |
 | Seagate   | ST31000524AS       | 1 TB   | 121     | 538   | 227   | 0.80   |
+| Seagate   | ST320011A          | 20 GB  | 6       | 549   | 5     | 0.80   |
 | Seagate   | ST340016A          | 40 GB  | 21      | 601   | 33    | 0.80   |
+| Seagate   | ST1000DM003-1CH162 | 1 TB   | 194     | 368   | 18    | 0.79   |
 | Seagate   | ST2000VX000-1CU164 | 2 TB   | 8       | 286   | 0     | 0.79   |
-| Seagate   | ST1000DM003-1CH162 | 1 TB   | 194     | 368   | 18    | 0.78   |
 | Seagate   | ST3160316AS        | 160 GB | 8       | 470   | 11    | 0.78   |
 | Seagate   | ST2000DX001-1NS164 | 2 TB   | 2       | 279   | 0     | 0.77   |
 | Seagate   | ST3160023AS        | 160 GB | 9       | 738   | 52    | 0.76   |
 | Seagate   | STM3500418AS       | 500 GB | 18      | 805   | 420   | 0.76   |
 | Seagate   | ST3000DM001-1ER166 | 3 TB   | 6       | 274   | 0     | 0.75   |
-| Seagate   | ST31000528AS       | 1 TB   | 123     | 597   | 246   | 0.73   |
+| Seagate   | ST31000528AS       | 1 TB   | 123     | 598   | 246   | 0.73   |
 | Seagate   | ST250DM000-1BC141  | 250 GB | 8       | 339   | 12    | 0.72   |
 | Seagate   | ST330013A          | 30 GB  | 1       | 259   | 0     | 0.71   |
 | Seagate   | ST91208220AS       | 120 GB | 2       | 461   | 507   | 0.71   |
+| Seagate   | ST1000DM003-1ER162 | 1 TB   | 102     | 255   | 2     | 0.70   |
 | Seagate   | ST250DM000-1BD141  | 250 GB | 51      | 398   | 143   | 0.70   |
 | Seagate   | ST3750528AS        | 750 GB | 29      | 656   | 207   | 0.69   |
-| Seagate   | ST1000DM003-1ER162 | 1 TB   | 102     | 253   | 2     | 0.69   |
 | Seagate   | ST3120211AS        | 120 GB | 4       | 601   | 15    | 0.69   |
 | Seagate   | ST500DM002-1BD142  | 500 GB | 312     | 362   | 82    | 0.68   |
 | Seagate   | ST980813AS         | 80 GB  | 1       | 246   | 0     | 0.67   |
@@ -203,9 +203,9 @@ Rating — avg. rating per sample.
 | Seagate   | ST33000651AS       | 3 TB   | 2       | 233   | 0     | 0.64   |
 | Seagate   | ST1500DL003-9VT16L | 1.5 TB | 19      | 734   | 258   | 0.64   |
 | Seagate   | ST500NM0011        | 500 GB | 7       | 750   | 85    | 0.64   |
+| Seagate   | ST4000DM000-1F2168 | 4 TB   | 7       | 258   | 1     | 0.63   |
 | Seagate   | ST9160411AS        | 160 GB | 2       | 474   | 14    | 0.63   |
 | Seagate   | ST1000VM002-1CT162 | 1 TB   | 2       | 227   | 0     | 0.62   |
-| Seagate   | ST4000DM000-1F2168 | 4 TB   | 7       | 255   | 1     | 0.62   |
 | Seagate   | ST9120822AS        | 120 GB | 26      | 430   | 136   | 0.62   |
 | Seagate   | ST3160813AS        | 160 GB | 24      | 817   | 177   | 0.62   |
 | Seagate   | ST3250823A         | 250 GB | 4       | 854   | 659   | 0.62   |
@@ -224,7 +224,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LM012 HN-M... | 500 GB | 118     | 285   | 46    | 0.55   |
 | Seagate   | ST980813ASG        | 80 GB  | 2       | 436   | 6     | 0.55   |
 | Seagate   | ST1000VX001-1HH162 | 1 TB   | 2       | 198   | 0     | 0.54   |
-| Seagate   | ST1000LM024 HN-... | 1 TB   | 296     | 263   | 54    | 0.54   |
+| Seagate   | ST1000LM024 HN-... | 1 TB   | 296     | 264   | 54    | 0.54   |
 | Seagate   | ST94011A           | 40 GB  | 1       | 194   | 0     | 0.53   |
 | Seagate   | ST320414A          | 20 GB  | 1       | 194   | 0     | 0.53   |
 | Seagate   | ST3750640AS        | 750 GB | 7       | 910   | 399   | 0.53   |
@@ -250,13 +250,13 @@ Rating — avg. rating per sample.
 | Seagate   | ST920217AS         | 20 GB  | 1       | 162   | 0     | 0.44   |
 | Seagate   | ST500DM002-9YN14C  | 500 GB | 2       | 391   | 503   | 0.44   |
 | Seagate   | ST910021AS         | 100 GB | 3       | 682   | 53    | 0.43   |
-| Seagate   | ST2000DM001-1ER164 | 2 TB   | 22      | 156   | 0     | 0.43   |
+| Seagate   | ST2000DM001-1ER164 | 2 TB   | 22      | 158   | 0     | 0.43   |
 | Seagate   | ST98823AS          | 80 GB  | 5       | 365   | 830   | 0.43   |
 | Seagate   | STM9120817AS       | 120 GB | 1       | 155   | 0     | 0.43   |
 | Seagate   | ST2000DX001-1CM164 | 2 TB   | 12      | 259   | 301   | 0.42   |
+| Seagate   | ST500LM000-1EJ1... | 500 GB | 2       | 151   | 0     | 0.42   |
 | Seagate   | ST3500312CS        | 500 GB | 8       | 746   | 423   | 0.42   |
-| Seagate   | ST9320325AS        | 320 GB | 146     | 430   | 378   | 0.41   |
-| Seagate   | ST500LM000-1EJ1... | 500 GB | 2       | 150   | 0     | 0.41   |
+| Seagate   | ST9320325AS        | 320 GB | 146     | 431   | 378   | 0.41   |
 | Seagate   | ST1500DM003-9YN16G | 1.5 TB | 14      | 450   | 446   | 0.41   |
 | Seagate   | ST3160815SV        | 160 GB | 5       | 681   | 1240  | 0.41   |
 | Seagate   | ST1000VM002-1SD102 | 1 TB   | 1       | 144   | 0     | 0.40   |
@@ -282,7 +282,7 @@ Rating — avg. rating per sample.
 | Seagate   | ST9160823AS        | 160 GB | 4       | 924   | 638   | 0.32   |
 | Seagate   | ST9500325AS        | 500 GB | 231     | 436   | 597   | 0.31   |
 | Seagate   | ST9100823A         | 95 GB  | 1       | 1007  | 8     | 0.31   |
-| Seagate   | ST320LT020-9YG142  | 320 GB | 88      | 301   | 491   | 0.31   |
+| Seagate   | ST320LT020-9YG142  | 320 GB | 88      | 302   | 491   | 0.31   |
 | Seagate   | ST9320310AS        | 320 GB | 3       | 281   | 338   | 0.30   |
 | Seagate   | ST980811AS         | 80 GB  | 14      | 428   | 342   | 0.30   |
 | Seagate   | ST1000DM003-1SB10C | 1 TB   | 31      | 107   | 0     | 0.29   |
@@ -293,17 +293,17 @@ Rating — avg. rating per sample.
 | Seagate   | ST500LM000-SSHD... | 500 GB | 15      | 185   | 152   | 0.27   |
 | Seagate   | ST3000DM001-9YN166 | 3 TB   | 11      | 475   | 1321  | 0.27   |
 | Seagate   | ST340014AS         | 40 GB  | 2       | 1239  | 1016  | 0.27   |
-| Seagate   | ST380023A          | 80 GB  | 1       | 2900  | 29    | 0.26   |
+| Seagate   | ST380023A          | 80 GB  | 1       | 2902  | 29    | 0.27   |
 | Seagate   | ST9120817AS        | 120 GB | 3       | 370   | 456   | 0.26   |
 | Seagate   | ST4000DM005-2DP166 | 4 TB   | 2       | 94    | 0     | 0.26   |
 | Seagate   | ST1000UM000-1EK164 | 1 TB   | 1       | 94    | 0     | 0.26   |
 | Seagate   | ST4000VN000-1H4168 | 4 TB   | 3       | 93    | 0     | 0.26   |
-| Seagate   | ST500LT012-1DG142  | 500 GB | 212     | 131   | 56    | 0.25   |
+| Seagate   | ST500LT012-1DG142  | 500 GB | 212     | 132   | 56    | 0.26   |
 | Seagate   | ST340810A          | 40 GB  | 7       | 490   | 43    | 0.25   |
 | Seagate   | ST380021A          | 80 GB  | 6       | 663   | 20    | 0.24   |
 | Seagate   | ST9160314AS        | 160 GB | 18      | 229   | 251   | 0.24   |
 | Seagate   | ST750LM030-1KKG62  | 750 GB | 1       | 85    | 0     | 0.23   |
-| Seagate   | ST2000LX001-1RG174 | 2 TB   | 2       | 84    | 0     | 0.23   |
+| Seagate   | ST2000LX001-1RG174 | 2 TB   | 2       | 85    | 0     | 0.23   |
 | Seagate   | ST1000VX000-1ES162 | 1 TB   | 11      | 84    | 0     | 0.23   |
 | Seagate   | ST3500412AS        | 500 GB | 14      | 728   | 571   | 0.23   |
 | Seagate   | ST1000DM003-1SB102 | 1 TB   | 16      | 83    | 0     | 0.23   |
@@ -437,7 +437,7 @@ Rating — avg. rating per sample.
 | Seagate   | Barracuda 7200.12      | 14     | 807     | 656   | 164   | 1.01   |
 | Seagate   | Constellation CS       | 2      | 6       | 368   | 0     | 1.01   |
 | Seagate   | SpinPoint M9T          | 2      | 14      | 356   | 0     | 0.98   |
-| Seagate   | Barracuda ATA V        | 3      | 3       | 1312  | 44    | 0.90   |
+| Seagate   | Barracuda ATA V        | 3      | 3       | 1313  | 44    | 0.90   |
 | Seagate   | Barracuda SpinPoint F3 | 2      | 33      | 438   | 3     | 0.90   |
 | Seagate   | Constellation ES.3     | 4      | 23      | 370   | 45    | 0.89   |
 | Seagate   | Barracuda LP           | 4      | 47      | 847   | 447   | 0.84   |
@@ -447,8 +447,8 @@ Rating — avg. rating per sample.
 | Seagate   | SV35                   | 13     | 62      | 327   | 50    | 0.77   |
 | Seagate   | Barracuda ES.2         | 4      | 20      | 909   | 421   | 0.71   |
 | Seagate   | Barracuda V            | 1      | 1       | 259   | 0     | 0.71   |
-| Seagate   | Barracuda 7200.14 (AF) | 23     | 1048    | 360   | 98    | 0.71   |
-| Seagate   | Desktop HDD.15         | 3      | 10      | 280   | 2     | 0.71   |
+| Seagate   | Barracuda 7200.14 (AF) | 23     | 1048    | 361   | 98    | 0.71   |
+| Seagate   | Desktop HDD.15         | 3      | 10      | 281   | 2     | 0.71   |
 | Seagate   | NAS HDD                | 5      | 7       | 253   | 0     | 0.69   |
 | Seagate   | Momentus 7200.2        | 5      | 11      | 620   | 325   | 0.68   |
 | Seagate   | Maxtor DiamondMax 23   | 4      | 45      | 597   | 221   | 0.67   |

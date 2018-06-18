@@ -32,17 +32,17 @@ Rating — avg. rating per sample.
 | Plextor   | PX-128M7VC         | 128 GB | 5       | 222   | 0     | 0.61   |
 | Plextor   | PX-128M7VG         | 128 GB | 1       | 171   | 0     | 0.47   |
 | Plextor   | PX-256S2C          | 256 GB | 2       | 153   | 0     | 0.42   |
-| Plextor   | PX-128M5S          | 128 GB | 35      | 125   | 0     | 0.34   |
+| Plextor   | PX-128M5S          | 128 GB | 35      | 127   | 0     | 0.35   |
 | Plextor   | PX-128M5M          | 128 GB | 7       | 103   | 0     | 0.28   |
 | Plextor   | PX-256M5S          | 256 GB | 8       | 95    | 0     | 0.26   |
 | Plextor   | PX-256M3           | 256 GB | 1       | 256   | 2     | 0.23   |
 | Plextor   | PX-128M5Pro        | 128 GB | 40      | 83    | 0     | 0.23   |
 | Plextor   | PX-128M6M          | 128 GB | 4       | 67    | 0     | 0.19   |
 | Plextor   | PX-128M6S          | 128 GB | 21      | 67    | 53    | 0.17   |
-| Plextor   | PX-256M6S          | 256 GB | 7       | 56    | 145   | 0.14   |
+| Plextor   | PX-256M6S          | 256 GB | 7       | 61    | 145   | 0.15   |
 | Plextor   | PX-256M5M          | 256 GB | 1       | 34    | 0     | 0.09   |
-| Plextor   | PX-512M5Pro        | 512 GB | 1       | 25    | 0     | 0.07   |
 | Plextor   | PX-128M6Pro        | 128 GB | 7       | 25    | 0     | 0.07   |
+| Plextor   | PX-512M5Pro        | 512 GB | 1       | 25    | 0     | 0.07   |
 | Plextor   | PX-128M6V          | 128 GB | 1       | 22    | 0     | 0.06   |
 | Plextor   | PX-256M6M          | 256 GB | 3       | 29    | 1     | 0.06   |
 | Plextor   | PX-AG128M6e        | 128 GB | 2       | 21    | 0     | 0.06   |
@@ -70,4 +70,4 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Plextor   | Unknown                | 16     | 29      | 132   | 0     | 0.36   |
 | Plextor   | M3/M5 (Pro) Series ... | 8      | 64      | 112   | 17    | 0.28   |
-| Plextor   | M3/M5/M6 Series SSDs   | 7      | 73      | 99    | 30    | 0.26   |
+| Plextor   | M3/M5/M6 Series SSDs   | 7      | 73      | 100   | 30    | 0.27   |
