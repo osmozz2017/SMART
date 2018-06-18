@@ -60,7 +60,7 @@ Rating — avg. rating per sample.
 | SanDisk   | SD5SF2032G1010E    | 32 GB  | 1       | 45    | 0     | 0.13   |
 | SanDisk   | SD6SB1M128G1022I   | 128 GB | 2       | 37    | 0     | 0.10   |
 | SanDisk   | SD8SN8U512G1002    | 512 GB | 1       | 37    | 0     | 0.10   |
-| SanDisk   | SDSSDA240G         | 240 GB | 21      | 36    | 0     | 0.10   |
+| SanDisk   | SDSSDA240G         | 240 GB | 22      | 35    | 0     | 0.10   |
 | SanDisk   | SSD U110           | 63 GB  | 1       | 34    | 0     | 0.09   |
 | SanDisk   | SD6SB1M-032G-1006  | 32 GB  | 1       | 33    | 0     | 0.09   |
 | SanDisk   | SDSSDXP120G        | 120 GB | 1       | 32    | 0     | 0.09   |
@@ -112,4 +112,4 @@ Rating — avg. rating per sample.
 | SanDisk   | Marvell based SanDi... | 22     | 78      | 166   | 20    | 0.44   |
 | SanDisk   | SanDisk based SSDs     | 17     | 82      | 124   | 31    | 0.29   |
 | SanDisk   | Unknown                | 28     | 41      | 104   | 84    | 0.22   |
-| SanDisk   | SandForce Driven SSDs  | 5      | 46      | 51    | 24    | 0.14   |
+| SanDisk   | SandForce Driven SSDs  | 5      | 47      | 51    | 24    | 0.14   |
