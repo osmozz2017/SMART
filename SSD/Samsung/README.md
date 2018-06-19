@@ -138,6 +138,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Samsung   | based SSDs             | 64     | 408     | 192   | 8     | 0.52   |
-| Samsung   | Samsung based SSDs     | 26     | 42      | 179   | 89    | 0.47   |
+| Samsung   | Samsung based SSDs     | 90     | 450     | 191   | 16    | 0.51   |
 | Samsung   | Unknown                | 11     | 15      | 189   | 3     | 0.44   |

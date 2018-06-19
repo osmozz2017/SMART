@@ -3413,13 +3413,12 @@ Rating — avg. rating per sample.
 | Intel     | Unknown                | 6      | 9       | 262   | 113   | 0.63   |
 | Toshiba   | Unknown                | 12     | 15      | 230   | 8     | 0.61   |
 | Kingston  | SandForce Driven SSDs  | 27     | 445     | 221   | 31    | 0.54   |
-| Samsung   | based SSDs             | 64     | 408     | 192   | 8     | 0.52   |
+| Samsung   | Samsung based SSDs     | 90     | 450     | 191   | 16    | 0.51   |
 | Intel     | X18-M/X25-M/X25-V G... | 9      | 15      | 545   | 9     | 0.51   |
 | Toshiba   | HG6 Series SSD         | 3      | 7       | 186   | 0     | 0.51   |
 | OCZ       | Indilinx Barefoot b... | 2      | 2       | 185   | 0     | 0.51   |
 | Crucial   | MX100/M500/M510/M55... | 2      | 13      | 181   | 0     | 0.50   |
 | Transcend | SandForce Driven SSDs  | 4      | 6       | 177   | 0     | 0.49   |
-| Samsung   | Samsung based SSDs     | 26     | 42      | 179   | 89    | 0.47   |
 | OCZ       | Indilinx Barefoot 3... | 9      | 26      | 163   | 1     | 0.45   |
 | Samsung   | Unknown                | 11     | 15      | 189   | 3     | 0.44   |
 | SanDisk   | Marvell based SanDi... | 22     | 78      | 166   | 20    | 0.44   |
