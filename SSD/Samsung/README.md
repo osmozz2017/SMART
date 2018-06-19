@@ -119,11 +119,11 @@ Rating — avg. rating per sample.
 | Samsung   | MZ7LF120HCHP-000L1 | 120 GB | 1       | 1     | 0     | 0.00   |
 | Samsung   | MZNTY128HDHP-000H1 | 128 GB | 1       | 1     | 0     | 0.00   |
 | Samsung   | MZMTD512HAGL-000L1 | 512 GB | 1       | 107   | 97    | 0.00   |
+| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 1       | 0     | 0     | 0.00   |
 | Samsung   | SSD 860 EVO mSATA  | 250 GB | 1       | 0     | 0     | 0.00   |
 | Samsung   | MZNTY256HDHP-00000 | 256 GB | 1       | 0     | 0     | 0.00   |
 | Samsung   | MZ7PA256HMDR-010H1 | 256 GB | 1       | 236   | 1040  | 0.00   |
 | Samsung   | MZMPA128HMFU-000H1 | 128 GB | 2       | 69    | 1727  | 0.00   |
-| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 1       | 0     | 100   | 0.00   |
 
 SSD by Family
 -------------
@@ -138,5 +138,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Samsung   | Samsung based SSDs     | 90     | 450     | 191   | 16    | 0.51   |
+| Samsung   | Samsung based SSDs     | 90     | 450     | 191   | 16    | 0.52   |
 | Samsung   | Unknown                | 11     | 15      | 189   | 3     | 0.44   |

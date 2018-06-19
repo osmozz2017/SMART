@@ -2719,6 +2719,7 @@ Rating — avg. rating per sample.
 | SanDisk   | SD6SB1M256G1022I   | 256 GB | 506B6BEBF96F | 400   | 474   | 0.00   |
 | KingFast  | SSD                | 128 GB | 96D480FA332E | 0     | 0     | 0.00   |
 | Kingston  | SV300S37A120G      | 120 GB | 230B2A3C4A08 | 0     | 0     | 0.00   |
+| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 215C39C5B543 | 0     | 0     | 0.00   |
 | Transcend | TS128GSSD370S      | 128 GB | F44D355304AF | 0     | 0     | 0.00   |
 | WDC       | WDS120G2G0A-00JH30 | 120 GB | 71586C68C8E9 | 0     | 0     | 0.00   |
 | SK hynix  | HFS128G38MNB-2200A | 128 GB | AC9D0F2B1BF1 | 41    | 50    | 0.00   |
@@ -3006,7 +3007,6 @@ Rating — avg. rating per sample.
 | AMD       | R5S120GBSF         | 120 GB | F949F54876D3 | 15    | 1016  | 0.00   |
 | Kingston  | SHFS37A120G        | 120 GB | 5CA853E2F565 | 11    | 1016  | 0.00   |
 | Kingston  | SHFS37A120G        | 120 GB | F86547948B21 | 11    | 1016  | 0.00   |
-| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 215C39C5B543 | 0     | 100   | 0.00   |
 | Kingston  | SHFS37A120G        | 120 GB | C14329F3FCA0 | 8     | 1015  | 0.00   |
 | Kingston  | SHFS37A120G        | 120 GB | F25C11067472 | 5     | 1023  | 0.00   |
 | Kingston  | SHFS37A240G        | 240 GB | 1C51DEC9D8B5 | 5     | 1017  | 0.00   |

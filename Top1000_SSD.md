@@ -721,6 +721,7 @@ Rating — avg. rating per sample.
 | Samsung   | MZMTD512HAGL-000L1 | 512 GB | 1       | 107   | 97    | 0.00   |
 | SanDisk   | SSD P4             | 64 GB  | 1       | 14    | 14    | 0.00   |
 | SanDisk   | SD6SB1M256G1022I   | 256 GB | 1       | 400   | 474   | 0.00   |
+| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 1       | 0     | 0     | 0.00   |
 | WDC       | WDS120G2G0A-00JH30 | 120 GB | 1       | 0     | 0     | 0.00   |
 | SK hynix  | HFS060G32MNM-1010U | 60 GB  | 1       | 822   | 1016  | 0.00   |
 | Plextor   | PX-128M6MV         | 128 GB | 1       | 0     | 0     | 0.00   |
@@ -798,7 +799,6 @@ Rating — avg. rating per sample.
 | SanDisk   | TE22D10400GE8001   | 400 GB | 1       | 34    | 2047  | 0.00   |
 | SanDisk   | SSD U100           | 32 GB  | 1       | 16    | 1006  | 0.00   |
 | AMD       | R5S120GBSF         | 120 GB | 1       | 15    | 1016  | 0.00   |
-| Samsung   | MZNLN128HAHQ-000H1 | 128 GB | 1       | 0     | 100   | 0.00   |
 | Lite-On   | L8T-128L6G-HP      | 128 GB | 1       | 1     | 1279  | 0.00   |
 | SMI       | SSD DISK           | 506 GB | 1       | 0     | 1957  | 0.00   |
 | Mushkin   | MKNSSDCR120GB-7    | 120 GB | 1       | 0     | 1023  | 0.00   |
