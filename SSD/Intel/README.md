@@ -24,6 +24,7 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Intel     | SSDSA2SH032G1GN... | 32 GB  | 1       | 795   | 0     | 2.18   |
+| Intel     | SSDSC2BA100G3      | 100 GB | 2       | 1001  | 1     | 2.06   |
 | Intel     | SSDSA2M040G2GC     | 40 GB  | 2       | 1007  | 3     | 1.69   |
 | Intel     | SSDSC2CT080A4      | 80 GB  | 3       | 600   | 0     | 1.64   |
 | Intel     | SSDSA2CW120G3      | 120 GB | 4       | 544   | 0     | 1.49   |
@@ -69,6 +70,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSC2KW240H6      | 240 GB | 1       | 2     | 0     | 0.01   |
 | Intel     | SSDSC2BP480G4      | 480 GB | 1       | 1     | 0     | 0.01   |
 | Intel     | SSDMCEAW080A4 m... | 80 GB  | 1       | 162   | 1009  | 0.00   |
+| Intel     | SSDSC2KF512H6 SATA | 512 GB | 1       | 7     | 84    | 0.00   |
 | Intel     | SSDSC2BB150G7      | 150 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
@@ -88,12 +90,12 @@ Rating — avg. rating per sample.
 | Intel     | 510 Series SSDs        | 1      | 1       | 453   | 0     | 1.24   |
 | Intel     | 520 Series SSDs        | 2      | 2       | 315   | 0     | 0.86   |
 | Intel     | 320 Series SSDs        | 5      | 13      | 272   | 0     | 0.75   |
+| Intel     | 730 and DC S35x0/36... | 6      | 11      | 293   | 1     | 0.68   |
 | Intel     | 330/335 Series SSDs    | 2      | 9       | 237   | 0     | 0.65   |
-| Intel     | Unknown                | 6      | 9       | 262   | 113   | 0.63   |
+| Intel     | Unknown                | 7      | 10      | 237   | 110   | 0.56   |
 | Intel     | X18-M/X25-M/X25-V G... | 9      | 15      | 545   | 9     | 0.51   |
 | Intel     | 525 Series SSDs        | 1      | 2       | 148   | 0     | 0.41   |
 | Intel     | X18-M/X25-M G1 SSDs    | 2      | 2       | 139   | 0     | 0.38   |
-| Intel     | 730 and DC S35x0/36... | 5      | 9       | 135   | 0     | 0.37   |
 | Intel     | 730 and DC S3500/S3... | 3      | 3       | 110   | 0     | 0.30   |
 | Intel     | 530 Series SSDs        | 4      | 34      | 109   | 1     | 0.29   |
 | Intel     | 53x and Pro 2500 Se... | 4      | 10      | 42    | 0     | 0.12   |

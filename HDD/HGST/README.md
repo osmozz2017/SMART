@@ -23,6 +23,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| HGST      | HUS724030ALA640    | 3 TB   | 2       | 1006  | 0     | 2.76   |
 | HGST      | HDN726060ALE610    | 6 TB   | 1       | 787   | 0     | 2.16   |
 | HGST      | HDN724040ALE640    | 4 TB   | 2       | 532   | 0     | 1.46   |
 | HGST      | HUS724020ALA640    | 2 TB   | 6       | 335   | 0     | 0.92   |
@@ -32,15 +33,15 @@ Rating — avg. rating per sample.
 | HGST      | HUS726040ALE611    | 4 TB   | 1       | 182   | 0     | 0.50   |
 | HGST      | HUS724040ALA640    | 4 TB   | 1       | 180   | 0     | 0.49   |
 | HGST      | HTS721010A9E630    | 1 TB   | 86      | 197   | 15    | 0.49   |
+| HGST      | HTS541010A9E680    | 1 TB   | 99      | 257   | 248   | 0.45   |
 | HGST      | HTS721075A9E630    | 750 GB | 5       | 153   | 0     | 0.42   |
 | HGST      | HTS545032A7E380    | 320 GB | 13      | 162   | 1     | 0.42   |
-| HGST      | HTS541010A9E680    | 1 TB   | 97      | 243   | 253   | 0.41   |
 | HGST      | HTS545050A7E380    | 500 GB | 92      | 266   | 247   | 0.37   |
-| HGST      | HTS725050A7E630    | 500 GB | 76      | 173   | 83    | 0.37   |
+| HGST      | HTS725050A7E630    | 500 GB | 77      | 172   | 84    | 0.36   |
 | HGST      | HTS541010A7E630    | 1 TB   | 9       | 97    | 1     | 0.23   |
 | HGST      | HTS545050A7E660    | 500 GB | 8       | 156   | 4     | 0.22   |
 | HGST      | HTE725050A7E630    | 500 GB | 2       | 68    | 0     | 0.19   |
-| HGST      | HTS545050A7E680    | 500 GB | 135     | 129   | 301   | 0.18   |
+| HGST      | HTS545050A7E680    | 500 GB | 136     | 128   | 298   | 0.18   |
 | HGST      | HTE721010A9E630    | 1 TB   | 2       | 65    | 0     | 0.18   |
 | HGST      | HTS725032A7E630    | 320 GB | 5       | 112   | 410   | 0.17   |
 | HGST      | HTS545025A7E330    | 250 GB | 1       | 60    | 0     | 0.17   |
@@ -68,12 +69,12 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
+| HGST      | Ultrastar 7K4000       | 3      | 9       | 467   | 0     | 1.28   |
 | HGST      | Deskstar NAS           | 3      | 5       | 457   | 0     | 1.25   |
-| HGST      | Ultrastar 7K4000       | 2      | 7       | 313   | 0     | 0.86   |
 | HGST      | Travelstar 7K1000      | 3      | 93      | 191   | 14    | 0.48   |
-| HGST      | Travelstar 5K1000      | 4      | 119     | 237   | 267   | 0.42   |
-| HGST      | Travelstar Z7K500      | 3      | 83      | 167   | 101   | 0.35   |
-| HGST      | Travelstar Z5K500      | 5      | 256     | 184   | 248   | 0.28   |
+| HGST      | Travelstar 5K1000      | 4      | 121     | 249   | 262   | 0.46   |
+| HGST      | Travelstar Z7K500      | 3      | 84      | 166   | 101   | 0.35   |
+| HGST      | Travelstar Z5K500      | 5      | 257     | 183   | 247   | 0.27   |
 | HGST      | Ultrastar 7K6000       | 3      | 3       | 71    | 0     | 0.20   |
 | HGST      | Travelstar Z5K1000     | 2      | 15      | 77    | 68    | 0.17   |
 | HGST      | Travelstar 5K1500      | 1      | 2       | 541   | 14    | 0.10   |

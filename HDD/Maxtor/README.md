@@ -88,9 +88,9 @@ Rating — avg. rating per sample.
 | Maxtor    | 7L250S0            | 250 GB | 1       | 7     | 2     | 0.01   |
 | Maxtor    | 4D040H2            | 40 GB  | 2       | 27    | 328   | 0.01   |
 | Maxtor    | 6Y160P0            | 163 GB | 3       | 16    | 193   | 0.01   |
+| Maxtor    | 6Y080L0            | 80 GB  | 24      | 21    | 263   | 0.00   |
 | Maxtor    | 6L250S0            | 250 GB | 1       | 40    | 23    | 0.00   |
 | Maxtor    | 2B020H1            | 20 GB  | 6       | 22    | 76    | 0.00   |
-| Maxtor    | 6Y080L0            | 80 GB  | 23      | 21    | 275   | 0.00   |
 | Maxtor    | 6Y160M0            | 160 GB | 3       | 12    | 184   | 0.00   |
 | Maxtor    | STM3750330AS       | 750 GB | 1       | 995   | 1293  | 0.00   |
 | Maxtor    | 6Y060L0            | 61 GB  | 3       | 19    | 76    | 0.00   |
@@ -125,6 +125,6 @@ Rating — avg. rating per sample.
 | Maxtor    | MaXLine III (ATA/13... | 3      | 3       | 17    | 12    | 0.04   |
 | Maxtor    | DiamondMax Plus 8      | 4      | 13      | 26    | 15    | 0.02   |
 | Maxtor    | DiamondMax 16          | 1      | 1       | 25    | 5     | 0.01   |
-| Maxtor    | DiamondMax Plus 9      | 11     | 55      | 32    | 148   | 0.01   |
+| Maxtor    | DiamondMax Plus 9      | 11     | 56      | 32    | 145   | 0.01   |
 | Maxtor    | Fireball 541DX         | 1      | 6       | 22    | 76    | 0.00   |
 | Maxtor    | DiamondMax D540X-4D    | 2      | 3       | 24    | 229   | 0.00   |

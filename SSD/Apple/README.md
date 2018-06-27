@@ -25,9 +25,9 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Apple     | SSD SM1024F        | 1 TB   | 1       | 545   | 0     | 1.49   |
 | Apple     | SSD TS128C         | 121 GB | 1       | 416   | 0     | 1.14   |
+| Apple     | SSD TS256C         | 251 GB | 2       | 126   | 0     | 0.35   |
 | Apple     | SSD SM0256G        | 251 GB | 1       | 83    | 0     | 0.23   |
 | Apple     | SSD SM0128G        | 121 GB | 1       | 64    | 0     | 0.18   |
-| Apple     | SSD TS256C         | 251 GB | 1       | 51    | 0     | 0.14   |
 | Apple     | SSD SD0128F        | 121 GB | 1       | 29    | 0     | 0.08   |
 | Apple     | SSD SM256E         | 251 GB | 1       | 15    | 0     | 0.04   |
 
@@ -45,5 +45,5 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Apple     | SD/SM/TS E/F/G SSDs    | 1      | 1       | 545   | 0     | 1.49   |
-| Apple     | JMicron based SSDs     | 2      | 2       | 233   | 0     | 0.64   |
+| Apple     | JMicron based SSDs     | 2      | 3       | 222   | 0     | 0.61   |
 | Apple     | SD/SM/TS E/F SSDs      | 4      | 4       | 48    | 0     | 0.13   |
