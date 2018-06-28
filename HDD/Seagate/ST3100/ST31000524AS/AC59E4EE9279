@@ -10,7 +10,7 @@ Rotation Rate:    7200 rpm
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS T13/1699-D revision 4
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Tue Mar 21 13:41:30 2017 MSK
+Local Time is:    Tue Mar 21 13:47:03 2017 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM level is:     208 (intermediate), recommended: 208
@@ -60,11 +60,11 @@ SCT capabilities: 	       (0x103f)	SCT Status supported.
 SMART Attributes Data Structure revision number: 10
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
-  1 Raw_Read_Error_Rate     POSR--   117   099   006    -    122862161
+  1 Raw_Read_Error_Rate     POSR--   117   099   006    -    124392872
   3 Spin_Up_Time            PO----   100   100   000    -    0
   4 Start_Stop_Count        -O--CK   097   097   020    -    3318
   5 Reallocated_Sector_Ct   PO--CK   100   100   036    -    0
-  7 Seek_Error_Rate         POSR--   081   060   030    -    166645033
+  7 Seek_Error_Rate         POSR--   081   060   030    -    166648485
   9 Power_On_Hours          -O--CK   093   093   000    -    6289
  10 Spin_Retry_Count        PO--C-   100   100   097    -    0
  12 Power_Cycle_Count       -O--CK   097   097   020    -    3323
@@ -75,13 +75,13 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
 189 High_Fly_Writes         -O-RCK   100   100   000    -    0
 190 Airflow_Temperature_Cel -O---K   066   053   045    -    34 (Min/Max 22/34)
 194 Temperature_Celsius     -O---K   034   047   000    -    34 (0 15 0 0 0)
-195 Hardware_ECC_Recovered  -O-RC-   040   030   000    -    122862161
+195 Hardware_ECC_Recovered  -O-RC-   039   030   000    -    124392872
 197 Current_Pending_Sector  -O--C-   100   100   000    -    0
 198 Offline_Uncorrectable   ----C-   100   100   000    -    0
 199 UDMA_CRC_Error_Count    -OSRCK   200   200   000    -    0
-240 Head_Flying_Hours       ------   100   253   000    -    15034 (196 5 0)
-241 Total_LBAs_Written      ------   100   253   000    -    4145178039
-242 Total_LBAs_Read         ------   100   253   000    -    141736336
+240 Head_Flying_Hours       ------   100   253   000    -    15034 (218 78 0)
+241 Total_LBAs_Written      ------   100   253   000    -    4145395703
+242 Total_LBAs_Read         ------   100   253   000    -    142155575
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate
