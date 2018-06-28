@@ -3,14 +3,14 @@ Device Model:     TOSHIBA-VX500
 Serial Number:    --
 LU WWN Device Id: 5 00080d ...
 Firmware Version: JYCX0101
-User Capacity:    256 060 514 304 bytes [256 GB]
+User Capacity:    256,060,514,304 bytes [256 GB]
 Sector Size:      512 bytes logical/physical
 Rotation Rate:    Solid State Device
 Form Factor:      2.5 inches
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Fri Jan 12 14:21:54 2018 MSK
+Local Time is:    Mon Apr 23 08:03:34 2018 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -64,15 +64,15 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   5 Reallocated_Sector_Ct   PO--C-   100   100   050    -    0
   7 Unknown_SSD_Attribute   PO-R--   100   100   050    -    0
   8 Unknown_SSD_Attribute   P-S---   100   100   050    -    0
-  9 Power_On_Hours          -O--C-   100   100   000    -    4750
+  9 Power_On_Hours          -O--C-   100   100   000    -    6623
  10 Unknown_SSD_Attribute   PO--C-   100   100   050    -    0
- 12 Power_Cycle_Count       -O--C-   100   100   000    -    524
+ 12 Power_Cycle_Count       -O--C-   100   100   000    -    607
 167 Unknown_Attribute       -O---K   100   100   000    -    0
 168 Unknown_Attribute       -O--C-   100   100   000    -    0
 169 Unknown_Attribute       PO--C-   100   100   010    -    100
 173 Unknown_Attribute       -O--C-   198   198   000    -    0
 175 Program_Fail_Count_Chip PO--C-   100   100   010    -    0
-192 Power-Off_Retract_Count -O--C-   100   100   000    -    82
+192 Power-Off_Retract_Count -O--C-   100   100   000    -    100
 194 Temperature_Celsius     PO---K   069   061   020    -    31 (Min/Max 20/39)
 197 Current_Pending_Sector  -O--C-   100   100   000    -    0
 240 Unknown_SSD_Attribute   PO--C-   100   100   050    -    0
@@ -106,25 +106,25 @@ No Errors Logged
 
 SMART Extended Self-test Log Version: 1 (1 sectors)
 Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
-# 1  Extended offline    Completed without error       00%      4649         -
-# 2  Extended offline    Completed without error       00%      4536         -
-# 3  Extended offline    Completed without error       00%      4464         -
-# 4  Extended offline    Completed without error       00%      4341         -
-# 5  Extended offline    Completed without error       00%      4120         -
-# 6  Extended offline    Completed without error       00%      4009         -
-# 7  Extended offline    Completed without error       00%      3907         -
-# 8  Extended offline    Completed without error       00%      3809         -
-# 9  Extended offline    Completed without error       00%      3694         -
-#10  Extended offline    Completed without error       00%      3574         -
-#11  Extended offline    Completed without error       00%      3436         -
-#12  Extended offline    Completed without error       00%      3331         -
-#13  Extended offline    Completed without error       00%      3242         -
-#14  Extended offline    Completed without error       00%      3184         -
-#15  Extended offline    Completed without error       00%      3070         -
-#16  Extended offline    Completed without error       00%      2942         -
-#17  Extended offline    Completed without error       00%      2858         -
-#18  Extended offline    Completed without error       00%      2748         -
-#19  Extended offline    Completed without error       00%      2693         -
+# 1  Extended offline    Completed without error       00%      6579         -
+# 2  Extended offline    Completed without error       00%      6447         -
+# 3  Extended offline    Completed without error       00%      6301         -
+# 4  Extended offline    Completed without error       00%      6133         -
+# 5  Extended offline    Completed without error       00%      5975         -
+# 6  Extended offline    Completed without error       00%      5866         -
+# 7  Extended offline    Completed without error       00%      5698         -
+# 8  Extended offline    Completed without error       00%      5530         -
+# 9  Extended offline    Completed without error       00%      5363         -
+#10  Extended offline    Completed without error       00%      5262         -
+#11  Extended offline    Completed without error       00%      5149         -
+#12  Extended offline    Completed without error       00%      5050         -
+#13  Extended offline    Completed without error       00%      4853         -
+#14  Extended offline    Completed without error       00%      4763         -
+#15  Extended offline    Completed without error       00%      4649         -
+#16  Extended offline    Completed without error       00%      4536         -
+#17  Extended offline    Completed without error       00%      4464         -
+#18  Extended offline    Completed without error       00%      4341         -
+#19  Extended offline    Completed without error       00%      4120         -
 
 SMART Selective self-test log data structure revision number 1
  SPAN  MIN_LBA  MAX_LBA  CURRENT_TEST_STATUS
@@ -142,43 +142,43 @@ SCT Version (vendor specific):       3 (0x0003)
 SCT Support Level:                   0
 Device State:                        Active (0)
 Current Temperature:                    31 Celsius
-Power Cycle Min/Max Temperature:     22/35 Celsius
+Power Cycle Min/Max Temperature:     23/34 Celsius
 Lifetime    Min/Max Temperature:     20/39 Celsius
 Under/Over Temperature Limit Count:   0/0
 Vendor specific:
 00 00 04 00 01 01 00 05 05 00 00 00 00 00 00 00
-00 01 00 00 e1 f7 04 01 02 02 00 00 00 00 00 06
+00 01 00 00 1a d1 6b 01 02 02 00 00 00 00 00 06
 
 SCT Temperature History Version:     2
 Temperature Sampling Period:         1 minute
 Temperature Logging Interval:        1 minute
 Min/Max recommended Temperature:      5/40 Celsius
 Min/Max Temperature Limit:            0/80 Celsius
-Temperature History Size (Index):    128 (12)
+Temperature History Size (Index):    128 (73)
 
 SCT Error Recovery Control:
-           Read:    600 (60,0 seconds)
-          Write:    600 (60,0 seconds)
+           Read:    600 (60.0 seconds)
+          Write:    600 (60.0 seconds)
 
 Device Statistics (GP Log 0x04)
 Page  Offset Size        Value Flags Description
 0x01  =====  =               =  ===  == General Statistics (rev 2) ==
-0x01  0x008  4             524  ---  Lifetime Power-On Resets
-0x01  0x018  6      5445885463  ---  Logical Sectors Written
-0x01  0x020  6        47926596  ---  Number of Write Commands
-0x01  0x028  6      3440960143  ---  Logical Sectors Read
-0x01  0x030  6        36860156  ---  Number of Read Commands
+0x01  0x008  4             607  ---  Lifetime Power-On Resets
+0x01  0x018  6      6804893700  ---  Logical Sectors Written
+0x01  0x020  6        60799995  ---  Number of Write Commands
+0x01  0x028  6      4151401623  ---  Logical Sectors Read
+0x01  0x030  6        44588341  ---  Number of Read Commands
 0x04  =====  =               =  ===  == General Errors Statistics (rev 1) ==
 0x04  0x008  4               0  ---  Number of Reported Uncorrectable Errors
 0x04  0x010  4               0  ---  Resets Between Cmd Acceptance and Completion
 0x05  =====  =               =  ===  == Temperature Statistics (rev 1) ==
 0x05  0x008  1              31  ---  Current Temperature
-0x05  0x010  1              31  ---  Average Short Term Temperature
+0x05  0x010  1              30  ---  Average Short Term Temperature
 0x05  0x018  1              30  ---  Average Long Term Temperature
 0x05  0x020  1              35  ---  Highest Temperature
 0x05  0x028  1              25  ---  Lowest Temperature
 0x05  0x030  1              33  ---  Highest Average Short Term Temperature
-0x05  0x038  1              27  ---  Lowest Average Short Term Temperature
+0x05  0x038  1              26  ---  Lowest Average Short Term Temperature
 0x05  0x040  1              30  ---  Highest Average Long Term Temperature
 0x05  0x048  1              29  ---  Lowest Average Long Term Temperature
 0x05  0x050  4               0  ---  Time in Over-Temperature
@@ -186,7 +186,7 @@ Page  Offset Size        Value Flags Description
 0x05  0x060  4               0  ---  Time in Under-Temperature
 0x05  0x068  1               5  ---  Specified Minimum Operating Temperature
 0x06  =====  =               =  ===  == Transport Statistics (rev 1) ==
-0x06  0x008  4            4431  ---  Number of Hardware Resets
+0x06  0x008  4            5195  ---  Number of Hardware Resets
 0x06  0x018  4               0  ---  Number of Interface CRC Errors
 0x07  =====  =               =  ===  == Solid State Device Statistics (rev 1) ==
 0x07  0x008  1               2  N--  Percentage Used Endurance Indicator
@@ -204,8 +204,8 @@ ID      Size     Value  Description
 0x0006  2            0  R_ERR response for device-to-host non-data FIS
 0x0007  2            0  R_ERR response for host-to-device non-data FIS
 0x0008  2            0  Device-to-host non-data FIS retries
-0x0009  4           13  Transition from drive PhyRdy to drive PhyNRdy
-0x000a  4           12  Device-to-host register FISes sent due to a COMRESET
+0x0009  4            8  Transition from drive PhyRdy to drive PhyNRdy
+0x000a  4            7  Device-to-host register FISes sent due to a COMRESET
 0x000b  4            0  CRC errors within host-to-device FIS
 0x000d  4            0  Non-CRC errors within host-to-device FIS
 0x000f  2            0  R_ERR response for host-to-device data FIS, CRC

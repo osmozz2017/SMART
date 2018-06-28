@@ -8,14 +8,14 @@ Rotation Rate:    Solid State Device
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.1, 6.0 Gb/s
-Local Time is:    Sun Jun  7 20:02:57 2015 MSK
+Local Time is:    Fri Jun 26 21:05:21 2015 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Disabled
 APM feature is:   Unavailable
 Rd look-ahead is: Disabled
 Write cache is:   Enabled
-ATA Security is:  Disabled, NOT FROZEN [SEC1]
+ATA Security is:  Disabled, frozen [SEC2]
 Wt Cache Reorder: Unavailable
 
 === START OF READ SMART DATA SECTION ===
@@ -56,22 +56,22 @@ Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   1 Raw_Read_Error_Rate     ------   100   100   000    -    0
   5 Reallocated_Sector_Ct   ------   100   100   000    -    0
-  9 Power_On_Hours          ------   100   100   000    -    40
- 12 Power_Cycle_Count       ------   100   100   000    -    784
-192 Power-Off_Retract_Count ------   100   100   000    -    92
-194 Temperature_Celsius     ------   100   100   000    -    28
-195 Hardware_ECC_Recovered  ------   100   100   000    -    65517
+  9 Power_On_Hours          ------   100   100   000    -    42
+ 12 Power_Cycle_Count       ------   100   100   000    -    846
+192 Power-Off_Retract_Count ------   100   100   000    -    94
+194 Temperature_Celsius     ------   100   100   000    -    29
+195 Hardware_ECC_Recovered  ------   100   100   000    -    65882
 196 Reallocated_Event_Count ------   080   080   040    -    0
-199 UDMA_CRC_Error_Count    ------   100   100   050    -    16
+199 UDMA_CRC_Error_Count    ------   100   100   050    -    18
 160 Unknown_Attribute       ------   100   100   000    -    0
 161 Unknown_Attribute       ------   100   100   000    -    80
 163 Unknown_Attribute       ------   100   100   000    -    26
-164 Unknown_Attribute       ------   100   100   000    -    18358
+164 Unknown_Attribute       ------   100   100   000    -    18700
 165 Unknown_Attribute       ------   100   100   050    -    86
 166 Unknown_Attribute       ------   100   100   050    -    0
 167 Unknown_Attribute       ------   100   100   000    -    18
-241 Total_LBAs_Written      ------   100   100   000    -    55302
-242 Total_LBAs_Read         ------   100   100   000    -    44777
+241 Total_LBAs_Written      ------   100   100   000    -    56304
+242 Total_LBAs_Read         ------   100   100   000    -    47193
 168 Unknown_Attribute       ------   100   100   000    -    3000
 169 Unknown_Attribute       ------   100   100   000    -    100
                             ||||||_ K auto-keep
@@ -118,21 +118,21 @@ SCT Commands not supported
 Device Statistics (GP Log 0x04)
 Page Offset Size         Value  Description
   1  =====  =                =  == General Statistics (rev 2) ==
-  1  0x008  4              784  Lifetime Power-On Resets
-  1  0x010  4               40  Power-on Hours
-  1  0x018  6       3624279152  Logical Sectors Written
-  1  0x020  6         46450680  Number of Write Commands
-  1  0x028  6       2934536760  Logical Sectors Read
-  1  0x030  6         43600622  Number of Read Commands
+  1  0x008  4              846  Lifetime Power-On Resets
+  1  0x010  4               42  Power-on Hours
+  1  0x018  6       3689995258  Logical Sectors Written
+  1  0x020  6         47823027  Number of Write Commands
+  1  0x028  6       3092891223  Logical Sectors Read
+  1  0x030  6         46783681  Number of Read Commands
   2  =====  =                =  == Free-Fall Statistics (empty) ==
   3  =====  =                =  == Rotating Media Statistics (empty) ==
   4  =====  =                =  == General Errors Statistics (rev 1) ==
   4  0x008  4                0  Number of Reported Uncorrectable Errors
-  4  0x010  4              108  Resets Between Cmd Acceptance and Completion
+  4  0x010  4              112  Resets Between Cmd Acceptance and Completion
   5  =====  =                =  == Temperature Statistics (empty) ==
   6  =====  =                =  == Transport Statistics (rev 1) ==
-  6  0x008  4             5766  Number of Hardware Resets
-  6  0x018  4               16  Number of Interface CRC Errors
+  6  0x008  4             6143  Number of Hardware Resets
+  6  0x018  4               18  Number of Interface CRC Errors
   7  =====  =                =  == Solid State Device Statistics (rev 1) ==
   7  0x008  1                0  Percentage Used Endurance Indicator
 

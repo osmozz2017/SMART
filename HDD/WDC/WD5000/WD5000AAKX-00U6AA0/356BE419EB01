@@ -9,7 +9,7 @@ Sector Size:      512 bytes logical/physical
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS (minor revision not indicated)
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 3.0 Gb/s)
-Local Time is:    Wed Nov 30 20:45:57 2016 MSK
+Local Time is:    Wed Nov 30 20:47:16 2016 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -127,7 +127,7 @@ SCT Status Version:                  3
 SCT Version (vendor specific):       258 (0x0102)
 SCT Support Level:                   1
 Device State:                        Active (0)
-Current Temperature:                    38 Celsius
+Current Temperature:                    37 Celsius
 Power Cycle Min/Max Temperature:     31/38 Celsius
 Lifetime    Min/Max Temperature:      0/45 Celsius
 Under/Over Temperature Limit Count:   0/0
@@ -137,7 +137,7 @@ Temperature Sampling Period:         1 minute
 Temperature Logging Interval:        1 minute
 Min/Max recommended Temperature:      0/60 Celsius
 Min/Max Temperature Limit:           -41/85 Celsius
-Temperature History Size (Index):    478 (400)
+Temperature History Size (Index):    478 (402)
 
 SCT Error Recovery Control command not supported
 
@@ -154,5 +154,5 @@ ID      Size     Value  Description
 0x0007  2            0  R_ERR response for host-to-device non-data FIS
 0x000a  2           11  Device-to-host register FISes sent due to a COMRESET
 0x000b  2            0  CRC errors within host-to-device FIS
-0x8000  4        10461  Vendor specific
+0x8000  4        10541  Vendor specific
 
