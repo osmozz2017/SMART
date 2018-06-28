@@ -91,7 +91,7 @@ Rating — avg. rating per sample.
 | Samsung   | MZ7LN512HCHP-000L1 | 512 GB | 1       | 99    | 0     | 0.27   |
 | Samsung   | SSD 850 PRO        | 512 GB | 6       | 224   | 173   | 0.25   |
 | Samsung   | SSD 750 EVO        | 120 GB | 18      | 85    | 0     | 0.23   |
-| Samsung   | SSD 750 EVO        | 250 GB | 14      | 80    | 0     | 0.22   |
+| Samsung   | SSD 750 EVO        | 250 GB | 14      | 81    | 0     | 0.22   |
 | Samsung   | SSD 650            | 120 GB | 3       | 75    | 0     | 0.21   |
 | Samsung   | MZMTD128HAFV-000   | 128 GB | 3       | 72    | 0     | 0.20   |
 | Samsung   | SSD 850 EVO        | 1 TB   | 8       | 72    | 0     | 0.20   |

@@ -35,14 +35,14 @@ Rating — avg. rating per sample.
 | Samsung   | HD103UJ            | 1 TB   | 28      | 846   | 150   | 1.60   |
 | Samsung   | HD253GJ            | 250 GB | 7       | 768   | 17    | 1.53   |
 | Samsung   | HD103SI            | 1 TB   | 20      | 910   | 164   | 1.52   |
-| Samsung   | HD103SJ            | 1 TB   | 57      | 739   | 17    | 1.48   |
+| Samsung   | HD103SJ            | 1 TB   | 57      | 742   | 17    | 1.48   |
 | Samsung   | HD321HJ            | 320 GB | 4       | 903   | 39    | 1.44   |
 | Samsung   | SV0221N            | 20 GB  | 1       | 2328  | 4     | 1.28   |
 | Samsung   | HD105SI            | 1 TB   | 7       | 686   | 552   | 1.26   |
 | Samsung   | HD502HJ            | 500 GB | 63      | 603   | 52    | 1.26   |
 | Samsung   | HD153WI            | 1.5 TB | 1       | 451   | 0     | 1.24   |
 | Samsung   | HD160JJ-P          | 160 GB | 5       | 1099  | 610   | 1.18   |
-| Samsung   | HD501LJ            | 500 GB | 25      | 801   | 409   | 1.18   |
+| Samsung   | HD501LJ            | 500 GB | 25      | 802   | 409   | 1.18   |
 | Samsung   | HM251HI            | 250 GB | 4       | 532   | 3     | 1.11   |
 | Samsung   | HD642JJ            | 640 GB | 16      | 976   | 340   | 1.10   |
 | Samsung   | HD502IJ            | 500 GB | 20      | 781   | 372   | 1.07   |
@@ -155,7 +155,7 @@ Rating — avg. rating per sample.
 | Samsung   | SpinPoint V20400       | 1      | 1       | 5713  | 0     | 15.65  |
 | Samsung   | SpinPoint              | 2      | 3       | 1164  | 3     | 3.04   |
 | Samsung   | SpinPoint F4 EG (AF)   | 1      | 10      | 821   | 10    | 1.79   |
-| Samsung   | SpinPoint F3           | 4      | 128     | 670   | 34    | 1.37   |
+| Samsung   | SpinPoint F3           | 4      | 128     | 671   | 34    | 1.37   |
 | Samsung   | SpinPoint VL40         | 1      | 1       | 2328  | 4     | 1.28   |
 | Samsung   | SpinPoint T133         | 5      | 15      | 740   | 232   | 1.16   |
 | Samsung   | SpinPoint F1 DT        | 11     | 144     | 789   | 210   | 1.11   |
