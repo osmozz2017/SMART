@@ -31,7 +31,7 @@ Rating — avg. rating per sample.
 | OCZ       | VERTEX PLUS R2     | 247 GB | 1       | 797   | 0     | 2.18   |
 | OCZ       | VERTEX2            | 60 GB  | 3       | 788   | 0     | 2.16   |
 | OCZ       | NOCTI              | 60 GB  | 1       | 704   | 0     | 1.93   |
-| OCZ       | AGILITY3           | 120 GB | 20      | 728   | 83    | 1.75   |
+| OCZ       | AGILITY3           | 120 GB | 20      | 728   | 83    | 1.76   |
 | OCZ       | DENCSTE351M16-0... | 240 GB | 1       | 585   | 0     | 1.60   |
 | OCZ       | VERTEX2            | 120 GB | 2       | 568   | 0     | 1.56   |
 | OCZ       | AGILITY4           | 64 GB  | 1       | 567   | 0     | 1.56   |
@@ -62,9 +62,9 @@ Rating — avg. rating per sample.
 | OCZ       | VERTEX             | 64 GB  | 1       | 280   | 0     | 0.77   |
 | OCZ       | VECTOR150          | 120 GB | 7       | 239   | 0     | 0.66   |
 | OCZ       | OCTANE S2          | 64 GB  | 1       | 224   | 0     | 0.61   |
+| OCZ       | TRION100           | 240 GB | 6       | 213   | 0     | 0.59   |
 | OCZ       | VERTEX2            | 50 GB  | 2       | 309   | 320   | 0.57   |
 | OCZ       | VERTEX PLUS        | 60 GB  | 1       | 396   | 1     | 0.54   |
-| OCZ       | TRION100           | 240 GB | 6       | 197   | 0     | 0.54   |
 | OCZ       | VERTEX4            | 512 GB | 1       | 573   | 2     | 0.52   |
 | OCZ       | VERTEX460          | 120 GB | 1       | 169   | 0     | 0.46   |
 | OCZ       | TRION100           | 120 GB | 3       | 149   | 1     | 0.40   |
@@ -107,5 +107,5 @@ Rating — avg. rating per sample.
 | OCZ       | Indilinx Barefoot_2... | 12     | 79      | 401   | 4     | 1.01   |
 | OCZ       | Indilinx Barefoot b... | 2      | 2       | 185   | 0     | 0.51   |
 | OCZ       | Indilinx Barefoot 3... | 9      | 26      | 163   | 1     | 0.45   |
-| OCZ       | Trion SSDs             | 4      | 11      | 153   | 1     | 0.42   |
+| OCZ       | Trion SSDs             | 4      | 11      | 161   | 1     | 0.44   |
 | OCZ       | Unknown                | 8      | 15      | 131   | 0     | 0.36   |

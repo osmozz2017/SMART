@@ -53,7 +53,7 @@ Rating — avg. rating per sample.
 | Kingston  | SS100S216G         | 16 GB  | 1       | 190   | 0     | 0.52   |
 | Kingston  | SV100S2128G        | 128 GB | 2       | 359   | 2     | 0.52   |
 | Kingston  | SVP200S37A90G      | 90 GB  | 2       | 176   | 0     | 0.48   |
-| Kingston  | SV300S37A120G      | 120 GB | 219     | 196   | 22    | 0.48   |
+| Kingston  | SV300S37A120G      | 120 GB | 219     | 197   | 22    | 0.48   |
 | Kingston  | SM2280S3G2120G     | 120 GB | 2       | 162   | 0     | 0.44   |
 | Kingston  | SHSS37A120G        | 120 GB | 6       | 148   | 0     | 0.41   |
 | Kingston  | SMS200S330G        | 30 GB  | 1       | 132   | 0     | 0.36   |
@@ -76,8 +76,8 @@ Rating — avg. rating per sample.
 | Kingston  | SHSS37A240G        | 240 GB | 9       | 45    | 0     | 0.12   |
 | Kingston  | RBU-SC152S37128GG2 | 128 GB | 1       | 45    | 0     | 0.12   |
 | Kingston  | SMS200S3120G       | 120 GB | 3       | 42    | 254   | 0.09   |
+| Kingston  | SHFS37A120G        | 120 GB | 40      | 53    | 433   | 0.08   |
 | Kingston  | SH103S3480G        | 480 GB | 1       | 28    | 0     | 0.08   |
-| Kingston  | SHFS37A120G        | 120 GB | 40      | 52    | 433   | 0.07   |
 | Kingston  | SV300S37A480G      | 480 GB | 5       | 38    | 202   | 0.07   |
 | Kingston  | SHSS37A480G        | 480 GB | 3       | 26    | 0     | 0.07   |
 | Kingston  | SA400S37240G       | 240 GB | 4       | 26    | 1     | 0.07   |
@@ -104,6 +104,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Kingston  | JMicron based SSDs     | 11     | 23      | 418   | 2     | 0.99   |
-| Kingston  | SandForce Driven SSDs  | 27     | 448     | 222   | 31    | 0.55   |
+| Kingston  | SandForce Driven SSDs  | 27     | 448     | 223   | 31    | 0.55   |
 | Kingston  | Phison Driven SSDs     | 8      | 42      | 83    | 0     | 0.23   |
 | Kingston  | Unknown                | 20     | 135     | 76    | 199   | 0.15   |
