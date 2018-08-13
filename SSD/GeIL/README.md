@@ -19,6 +19,6 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | GeIL      | Zenith A3-PRO      | 240 GB | 1       | 6     | 0     | 0.02   |
 | GeIL      | Zenith A3          | 120 GB | 1       | 6     | 0     | 0.02   |
+| GeIL      | ZENITH R3_120GB    | 120 GB | 2       | 4     | 0     | 0.01   |
 | GeIL      | ZENITH-A3 120G     | 120 GB | 1       | 3     | 0     | 0.01   |
-| GeIL      | ZENITH R3_120GB    | 120 GB | 1       | 1     | 0     | 0.00   |
 | GeIL      | ZENITH S3-120GB    | 120 GB | 1       | 245   | 1021  | 0.00   |

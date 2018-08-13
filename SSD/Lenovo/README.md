@@ -1,7 +1,7 @@
-GLOWAY Solid State Drives
+Lenovo Solid State Drives
 =========================
 
-This is a list of all tested GLOWAY solid state drive models and their ratings. See
+This is a list of all tested Lenovo solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,7 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| GLOWAY    | FER240GS3-S7       | 240 GB | 1       | 23    | 0     | 0.06   |
-| GLOWAY    | FER120GS3-S7       | 120 GB | 2       | 15    | 0     | 0.04   |
-| GLOWAY    | STK120GS3-S7       | 120 GB | 1       | 0     | 0     | 0.00   |
-| GLOWAY    | VAL64GM3-mSATA     | 64 GB  | 1       | 0     | 0     | 0.00   |
+| Lenovo    | SSD SL700 120G     | 120 GB | 1       | 2     | 0     | 0.01   |

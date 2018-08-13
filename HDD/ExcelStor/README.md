@@ -20,6 +20,6 @@ Rating — avg. rating per sample.
 | ExcelStor | J9250S             | 250 GB | 2       | 513   | 0     | 1.41   |
 | ExcelStor | J360               | 61 GB  | 1       | 897   | 1     | 1.23   |
 | ExcelStor | J680               | 82 GB  | 1       | 1687  | 4     | 0.92   |
-| ExcelStor | J8160S             | 160 GB | 3       | 462   | 3     | 0.85   |
+| ExcelStor | J8160S             | 160 GB | 5       | 371   | 3     | 0.66   |
 | ExcelStor | J880S              | 82 GB  | 1       | 44    | 0     | 0.12   |
 | ExcelStor | J9250              | 250 GB | 1       | 1349  | 167   | 0.02   |

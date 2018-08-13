@@ -18,4 +18,5 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Intenso   | SSD                | 128 GB | 2       | 48    | 1     | 0.07   |
+| Intenso   | SSD Sata III       | 253 GB | 1       | 3     | 0     | 0.01   |
 | Intenso   | SSD Sata III       | 247 GB | 1       | 18    | 32    | 0.00   |

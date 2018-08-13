@@ -21,7 +21,7 @@ Rating — avg. rating per sample.
 | AMD       | R3S60GBSM          | 60 GB  | 1       | 27    | 0     | 0.08   |
 | AMD       | R3SL120G           | 120 GB | 17      | 21    | 0     | 0.06   |
 | AMD       | R3SL240G           | 240 GB | 4       | 44    | 1     | 0.06   |
+| AMD       | R5SL120G           | 120 GB | 4       | 13    | 0     | 0.04   |
 | AMD       | R5SL240G           | 240 GB | 1       | 10    | 0     | 0.03   |
 | AMD       | R3SL60G            | 60 GB  | 1       | 4     | 0     | 0.01   |
-| AMD       | R5SL120G           | 120 GB | 2       | 4     | 0     | 0.01   |
 | AMD       | R5S120GBSF         | 120 GB | 1       | 15    | 1016  | 0.00   |
