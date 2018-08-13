@@ -8,7 +8,7 @@ Rotation Rate:    Solid State Device
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.1, 6.0 Gb/s
-Local Time is:    Fri Jun 26 21:10:20 2015 MSK
+Local Time is:    Fri Jun 26 22:43:30 2015 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Disabled
@@ -59,18 +59,18 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   9 Power_On_Hours          ------   100   100   000    -    42
  12 Power_Cycle_Count       ------   100   100   000    -    846
 192 Power-Off_Retract_Count ------   100   100   000    -    94
-194 Temperature_Celsius     ------   100   100   000    -    29
+194 Temperature_Celsius     ------   100   100   000    -    42
 195 Hardware_ECC_Recovered  ------   100   100   000    -    65882
 196 Reallocated_Event_Count ------   080   080   040    -    0
 199 UDMA_CRC_Error_Count    ------   100   100   050    -    18
 160 Unknown_Attribute       ------   100   100   000    -    0
 161 Unknown_Attribute       ------   100   100   000    -    80
 163 Unknown_Attribute       ------   100   100   000    -    26
-164 Unknown_Attribute       ------   100   100   000    -    18700
+164 Unknown_Attribute       ------   100   100   000    -    18707
 165 Unknown_Attribute       ------   100   100   050    -    86
 166 Unknown_Attribute       ------   100   100   050    -    0
 167 Unknown_Attribute       ------   100   100   000    -    18
-241 Total_LBAs_Written      ------   100   100   000    -    56308
+241 Total_LBAs_Written      ------   100   100   000    -    56323
 242 Total_LBAs_Read         ------   100   100   000    -    47196
 168 Unknown_Attribute       ------   100   100   000    -    3000
 169 Unknown_Attribute       ------   100   100   000    -    100
@@ -120,10 +120,10 @@ Page Offset Size         Value  Description
   1  =====  =                =  == General Statistics (rev 2) ==
   1  0x008  4              846  Lifetime Power-On Resets
   1  0x010  4               42  Power-on Hours
-  1  0x018  6       3690247650  Logical Sectors Written
-  1  0x020  6         47831983  Number of Write Commands
-  1  0x028  6       3093045239  Logical Sectors Read
-  1  0x030  6         46784248  Number of Read Commands
+  1  0x018  6       3691224754  Logical Sectors Written
+  1  0x020  6         47854558  Number of Write Commands
+  1  0x028  6       3093082905  Logical Sectors Read
+  1  0x030  6         46785191  Number of Read Commands
   2  =====  =                =  == Free-Fall Statistics (empty) ==
   3  =====  =                =  == Rotating Media Statistics (empty) ==
   4  =====  =                =  == General Errors Statistics (rev 1) ==
