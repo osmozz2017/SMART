@@ -27,7 +27,7 @@ Rating — avg. rating per sample.
 | Micron    | 1100_MTFDDAV256TBN | 256 GB | 2       | 37    | 0     | 0.10   |
 | Micron    | MTFDDAK512MAY-1... | 512 GB | 1       | 624   | 16    | 0.10   |
 | Micron    | C400-MTFDDAK256MAM | 256 GB | 1       | 32    | 0     | 0.09   |
-| Micron    | MTFDDAK256MAM-1K12 | 256 GB | 3       | 66    | 1010  | 0.08   |
+| Micron    | MTFDDAK256MAM-1K12 | 256 GB | 3       | 67    | 1010  | 0.08   |
 | Micron    | MTFDDAK128MAM-1J1  | 128 GB | 1       | 29    | 0     | 0.08   |
 | Micron    | M600_MTFDDAK1T0MBF | 1 TB   | 1       | 13    | 0     | 0.04   |
 | Micron    | C400-MTFDDAT064MAM | 64 GB  | 1       | 1     | 0     | 0.00   |
@@ -48,5 +48,5 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Micron    | Unknown                | 6      | 7       | 224   | 151   | 0.35   |
-| Micron    | RealSSD m4/C400/P400   | 3      | 5       | 52    | 606   | 0.08   |
+| Micron    | RealSSD m4/C400/P400   | 3      | 5       | 53    | 606   | 0.08   |
 | Micron    | MX100/MX200/M5x0/M6... | 1      | 1       | 13    | 0     | 0.04   |

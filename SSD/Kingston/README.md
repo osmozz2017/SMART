@@ -43,16 +43,16 @@ Rating — avg. rating per sample.
 | Kingston  | SKC300S37A60G      | 60 GB  | 10      | 327   | 4     | 0.81   |
 | Kingston  | SNVP325S2256GB     | 256 GB | 1       | 293   | 0     | 0.80   |
 | Kingston  | SMS100S232G        | 32 GB  | 1       | 279   | 0     | 0.76   |
-| Kingston  | SV200S3256G        | 256 GB | 2       | 237   | 0     | 0.65   |
+| Kingston  | SKC300S37A120G     | 120 GB | 10      | 266   | 0     | 0.73   |
 | Kingston  | SV300S37A60G       | 60 GB  | 84      | 241   | 1     | 0.65   |
+| Kingston  | SV200S3256G        | 256 GB | 2       | 237   | 0     | 0.65   |
 | Kingston  | SM2280S3120G       | 120 GB | 3       | 230   | 0     | 0.63   |
 | Kingston  | SV100S264G         | 64 GB  | 6       | 391   | 4     | 0.63   |
 | Kingston  | SV100S232G         | 32 GB  | 3       | 219   | 0     | 0.60   |
 | Kingston  | SVP200S37A120G     | 120 GB | 6       | 283   | 179   | 0.58   |
-| Kingston  | SKC300S37A120G     | 120 GB | 10      | 201   | 0     | 0.55   |
 | Kingston  | SS100S216G         | 16 GB  | 1       | 190   | 0     | 0.52   |
 | Kingston  | SV100S2128G        | 128 GB | 2       | 359   | 2     | 0.52   |
-| Kingston  | SV300S37A120G      | 120 GB | 221     | 199   | 22    | 0.49   |
+| Kingston  | SV300S37A120G      | 120 GB | 221     | 201   | 22    | 0.49   |
 | Kingston  | SVP200S37A90G      | 90 GB  | 2       | 176   | 0     | 0.48   |
 | Kingston  | SM2280S3G2120G     | 120 GB | 2       | 162   | 0     | 0.44   |
 | Kingston  | SHSS37A120G        | 120 GB | 6       | 148   | 0     | 0.41   |
@@ -62,6 +62,7 @@ Rating — avg. rating per sample.
 | Kingston  | RBU-SNS8152S312... | 128 GB | 1       | 120   | 0     | 0.33   |
 | Kingston  | SUV300S37A120G     | 120 GB | 17      | 114   | 0     | 0.31   |
 | Kingston  | SV300S37A240G      | 240 GB | 38      | 105   | 1     | 0.29   |
+| Kingston  | SKC400S37512G      | 512 GB | 1       | 99    | 0     | 0.27   |
 | Kingston  | RBU-SNS8151S396GG  | 96 GB  | 1       | 88    | 0     | 0.24   |
 | Kingston  | SKC380S3120G       | 120 GB | 1       | 86    | 0     | 0.24   |
 | Kingston  | SS200S330G         | 30 GB  | 1       | 70    | 0     | 0.19   |
@@ -74,10 +75,9 @@ Rating — avg. rating per sample.
 | Kingston  | SM2280S3G2240G     | 240 GB | 1       | 57    | 0     | 0.16   |
 | Kingston  | SUV400S37240G      | 240 GB | 24      | 57    | 44    | 0.14   |
 | Kingston  | SMS200S360G        | 60 GB  | 3       | 67    | 1     | 0.14   |
-| Kingston  | SKC400S37512G      | 512 GB | 1       | 46    | 0     | 0.13   |
 | Kingston  | SHSS37A240G        | 240 GB | 9       | 45    | 0     | 0.12   |
 | Kingston  | RBU-SC152S37128GG2 | 128 GB | 1       | 45    | 0     | 0.12   |
-| Kingston  | SMS200S3120G       | 120 GB | 3       | 42    | 254   | 0.09   |
+| Kingston  | SMS200S3120G       | 120 GB | 3       | 49    | 256   | 0.09   |
 | Kingston  | SH103S3480G        | 480 GB | 1       | 28    | 0     | 0.08   |
 | Kingston  | SHFS37A120G        | 120 GB | 41      | 55    | 448   | 0.08   |
 | Kingston  | SV300S37A480G      | 480 GB | 5       | 38    | 202   | 0.07   |
@@ -88,8 +88,8 @@ Rating — avg. rating per sample.
 | Kingston  | SKC400S37128G      | 128 GB | 1       | 8     | 0     | 0.02   |
 | Kingston  | RBU-SNS8100S312... | 128 GB | 2       | 8     | 0     | 0.02   |
 | Kingston  | SKC300S37A240G     | 240 GB | 2       | 1     | 0     | 0.01   |
+| Kingston  | SA400S37480G       | 480 GB | 2       | 16    | 44    | 0.00   |
 | Kingston  | SH103S3240G-NV     | 240 GB | 1       | 377   | 1018  | 0.00   |
-| Kingston  | SA400S37480G       | 480 GB | 2       | 15    | 44    | 0.00   |
 | Kingston  | SVP200S37A256G     | 256 GB | 1       | 311   | 1017  | 0.00   |
 | Kingston  | SMS151S324G        | 24 GB  | 1       | 95    | 1022  | 0.00   |
 
@@ -107,6 +107,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Kingston  | JMicron based SSDs     | 11     | 23      | 418   | 2     | 0.99   |
-| Kingston  | SandForce Driven SSDs  | 27     | 450     | 224   | 31    | 0.55   |
-| Kingston  | Phison Driven SSDs     | 8      | 43      | 87    | 0     | 0.24   |
+| Kingston  | SandForce Driven SSDs  | 27     | 450     | 226   | 31    | 0.56   |
+| Kingston  | Phison Driven SSDs     | 8      | 43      | 88    | 0     | 0.24   |
 | Kingston  | Unknown                | 23     | 146     | 77    | 192   | 0.15   |

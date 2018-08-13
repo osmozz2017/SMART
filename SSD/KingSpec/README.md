@@ -17,7 +17,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| KingSpec  | SPK-SF12-M120      | 120 GB | 1       | 373   | 0     | 1.02   |
+| KingSpec  | SPK-SF12-M120      | 120 GB | 1       | 439   | 0     | 1.20   |
 | KingSpec  | KSD-SA25.5-016MJ   | 16 GB  | 1       | 353   | 0     | 0.97   |
 | KingSpec  | KSD-SA25.5-064MJ   | 64 GB  | 1       | 141   | 0     | 0.39   |
 | KingSpec  | KSD-SA25.7-016MJ   | 16 GB  | 2       | 30    | 0     | 0.08   |

@@ -35,8 +35,8 @@ Rating — avg. rating per sample.
 | Maxtor    | 7V300F0            | 300 GB | 1       | 738   | 1     | 1.01   |
 | Maxtor    | STM3160212A        | 160 GB | 2       | 817   | 1     | 0.99   |
 | Maxtor    | STM3160815AS       | 160 GB | 17      | 569   | 227   | 0.86   |
-| Maxtor    | 6V160E0            | 160 GB | 6       | 352   | 1     | 0.85   |
-| Maxtor    | 6V200E0            | 203 GB | 5       | 625   | 180   | 0.82   |
+| Maxtor    | 6V160E0            | 160 GB | 6       | 353   | 1     | 0.86   |
+| Maxtor    | 6V200E0            | 203 GB | 5       | 627   | 180   | 0.83   |
 | Maxtor    | STM380815AS        | 80 GB  | 15      | 673   | 813   | 0.82   |
 | Maxtor    | STM3250620A        | 250 GB | 1       | 295   | 0     | 0.81   |
 | Maxtor    | STM380811AS        | 80 GB  | 4       | 500   | 5     | 0.79   |
@@ -115,7 +115,7 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Maxtor    | MaXLine III (SATA/300) | 1      | 1       | 738   | 1     | 1.01   |
-| Maxtor    | DiamondMax 10 (SATA... | 5      | 21      | 552   | 45    | 0.89   |
+| Maxtor    | DiamondMax 10 (SATA... | 5      | 21      | 553   | 45    | 0.89   |
 | Maxtor    | DiamondMax 21          | 15     | 123     | 617   | 396   | 0.80   |
 | Maxtor    | DiamondMax Plus D740X  | 1      | 2       | 463   | 3     | 0.69   |
 | Maxtor    | DiamondMax 20          | 5      | 16      | 551   | 300   | 0.56   |

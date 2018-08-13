@@ -43,12 +43,13 @@ Rating — avg. rating per sample.
 | WDC       | WD4000AAJS-65TKA0  | 400 GB | 1       | 1532  | 0     | 4.20   |
 | WDC       | WD2502ABYS-23B7... | 250 GB | 2       | 1522  | 0     | 4.17   |
 | WDC       | GB1000EAMYC        | 1 TB   | 1       | 1490  | 0     | 4.08   |
-| WDC       | WD1200JS-55NCB1    | 120 GB | 1       | 1487  | 0     | 4.08   |
+| WDC       | WD1200JS-55NCB1    | 120 GB | 1       | 1488  | 0     | 4.08   |
 | WDC       | WD2000JD-00GBB0    | 200 GB | 1       | 1482  | 0     | 4.06   |
 | WDC       | WD800JD-75MSA2     | 79 GB  | 1       | 1432  | 0     | 3.92   |
 | WDC       | WD10EADS-11M2B3    | 1 TB   | 1       | 1406  | 0     | 3.85   |
 | WDC       | WD2500JB-22REA0    | 250 GB | 1       | 1398  | 0     | 3.83   |
 | WDC       | WD2001FASS-00W2B0  | 2 TB   | 1       | 1392  | 0     | 3.82   |
+| WDC       | WD2500AAKS-22VSA0  | 250 GB | 1       | 1370  | 0     | 3.75   |
 | WDC       | WD2500AAJS-22RYA0  | 250 GB | 1       | 1365  | 0     | 3.74   |
 | WDC       | WD10EACS-00D6B1    | 1 TB   | 2       | 1668  | 1     | 3.73   |
 | WDC       | WD7500BPVT-80HXZT1 | 750 GB | 1       | 1360  | 0     | 3.73   |
@@ -56,7 +57,6 @@ Rating — avg. rating per sample.
 | WDC       | WD20EADS-00S2B0    | 2 TB   | 1       | 1315  | 0     | 3.60   |
 | WDC       | WD10EACS-00D6B0    | 1 TB   | 3       | 1638  | 3     | 3.59   |
 | WDC       | WD2500AAKX-08ERMA0 | 250 GB | 1       | 1306  | 0     | 3.58   |
-| WDC       | WD2500AAKS-22VSA0  | 250 GB | 1       | 1305  | 0     | 3.58   |
 | WDC       | WD5000AAKS-07YGA0  | 500 GB | 2       | 1295  | 0     | 3.55   |
 | WDC       | WD1200BB-00GUA0    | 120 GB | 1       | 1284  | 0     | 3.52   |
 | WDC       | WD4000AAKS-00A7B0  | 400 GB | 1       | 1280  | 0     | 3.51   |
@@ -100,13 +100,14 @@ Rating — avg. rating per sample.
 | WDC       | WD1000FYPS-01ZKB0  | 1 TB   | 1       | 989   | 0     | 2.71   |
 | WDC       | WD1600BEVS-75RST0  | 160 GB | 1       | 984   | 0     | 2.70   |
 | WDC       | WD400JB-00JJC0     | 40 GB  | 1       | 980   | 0     | 2.69   |
+| WDC       | WD30EZRX-00DC0B0   | 3 TB   | 8       | 980   | 0     | 2.68   |
+| WDC       | WD4000AAKS-00YGA0  | 400 GB | 5       | 1166  | 1     | 2.67   |
 | WDC       | WD10EALS-002BA0    | 1 TB   | 2       | 969   | 0     | 2.66   |
 | WDC       | WD2000JS-00MVB1    | 200 GB | 1       | 957   | 0     | 2.62   |
 | WDC       | WD1600JS-55MHB1    | 160 GB | 1       | 954   | 0     | 2.61   |
-| WDC       | WD4000AAKS-00YGA0  | 400 GB | 5       | 1144  | 1     | 2.61   |
 | WDC       | WD2500JS-22NCB1    | 250 GB | 6       | 1088  | 1     | 2.59   |
 | WDC       | WD5000AAKB-00YSA0  | 500 GB | 2       | 935   | 0     | 2.56   |
-| WDC       | WD1600AAJS-22PSA0  | 160 GB | 12      | 961   | 1     | 2.55   |
+| WDC       | WD1600AAJS-22PSA0  | 160 GB | 12      | 962   | 1     | 2.56   |
 | WDC       | WD800JB-00DUA3     | 80 GB  | 1       | 923   | 0     | 2.53   |
 | WDC       | WD15EARS-00J2GB0   | 1.5 TB | 1       | 908   | 0     | 2.49   |
 | WDC       | WD2500AAJS-22VWA0  | 250 GB | 1       | 904   | 0     | 2.48   |
@@ -124,7 +125,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BEVE-00A0HT0 | 320 GB | 2       | 877   | 0     | 2.40   |
 | WDC       | WD7500AAKS-00RBA0  | 750 GB | 6       | 1002  | 84    | 2.40   |
 | WDC       | WD1600JS-55NCB1    | 160 GB | 4       | 874   | 0     | 2.39   |
-| WDC       | WD30EZRX-00DC0B0   | 3 TB   | 8       | 868   | 0     | 2.38   |
 | WDC       | WD1600BEVS-08VAT2  | 160 GB | 5       | 957   | 1     | 2.37   |
 | WDC       | WD800BB-75JHA0     | 79 GB  | 1       | 865   | 0     | 2.37   |
 | WDC       | WD2500AAJS-75M0A0  | 250 GB | 1       | 862   | 0     | 2.36   |
@@ -141,6 +141,7 @@ Rating — avg. rating per sample.
 | WDC       | WD800BB-00DKA0     | 80 GB  | 3       | 977   | 1     | 2.29   |
 | WDC       | WD10EALX-089BA0    | 1 TB   | 2       | 836   | 0     | 2.29   |
 | WDC       | WD5000AAKS-65YGA0  | 500 GB | 6       | 830   | 0     | 2.28   |
+| WDC       | WD5000AUDX-63WNHY0 | 500 GB | 1       | 830   | 0     | 2.28   |
 | WDC       | WD400BB-00DEA0     | 40 GB  | 1       | 825   | 0     | 2.26   |
 | WDC       | WD800BD-88JMC0     | 80 GB  | 2       | 824   | 0     | 2.26   |
 | WDC       | WD1600JB-00GVA0    | 160 GB | 1       | 822   | 0     | 2.25   |
@@ -148,17 +149,16 @@ Rating — avg. rating per sample.
 | WDC       | WD1200JB-00EVA0    | 120 GB | 3       | 821   | 0     | 2.25   |
 | WDC       | WD2500BEVE-00WZT0  | 250 GB | 2       | 817   | 0     | 2.24   |
 | WDC       | WD400BB-00LNA0     | 40 GB  | 1       | 817   | 0     | 2.24   |
-| WDC       | WD5000AUDX-63WNHY0 | 500 GB | 1       | 817   | 0     | 2.24   |
 | WDC       | WD1500HLFS-01G6U1  | 150 GB | 3       | 813   | 0     | 2.23   |
 | WDC       | WD2500JB-00GVC0    | 250 GB | 2       | 811   | 0     | 2.22   |
 | WDC       | WD3200AAKS-22B3A0  | 320 GB | 1       | 806   | 0     | 2.21   |
+| WDC       | WD5000HHTZ-04N21V0 | 500 GB | 4       | 803   | 0     | 2.20   |
 | WDC       | WD15EARS-00S0XB0   | 1.5 TB | 1       | 802   | 0     | 2.20   |
 | WDC       | WD1600BB-56RDA0    | 160 GB | 2       | 800   | 0     | 2.19   |
 | WDC       | WD6400AAKS-00A7B0  | 640 GB | 7       | 1065  | 5     | 2.19   |
 | WDC       | WD1600JS-75NCB3    | 160 GB | 3       | 794   | 0     | 2.18   |
 | WDC       | WD3003FZEX-00Z4SA0 | 3 TB   | 1       | 793   | 0     | 2.17   |
 | WDC       | WD6001FFWX-68Z39N0 | 6 TB   | 1       | 782   | 0     | 2.14   |
-| WDC       | WD5000HHTZ-04N21V0 | 500 GB | 4       | 782   | 0     | 2.14   |
 | WDC       | WD6400AAKS-75A7B2  | 640 GB | 3       | 1059  | 3     | 2.14   |
 | WDC       | WD5000AADS-56S9B0  | 500 GB | 1       | 782   | 0     | 2.14   |
 | WDC       | WD2500BB-00GUA0    | 250 GB | 1       | 773   | 0     | 2.12   |
@@ -189,8 +189,9 @@ Rating — avg. rating per sample.
 | WDC       | WD800JD-00LSA0     | 80 GB  | 16      | 1052  | 14    | 1.90   |
 | WDC       | WD6400AAKS-65A7B0  | 640 GB | 5       | 787   | 3     | 1.89   |
 | WDC       | WD2500BEKT-75PVMT1 | 250 GB | 1       | 689   | 0     | 1.89   |
+| WDC       | WD6400AAKS-65Z7B0  | 640 GB | 4       | 760   | 5     | 1.88   |
 | WDC       | WD1001FALS-00Y6A0  | 1 TB   | 4       | 936   | 28    | 1.88   |
-| WDC       | WD2500KS-00MJB0    | 250 GB | 15      | 907   | 22    | 1.87   |
+| WDC       | WD2500KS-00MJB0    | 250 GB | 15      | 908   | 22    | 1.88   |
 | WDC       | WD30EZRX-00MMMB0   | 3 TB   | 5       | 883   | 2     | 1.87   |
 | WDC       | WD15EARS-22Z5B1    | 1.5 TB | 3       | 675   | 0     | 1.85   |
 | WDC       | WD800BB-75DKA0     | 80 GB  | 1       | 672   | 0     | 1.84   |
@@ -219,8 +220,7 @@ Rating — avg. rating per sample.
 | WDC       | WD800JB-00ETA0     | 80 GB  | 5       | 1354  | 273   | 1.75   |
 | WDC       | WD1600JS-98MHB0    | 160 GB | 1       | 638   | 0     | 1.75   |
 | WDC       | WD1200JS-00MHB0    | 120 GB | 11      | 684   | 1     | 1.75   |
-| WDC       | WD1002FAEX-00Y9A0  | 1 TB   | 24      | 722   | 31    | 1.74   |
-| WDC       | WD6400AAKS-65Z7B0  | 640 GB | 4       | 708   | 5     | 1.74   |
+| WDC       | WD1002FAEX-00Y9A0  | 1 TB   | 24      | 723   | 31    | 1.74   |
 | WDC       | WD3200AAKS-22SBA0  | 320 GB | 1       | 633   | 0     | 1.73   |
 | WDC       | WD7501AALS-00J7B0  | 750 GB | 12      | 943   | 73    | 1.73   |
 | WDC       | WD1600AABS-00PRA0  | 160 GB | 1       | 630   | 0     | 1.73   |
@@ -231,13 +231,16 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-00VWA0  | 320 GB | 7       | 626   | 0     | 1.72   |
 | WDC       | WD1600AAJB-00WRA0  | 160 GB | 2       | 950   | 543   | 1.72   |
 | WDC       | WD2002FYPS-02W3B0  | 2 TB   | 1       | 626   | 0     | 1.72   |
+| WDC       | WD10EALS-00Z8A0    | 1 TB   | 20      | 897   | 73    | 1.72   |
 | WDC       | WD800JD-22MSA1     | 80 GB  | 8       | 625   | 0     | 1.71   |
 | WDC       | WD2500AAJS-08L7A0  | 250 GB | 2       | 624   | 0     | 1.71   |
+| WDC       | WD800BB-63JKC0     | 80 GB  | 1       | 622   | 0     | 1.71   |
 | WDC       | WD360GD-00FLC0     | 37 GB  | 1       | 622   | 0     | 1.70   |
 | WDC       | WD1600AAJS-55PSA0  | 160 GB | 1       | 620   | 0     | 1.70   |
 | WDC       | WD6400BEVT-00A0RT0 | 640 GB | 1       | 619   | 0     | 1.70   |
 | WDC       | WD800BB-55JKA0     | 80 GB  | 3       | 852   | 2     | 1.70   |
 | WDC       | WD3200AAJS-65VWA0  | 320 GB | 2       | 617   | 0     | 1.69   |
+| WDC       | WD3200AAKS-00L9A0  | 320 GB | 31      | 836   | 9     | 1.68   |
 | WDC       | WD800BB-00JHA0     | 80 GB  | 6       | 1044  | 5     | 1.68   |
 | WDC       | WD5000AACS-00G8B1  | 500 GB | 9       | 854   | 3     | 1.68   |
 | WDC       | WD20EADS-00R6B0    | 2 TB   | 4       | 802   | 2     | 1.68   |
@@ -248,21 +251,19 @@ Rating — avg. rating per sample.
 | WDC       | WD2500BEKT-75PVMT0 | 250 GB | 3       | 609   | 0     | 1.67   |
 | WDC       | WD800JD-75MSA1     | 80 GB  | 1       | 607   | 0     | 1.66   |
 | WDC       | WD3200AAJS-61B4A0  | 320 GB | 1       | 607   | 0     | 1.66   |
-| WDC       | WD3200AAKS-00L9A0  | 320 GB | 31      | 827   | 9     | 1.66   |
 | WDC       | WD1002FAEX-007BA0  | 1 TB   | 2       | 709   | 1     | 1.66   |
 | WDC       | WD3000JS-60PDB0    | 300 GB | 2       | 603   | 0     | 1.65   |
 | WDC       | WD800JD-23LSA0     | 80 GB  | 1       | 1202  | 1     | 1.65   |
 | WDC       | WD1600JS-23MHB0    | 160 GB | 1       | 600   | 0     | 1.64   |
 | WDC       | WD30EFRX-68AX9N0   | 3 TB   | 6       | 785   | 2     | 1.64   |
 | WDC       | WD10EZEX-00ER1A0   | 1 TB   | 2       | 597   | 0     | 1.64   |
-| WDC       | WD10EALS-00Z8A0    | 1 TB   | 20      | 865   | 73    | 1.63   |
 | WDC       | WD10EURX-63FH1Y0   | 1 TB   | 4       | 592   | 0     | 1.62   |
 | WDC       | WD20EARX-008FB0    | 2 TB   | 2       | 591   | 0     | 1.62   |
 | WDC       | WD2500BEVS-26UST0  | 250 GB | 3       | 588   | 0     | 1.61   |
+| WDC       | WD5000LPVT-60G33T0 | 500 GB | 1       | 584   | 0     | 1.60   |
 | WDC       | WD20EARS-55MVWB0   | 2 TB   | 1       | 584   | 0     | 1.60   |
 | WDC       | WD5000AAKS-00D2B0  | 500 GB | 9       | 958   | 9     | 1.60   |
 | WDC       | WD5000BEVT-75A0RT0 | 500 GB | 2       | 584   | 0     | 1.60   |
-| WDC       | WD800BB-63JKC0     | 80 GB  | 1       | 584   | 0     | 1.60   |
 | WDC       | WD2500AVJS-63WDA0  | 250 GB | 2       | 582   | 0     | 1.60   |
 | WDC       | WD6400AAKS-65A7B2  | 640 GB | 10      | 1078  | 49    | 1.59   |
 | WDC       | WD2500BEKT-60V5T1  | 250 GB | 1       | 578   | 0     | 1.59   |
@@ -272,7 +273,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10EADS-00M2B0    | 1 TB   | 21      | 834   | 96    | 1.58   |
 | WDC       | WD1500ADFD-00NLR1  | 150 GB | 1       | 574   | 0     | 1.57   |
 | WDC       | WD15EVDS-63V9B1    | 1.5 TB | 1       | 571   | 0     | 1.57   |
-| WDC       | WD1002FAEX-00Z3A0  | 1 TB   | 42      | 754   | 121   | 1.55   |
+| WDC       | WD1002FAEX-00Z3A0  | 1 TB   | 42      | 755   | 121   | 1.55   |
 | WDC       | WD5001AALS-00E3A0  | 500 GB | 8       | 565   | 0     | 1.55   |
 | WDC       | WD800JD-55MUA1     | 80 GB  | 6       | 648   | 2     | 1.55   |
 | WDC       | WD2500JB-98GVA0    | 250 GB | 1       | 3354  | 5     | 1.53   |
@@ -308,23 +309,22 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPVT-24A1YT0   | 1 TB   | 1       | 511   | 0     | 1.40   |
 | WDC       | WD3200AAJS-55B4A0  | 320 GB | 2       | 749   | 4     | 1.40   |
 | WDC       | WD6400AAKS-55A7B0  | 640 GB | 1       | 507   | 0     | 1.39   |
+| WDC       | WD10EARS-22Y5B1    | 1 TB   | 7       | 935   | 36    | 1.39   |
 | WDC       | WD1600AAJS-00B4A0  | 160 GB | 14      | 770   | 99    | 1.39   |
 | WDC       | WD5000LPVT-16G33T0 | 500 GB | 2       | 505   | 0     | 1.39   |
 | WDC       | WD2500HHTZ-04N21V0 | 250 GB | 3       | 503   | 0     | 1.38   |
 | WDC       | WD1600AAJS-08PSA0  | 160 GB | 6       | 703   | 15    | 1.37   |
-| WDC       | WD10EARS-22Y5B1    | 1 TB   | 7       | 927   | 36    | 1.37   |
 | WDC       | WD800JD-55MSA1     | 80 GB  | 2       | 497   | 0     | 1.36   |
 | WDC       | WD5000BPKT-60PK4T0 | 500 GB | 2       | 679   | 128   | 1.36   |
 | WDC       | WD200EB-00BHF0     | 20 GB  | 1       | 992   | 1     | 1.36   |
 | WDC       | WD1200JD-00GBB0    | 120 GB | 3       | 754   | 4     | 1.36   |
 | WDC       | WD1600AAJS-75M0A0  | 160 GB | 1       | 494   | 0     | 1.35   |
+| WDC       | WD1600AAJS-00PSA0  | 160 GB | 20      | 824   | 70    | 1.35   |
 | WDC       | WD10EADX-22TDHB0   | 1 TB   | 3       | 634   | 3     | 1.35   |
 | WDC       | WD800JD-00MSA1     | 80 GB  | 6       | 704   | 12    | 1.35   |
+| WDC       | WD4000AAKS-00TMA0  | 400 GB | 4       | 561   | 1     | 1.35   |
 | WDC       | WD10JPVT-16A1YT0   | 1 TB   | 1       | 490   | 0     | 1.34   |
-| WDC       | WD3200AAJS-22L7A0  | 320 GB | 5       | 855   | 46    | 1.34   |
-| WDC       | WD5000LPVT-60G33T0 | 500 GB | 1       | 482   | 0     | 1.32   |
-| WDC       | WD1600AAJS-00PSA0  | 160 GB | 20      | 814   | 70    | 1.32   |
-| WDC       | WD4000AAKS-00TMA0  | 400 GB | 4       | 551   | 1     | 1.32   |
+| WDC       | WD3200AAJS-22L7A0  | 320 GB | 5       | 856   | 46    | 1.34   |
 | WDC       | WD1600JS-60MHB5    | 160 GB | 1       | 478   | 0     | 1.31   |
 | WDC       | WD20EARS-00S8B1    | 2 TB   | 7       | 650   | 2     | 1.31   |
 | WDC       | WD3200AAKS-61L9A0  | 320 GB | 3       | 483   | 10    | 1.31   |
@@ -346,18 +346,19 @@ Rating — avg. rating per sample.
 | WDC       | WD7500BPVT-24HXZT1 | 750 GB | 6       | 549   | 1     | 1.25   |
 | WDC       | WD5000AAKS-007AA0  | 500 GB | 6       | 846   | 17    | 1.25   |
 | WDC       | WD40EZRX-00SPEB0   | 4 TB   | 5       | 671   | 7     | 1.24   |
+| WDC       | WD5000AZRX-00A8LB0 | 500 GB | 57      | 463   | 1     | 1.24   |
 | WDC       | WD10EARX-32N0YB0   | 1 TB   | 2       | 486   | 7     | 1.24   |
 | WDC       | WD10EARX-00N0YB0   | 1 TB   | 39      | 589   | 4     | 1.24   |
 | WDC       | WD7500BPVT-55HXZT3 | 750 GB | 1       | 451   | 0     | 1.24   |
 | WDC       | WD1600JS-00NCB1    | 160 GB | 13      | 551   | 12    | 1.23   |
 | WDC       | WD5000BEKT-00KA9T0 | 500 GB | 2       | 1084  | 7     | 1.23   |
 | WDC       | WD800JB-00JJA0     | 80 GB  | 2       | 873   | 8     | 1.23   |
-| WDC       | WD5000AZRX-00A8LB0 | 500 GB | 57      | 458   | 1     | 1.23   |
+| WDC       | WD1000CHTZ-04JCPV0 | 1 TB   | 1       | 447   | 0     | 1.23   |
 | WDC       | WD15EARX-00ZUDB0   | 1.5 TB | 2       | 776   | 3     | 1.22   |
 | WDC       | WD3200YS-01PGB0    | 320 GB | 1       | 446   | 0     | 1.22   |
 | WDC       | WD1600AAJS-00Z4A0  | 160 GB | 1       | 445   | 0     | 1.22   |
+| WDC       | WD20EARX-00PASB0   | 2 TB   | 47      | 641   | 153   | 1.22   |
 | WDC       | WD740GD-00FLA2     | 74 GB  | 1       | 1330  | 2     | 1.22   |
-| WDC       | WD20EARX-00PASB0   | 2 TB   | 47      | 639   | 153   | 1.21   |
 | WDC       | WD1600BEKT-75A25T0 | 160 GB | 1       | 442   | 0     | 1.21   |
 | WDC       | WD5000AAKX-221CA0  | 500 GB | 1       | 882   | 1     | 1.21   |
 | WDC       | WD3200LPVX-80V0TT0 | 320 GB | 1       | 440   | 0     | 1.21   |
@@ -372,29 +373,32 @@ Rating — avg. rating per sample.
 | WDC       | WD7500BPKX-80HPJT0 | 750 GB | 2       | 432   | 0     | 1.19   |
 | WDC       | WD2500AAKX-001CA0  | 250 GB | 22      | 545   | 65    | 1.19   |
 | WDC       | WD6400AAKS-00H2B0  | 640 GB | 1       | 432   | 0     | 1.19   |
+| WDC       | WD1200BEVS-22RST0  | 120 GB | 3       | 458   | 1     | 1.18   |
 | WDC       | WD2500JS-60NCB1    | 250 GB | 5       | 553   | 1     | 1.18   |
 | WDC       | WD10EZEX-00ZF5A0   | 1 TB   | 9       | 526   | 226   | 1.18   |
 | WDC       | WD6400BPVT-35HXZT1 | 640 GB | 2       | 430   | 0     | 1.18   |
 | WDC       | WD1200JS-00MHB1    | 120 GB | 2       | 647   | 12    | 1.18   |
 | WDC       | WD2500AAKS-00VYA0  | 250 GB | 2       | 428   | 0     | 1.17   |
+| WDC       | WD3200BPVT-00JJ5T0 | 320 GB | 5       | 427   | 0     | 1.17   |
 | WDC       | WD10EZEX-00RKKA0   | 1 TB   | 52      | 517   | 43    | 1.17   |
 | WDC       | WD2500AAJS-00Z0A0  | 250 GB | 2       | 652   | 1     | 1.17   |
-| WDC       | WD10EARS-003BB1    | 1 TB   | 9       | 624   | 202   | 1.17   |
+| WDC       | WD3200AAKS-00SBA0  | 320 GB | 9       | 687   | 21    | 1.17   |
+| WDC       | WD10EARS-003BB1    | 1 TB   | 9       | 624   | 201   | 1.17   |
 | WDC       | WD1200LB-55EDA0    | 120 GB | 1       | 425   | 0     | 1.17   |
 | WDC       | WD1001FAES-55W7A0  | 1 TB   | 2       | 424   | 0     | 1.16   |
 | WDC       | WD2500AVJS-63B6A0  | 250 GB | 2       | 456   | 4     | 1.16   |
 | WDC       | WD5000AAKS-22A7B2  | 500 GB | 3       | 945   | 6     | 1.15   |
 | WDC       | WD7500BPVT-80HXZT3 | 750 GB | 7       | 475   | 1     | 1.15   |
 | WDC       | WD2500JS-00SGB0    | 250 GB | 5       | 566   | 1     | 1.15   |
-| WDC       | WD3200AAKS-00SBA0  | 320 GB | 9       | 686   | 21    | 1.15   |
+| WDC       | WD2500AAJS-22VTA0  | 250 GB | 5       | 688   | 6     | 1.15   |
 | WDC       | WD7500BPKT-22PK4T0 | 750 GB | 6       | 418   | 0     | 1.15   |
-| WDC       | WD1200BEVS-22RST0  | 120 GB | 3       | 444   | 1     | 1.15   |
 | WDC       | WD5000AAKS-75A7B0  | 500 GB | 1       | 417   | 0     | 1.14   |
 | WDC       | WD1600AAJS-00L7A0  | 160 GB | 20      | 712   | 4     | 1.14   |
 | WDC       | WD10EARS-00MVWB0   | 1 TB   | 22      | 869   | 44    | 1.14   |
 | WDC       | WD1600JS-08MHB0    | 160 GB | 1       | 414   | 0     | 1.14   |
 | WDC       | WD15EADS-00P8B0    | 1.5 TB | 5       | 601   | 4     | 1.13   |
 | WDC       | WD15EARX-00PASB0   | 1.5 TB | 4       | 412   | 0     | 1.13   |
+| WDC       | WD4000FYYZ-01UL1B1 | 4 TB   | 1       | 409   | 0     | 1.12   |
 | WDC       | WD10JPVT-08A1YT1   | 1 TB   | 2       | 408   | 0     | 1.12   |
 | WDC       | WD7500AARS-00Y5B1  | 750 GB | 10      | 482   | 3     | 1.12   |
 | WDC       | WD5000BEKT-75KA9T0 | 500 GB | 2       | 407   | 0     | 1.12   |
@@ -403,15 +407,14 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKS-00V2B0  | 500 GB | 2       | 665   | 1     | 1.12   |
 | WDC       | WD2500JD-00HBB0    | 250 GB | 1       | 406   | 0     | 1.11   |
 | WDC       | WD10EURX-63C57Y0   | 1 TB   | 1       | 405   | 0     | 1.11   |
-| WDC       | WD2500AAJS-22VTA0  | 250 GB | 5       | 674   | 6     | 1.11   |
 | WDC       | WD2500JS-60MHB5    | 250 GB | 2       | 1170  | 18    | 1.11   |
 | WDC       | WD2500AAKS-00V6A0  | 250 GB | 1       | 404   | 0     | 1.11   |
 | WDC       | WD1600AAJS-00V4A0  | 160 GB | 5       | 408   | 15    | 1.11   |
+| WDC       | WD5000AAKS-65A7B0  | 500 GB | 5       | 580   | 81    | 1.10   |
 | WDC       | WD1200BB-00GUC0    | 120 GB | 1       | 1606  | 3     | 1.10   |
 | WDC       | WD10EALX-008EA0    | 1 TB   | 3       | 400   | 0     | 1.10   |
 | WDC       | WD1600AAJS-00WAA0  | 160 GB | 6       | 431   | 3     | 1.10   |
 | WDC       | WD10EADS-11P8B2    | 1 TB   | 1       | 799   | 1     | 1.10   |
-| WDC       | WD5000AAKS-65A7B0  | 500 GB | 5       | 578   | 81    | 1.09   |
 | WDC       | WD10EZEX-19ZF5A0   | 1 TB   | 1       | 399   | 0     | 1.09   |
 | WDC       | WD2500BEVS-08VAT2  | 250 GB | 2       | 398   | 0     | 1.09   |
 | WDC       | WD6400AARS-00Y5B1  | 640 GB | 11      | 729   | 6     | 1.09   |
@@ -419,11 +422,9 @@ Rating — avg. rating per sample.
 | WDC       | WD2500AAKS-00YGA0  | 250 GB | 1       | 397   | 0     | 1.09   |
 | WDC       | WD1600BB-22RDA0    | 160 GB | 1       | 396   | 0     | 1.09   |
 | WDC       | WD3200AAKS-00L6A0  | 320 GB | 3       | 579   | 4     | 1.09   |
-| WDC       | WD1000CHTZ-04JCPV0 | 1 TB   | 1       | 395   | 0     | 1.08   |
 | WDC       | WD6400BPVT-80HXZT3 | 640 GB | 7       | 668   | 10    | 1.08   |
 | WDC       | WD2001FASS-00U0B0  | 2 TB   | 1       | 1578  | 3     | 1.08   |
 | WDC       | WD15EARS-00S8B1    | 1.5 TB | 2       | 1078  | 4     | 1.08   |
-| WDC       | WD3200BPVT-00JJ5T0 | 320 GB | 5       | 391   | 0     | 1.07   |
 | WDC       | WD2500AAJB-00J3A0  | 250 GB | 10      | 741   | 8     | 1.07   |
 | WDC       | WD3200AAJS-00B4A0  | 320 GB | 14      | 850   | 152   | 1.07   |
 | WDC       | WD1600AAJB-00PVA0  | 160 GB | 8       | 714   | 226   | 1.07   |
@@ -454,13 +455,14 @@ Rating — avg. rating per sample.
 | WDC       | WD2500BEVT-35A23T0 | 250 GB | 18      | 478   | 2     | 1.03   |
 | WDC       | WD2500BEVS-22UST0  | 250 GB | 35      | 516   | 18    | 1.03   |
 | WDC       | WD800BB-00JKA0     | 80 GB  | 1       | 374   | 0     | 1.03   |
-| WDC       | WD5000BPVT-22HXZT3 | 500 GB | 30      | 464   | 2     | 1.03   |
+| WDC       | WD5000BPVT-22HXZT3 | 500 GB | 30      | 465   | 2     | 1.03   |
+| WDC       | WD5000BPVT-80HXZT3 | 500 GB | 19      | 432   | 58    | 1.02   |
 | WDC       | WD5000BPVT-24HXZT3 | 500 GB | 12      | 433   | 1     | 1.02   |
 | WDC       | WD6400BPVT-22HXZT3 | 640 GB | 4       | 372   | 0     | 1.02   |
 | WDC       | WD800BB-00JHC0     | 80 GB  | 16      | 669   | 110   | 1.02   |
 | WDC       | WD3200AAKS-00UU3A0 | 320 GB | 7       | 609   | 17    | 1.02   |
 | WDC       | WD5000AADS-00S9B0  | 500 GB | 71      | 652   | 37    | 1.02   |
-| WDC       | WD5000BPVT-80HXZT3 | 500 GB | 19      | 428   | 58    | 1.01   |
+| WDC       | WD10EALX-009BA0    | 1 TB   | 39      | 593   | 14    | 1.01   |
 | WDC       | WD10EZEX-08RKKA0   | 1 TB   | 3       | 368   | 0     | 1.01   |
 | WDC       | WD6400AAVS-00G9B1  | 640 GB | 1       | 367   | 0     | 1.01   |
 | WDC       | WD800BB-00FJA0     | 80 GB  | 6       | 443   | 35    | 1.00   |
@@ -471,8 +473,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAKB-00WHA0  | 320 GB | 1       | 360   | 0     | 0.99   |
 | WDC       | WD5000BPKX-60HPJT0 | 500 GB | 2       | 360   | 0     | 0.99   |
 | WDC       | WD1600JS-56MHB1    | 160 GB | 5       | 477   | 5     | 0.99   |
-| WDC       | WD10EALX-009BA0    | 1 TB   | 39      | 583   | 14    | 0.98   |
-| WDC       | WD4000FYYZ-01UL1B1 | 4 TB   | 1       | 357   | 0     | 0.98   |
 | WDC       | WD7500BPVT-75A1YT0 | 750 GB | 1       | 357   | 0     | 0.98   |
 | WDC       | WD2500AAJB-00WGA0  | 250 GB | 4       | 995   | 144   | 0.98   |
 | WDC       | WD5000LPVT-75G33T0 | 500 GB | 4       | 411   | 2     | 0.97   |
@@ -483,6 +483,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2500BEKT-60PVMT0 | 250 GB | 6       | 353   | 0     | 0.97   |
 | WDC       | WD6400AACS-00M3B0  | 640 GB | 1       | 352   | 0     | 0.97   |
 | WDC       | WD10JPVT-60A1YT0   | 1 TB   | 2       | 455   | 505   | 0.96   |
+| WDC       | WD1002FBYS-02A6B0  | 1 TB   | 3       | 578   | 3     | 0.96   |
 | WDC       | WD25EZRX-00MMMB0   | 2.5 TB | 1       | 1049  | 2     | 0.96   |
 | WDC       | WD3000BLFS-08YBU0  | 300 GB | 1       | 349   | 0     | 0.96   |
 | WDC       | WD6000BLHX-01V7BV0 | 600 GB | 1       | 349   | 0     | 0.96   |
@@ -495,27 +496,29 @@ Rating — avg. rating per sample.
 | WDC       | WD6400BPVT-55HXZT2 | 640 GB | 1       | 340   | 0     | 0.93   |
 | WDC       | WD15EARX-22PASB0   | 1.5 TB | 1       | 340   | 0     | 0.93   |
 | WDC       | WD10EALX-559BA0    | 1 TB   | 4       | 600   | 8     | 0.93   |
+| WDC       | WD10EZEX-60ZF5A0   | 1 TB   | 32      | 410   | 81    | 0.93   |
+| WDC       | WD5000BPVT-08HXZT3 | 500 GB | 7       | 369   | 1     | 0.93   |
 | WDC       | WD6400AAKS-22A7B2  | 640 GB | 10      | 508   | 2     | 0.93   |
 | WDC       | WD1200BEVS-75UST0  | 120 GB | 9       | 429   | 2     | 0.93   |
 | WDC       | WD2500BEVS-75UST0  | 250 GB | 7       | 336   | 0     | 0.92   |
-| WDC       | WD1002FBYS-02A6B0  | 1 TB   | 3       | 564   | 3     | 0.92   |
-| WDC       | WD10EZEX-60ZF5A0   | 1 TB   | 32      | 406   | 81    | 0.92   |
-| WDC       | WD3200BPVT-35ZEST0 | 320 GB | 19      | 401   | 2     | 0.92   |
+| WDC       | WD3200BPVT-35ZEST0 | 320 GB | 19      | 402   | 2     | 0.92   |
 | WDC       | WD20EZRX-00DC0B0   | 2 TB   | 13      | 387   | 2     | 0.92   |
 | WDC       | WD2500AAKX-00U6AA0 | 250 GB | 2       | 339   | 4     | 0.92   |
 | WDC       | WD5000BHTZ-04JCPV0 | 500 GB | 1       | 334   | 0     | 0.92   |
+| WDC       | WD10EARS-00Y5B1    | 1 TB   | 62      | 793   | 72    | 0.91   |
 | WDC       | WD5000BEVT-60A0RT0 | 500 GB | 1       | 667   | 1     | 0.91   |
-| WDC       | WD10EARS-00Y5B1    | 1 TB   | 62      | 788   | 72    | 0.91   |
 | WDC       | WD1001FALS-00U9B0  | 1 TB   | 1       | 995   | 2     | 0.91   |
 | WDC       | WD20EARS-00J99B0   | 2 TB   | 2       | 331   | 0     | 0.91   |
 | WDC       | WD1600BEVT-22ZCT0  | 160 GB | 61      | 453   | 61    | 0.90   |
-| WDC       | WD15EARS-00MVWB0   | 1.5 TB | 28      | 801   | 365   | 0.90   |
+| WDC       | WD15EARS-00MVWB0   | 1.5 TB | 28      | 810   | 353   | 0.90   |
 | WDC       | WD20EARS-07MVWB0   | 2 TB   | 1       | 329   | 0     | 0.90   |
 | WDC       | WD5000AAKS-75V0A0  | 500 GB | 4       | 356   | 2     | 0.90   |
 | WDC       | WD6400AAKS-40H2B0  | 640 GB | 2       | 1447  | 406   | 0.90   |
 | WDC       | WD1600BEVS-26VAT0  | 160 GB | 1       | 326   | 0     | 0.89   |
 | WDC       | WD5000LPLX-66ZNTT0 | 500 GB | 1       | 326   | 0     | 0.89   |
+| WDC       | WD2500BEVT-75ZCT2  | 250 GB | 2       | 325   | 0     | 0.89   |
 | WDC       | WD2003FZEX-00Z4SA0 | 2 TB   | 3       | 325   | 0     | 0.89   |
+| WDC       | WD5003AZEX-00K1GA0 | 500 GB | 16      | 388   | 68    | 0.89   |
 | WDC       | WD3200AAKS-75VYA0  | 320 GB | 2       | 324   | 0     | 0.89   |
 | WDC       | WD3200JS-00PDB0    | 320 GB | 1       | 324   | 0     | 0.89   |
 | WDC       | WD5000AAKX-00ERMA0 | 500 GB | 67      | 440   | 5     | 0.89   |
@@ -527,8 +530,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-00YZCA0 | 320 GB | 10      | 588   | 5     | 0.88   |
 | WDC       | WD10JPVT-55A1YT0   | 1 TB   | 1       | 320   | 0     | 0.88   |
 | WDC       | WD5000AZDX-00SC2B0 | 500 GB | 2       | 319   | 0     | 0.88   |
-| WDC       | WD5003AZEX-00K1GA0 | 500 GB | 16      | 382   | 68    | 0.87   |
-| WDC       | WD2500BEVT-75ZCT2  | 250 GB | 2       | 317   | 0     | 0.87   |
 | WDC       | WD5003ABYX-01WERA0 | 500 GB | 6       | 556   | 3     | 0.87   |
 | WDC       | WD20EURX-63T0FY0   | 2 TB   | 4       | 315   | 0     | 0.87   |
 | WDC       | WD800BEVS-00UST0   | 80 GB  | 1       | 315   | 0     | 0.86   |
@@ -540,22 +541,23 @@ Rating — avg. rating per sample.
 | WDC       | WD2000JD-00HBB0    | 200 GB | 3       | 636   | 3     | 0.86   |
 | WDC       | WD5000BPKT-00PK4T0 | 500 GB | 3       | 340   | 1     | 0.86   |
 | WDC       | WD7500BPKT-75PK4T0 | 750 GB | 5       | 313   | 0     | 0.86   |
+| WDC       | WD10JPVT-08A1YT2   | 1 TB   | 6       | 377   | 1     | 0.86   |
 | WDC       | WD800AAJS-00L7A0   | 80 GB  | 1       | 313   | 0     | 0.86   |
 | WDC       | WD3001FAEX-00MJRA0 | 3 TB   | 2       | 311   | 0     | 0.85   |
 | WDC       | WD3200AAKX-001CA0  | 320 GB | 25      | 560   | 16    | 0.85   |
+| WDC       | WD10EZEX-21M2NA0   | 1 TB   | 17      | 323   | 1     | 0.85   |
 | WDC       | WD800BB-56JKC0     | 80 GB  | 3       | 634   | 4     | 0.85   |
 | WDC       | WD1200JB-00DUA3    | 120 GB | 1       | 1235  | 3     | 0.85   |
 | WDC       | WD1600JS-40TGB0    | 160 GB | 1       | 308   | 0     | 0.85   |
 | WDC       | WD5000AAKX-001CA0  | 500 GB | 122     | 567   | 59    | 0.84   |
-| WDC       | WD10EZEX-21M2NA0   | 1 TB   | 17      | 320   | 1     | 0.84   |
 | WDC       | WD3200BEVT-00SCST0 | 320 GB | 1       | 306   | 0     | 0.84   |
 | WDC       | WD400BB-00JHA0     | 40 GB  | 1       | 1836  | 5     | 0.84   |
 | WDC       | WD5000AAJS-19A8B0  | 500 GB | 1       | 305   | 0     | 0.84   |
-| WDC       | WD5000BPVT-08HXZT3 | 500 GB | 7       | 333   | 1     | 0.83   |
 | WDC       | WD7500BPVT-22HXZT3 | 750 GB | 21      | 365   | 1     | 0.83   |
 | WDC       | WD3200BEKT-60PVMT0 | 320 GB | 3       | 301   | 0     | 0.83   |
 | WDC       | WD7500BPVX-22JC3T0 | 750 GB | 9       | 369   | 1     | 0.82   |
 | WDC       | WD600BEAS-22KZT0   | 60 GB  | 1       | 300   | 0     | 0.82   |
+| WDC       | WD30EFRX-68EUZN0   | 3 TB   | 18      | 319   | 1     | 0.82   |
 | WDC       | WD5002AALX-00J37A0 | 500 GB | 7       | 522   | 3     | 0.82   |
 | WDC       | WD5000AAKX-08ERMA0 | 500 GB | 15      | 425   | 155   | 0.82   |
 | WDC       | WD20EZRX-00D8PB0   | 2 TB   | 20      | 346   | 25    | 0.81   |
@@ -563,7 +565,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BEKT-08PVMT1 | 320 GB | 2       | 293   | 0     | 0.80   |
 | WDC       | WD2500AAJS-07M0A0  | 250 GB | 3       | 622   | 6     | 0.80   |
 | WDC       | WD2500BEKT-75A25T0 | 250 GB | 1       | 292   | 0     | 0.80   |
-| WDC       | WD30EFRX-68EUZN0   | 3 TB   | 18      | 311   | 1     | 0.80   |
 | WDC       | WD2500AAJS-60Z0A0  | 250 GB | 2       | 291   | 0     | 0.80   |
 | WDC       | WD3200AAJS-22B4A0  | 320 GB | 4       | 1078  | 7     | 0.80   |
 | WDC       | WD1600AAJS-60M0A1  | 160 GB | 2       | 779   | 11    | 0.80   |
@@ -593,16 +594,17 @@ Rating — avg. rating per sample.
 | WDC       | WD2500AAKX-00ERMA0 | 250 GB | 16      | 375   | 85    | 0.75   |
 | WDC       | WD1600AAJS-00YZCA0 | 160 GB | 8       | 543   | 45    | 0.75   |
 | WDC       | WD3200BPVT-55ZEST0 | 320 GB | 2       | 316   | 2     | 0.75   |
+| WDC       | WD7500BPVT-24HXZT3 | 750 GB | 8       | 325   | 32    | 0.74   |
 | WDC       | WD5000BPVT-00HXZT1 | 500 GB | 10      | 397   | 65    | 0.74   |
 | WDC       | WD10EZEX-08M2NA0   | 1 TB   | 44      | 293   | 2     | 0.74   |
 | WDC       | WD10JPVX-16JC3T3   | 1 TB   | 2       | 269   | 0     | 0.74   |
 | WDC       | WD5000AAKS-22V1A0  | 500 GB | 8       | 576   | 169   | 0.74   |
 | WDC       | WD5000BPVT-00HXZT3 | 500 GB | 7       | 387   | 70    | 0.74   |
 | WDC       | WD5000AAJS-22YFA0  | 500 GB | 4       | 809   | 528   | 0.74   |
+| WDC       | WD2500JB-00REA0    | 250 GB | 7       | 654   | 31    | 0.74   |
 | WDC       | WD1200JD-22HBB0    | 120 GB | 2       | 1602  | 5     | 0.73   |
 | WDC       | WD3200LPVT-00FMCT0 | 320 GB | 1       | 266   | 0     | 0.73   |
 | WDC       | WD3200BEKX-75B7WT0 | 320 GB | 1       | 266   | 0     | 0.73   |
-| WDC       | WD7500BPVT-24HXZT3 | 750 GB | 8       | 320   | 32    | 0.73   |
 | WDC       | WD6000HLHX-01JJPV0 | 600 GB | 6       | 482   | 5     | 0.73   |
 | WDC       | WD5000AAKS-65A7B2  | 500 GB | 1       | 265   | 0     | 0.73   |
 | WDC       | WD2500AAKS-61L9A0  | 250 GB | 1       | 265   | 0     | 0.73   |
@@ -611,17 +613,17 @@ Rating — avg. rating per sample.
 | WDC       | WD6401AALS-00E3A0  | 640 GB | 4       | 602   | 5     | 0.71   |
 | WDC       | WD6400BPVT-00HXZT1 | 640 GB | 2       | 260   | 0     | 0.71   |
 | WDC       | WD3200BPVT-24JJ5T0 | 320 GB | 40      | 333   | 72    | 0.71   |
+| WDC       | WD1003FZEX-00MK2A0 | 1 TB   | 34      | 258   | 0     | 0.71   |
 | WDC       | WD800JD-00JNC0     | 80 GB  | 3       | 539   | 20    | 0.71   |
 | WDC       | WD3200AAJS-00L7A0  | 320 GB | 50      | 683   | 70    | 0.70   |
 | WDC       | WD10EURX-56FH1Y0   | 1 TB   | 1       | 256   | 0     | 0.70   |
 | WDC       | WD10EZRX-00L4HB0   | 1 TB   | 26      | 287   | 6     | 0.70   |
 | WDC       | WD5000AAKX-08ANVA0 | 500 GB | 2       | 256   | 0     | 0.70   |
-| WDC       | WD1003FZEX-00MK2A0 | 1 TB   | 34      | 255   | 0     | 0.70   |
 | WDC       | WD2500BEVT-24A23T0 | 250 GB | 15      | 366   | 41    | 0.70   |
 | WDC       | WD10EAVS-00D7B1    | 1 TB   | 3       | 552   | 3     | 0.70   |
 | WDC       | WD3200BPVT-22JJ5T0 | 320 GB | 80      | 301   | 48    | 0.70   |
 | WDC       | WD10JPVX-08JC3T5   | 1 TB   | 4       | 254   | 0     | 0.70   |
-| WDC       | WD5000LPVT-22G33T0 | 500 GB | 14      | 365   | 93    | 0.69   |
+| WDC       | WD5000LPVT-22G33T0 | 500 GB | 14      | 366   | 93    | 0.70   |
 | WDC       | WD3200BEKT-00F3T0  | 320 GB | 2       | 253   | 0     | 0.69   |
 | WDC       | WD800BEVS-07RST0   | 80 GB  | 1       | 253   | 0     | 0.69   |
 | WDC       | WD40PURX-64GVNY0   | 4 TB   | 1       | 253   | 0     | 0.69   |
@@ -631,7 +633,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAKS-00V6A0  | 320 GB | 2       | 383   | 1     | 0.69   |
 | WDC       | WD10EALX-229BA0    | 1 TB   | 4       | 841   | 9     | 0.69   |
 | WDC       | WD20EFRX-68EUZN0   | 2 TB   | 15      | 259   | 1     | 0.69   |
-| WDC       | WD2500JB-00REA0    | 250 GB | 7       | 617   | 31    | 0.68   |
 | WDC       | WD3200AAJS-60M0A0  | 320 GB | 1       | 749   | 2     | 0.68   |
 | WDC       | WD20EURS-63S48Y0   | 2 TB   | 2       | 266   | 1011  | 0.68   |
 | WDC       | WD3200BPVT-24ZEST0 | 320 GB | 15      | 312   | 4     | 0.68   |
@@ -647,7 +648,6 @@ Rating — avg. rating per sample.
 | WDC       | WD1600AAJB-22WRA0  | 160 GB | 2       | 722   | 3     | 0.67   |
 | WDC       | WD10EFRX-68PJCN0   | 1 TB   | 17      | 261   | 1     | 0.67   |
 | WDC       | WD10EAVS-22D7B0    | 1 TB   | 1       | 2174  | 8     | 0.66   |
-| WDC       | WD10JPVT-08A1YT2   | 1 TB   | 6       | 305   | 1     | 0.66   |
 | WDC       | WD2502ABYS-18B7A0  | 250 GB | 1       | 239   | 0     | 0.66   |
 | WDC       | WD5000AARS-003BB1  | 500 GB | 4       | 626   | 5     | 0.66   |
 | WDC       | WD1000DHTZ-04N21V0 | 1 TB   | 2       | 643   | 4     | 0.66   |
@@ -657,9 +657,9 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BEVS-26VAT0  | 320 GB | 1       | 235   | 0     | 0.64   |
 | WDC       | WD3200BEKT-75KA9T0 | 320 GB | 1       | 234   | 0     | 0.64   |
 | WDC       | WD5000AADS-67S9B0  | 500 GB | 1       | 2104  | 8     | 0.64   |
+| WDC       | WD10EZEX-00BN5A0   | 1 TB   | 69      | 259   | 2     | 0.64   |
 | WDC       | WD5000BPVT-55HXZT3 | 500 GB | 1       | 233   | 0     | 0.64   |
 | WDC       | WD1600JD-22HBB0    | 160 GB | 1       | 1396  | 5     | 0.64   |
-| WDC       | WD10EZEX-00BN5A0   | 1 TB   | 69      | 258   | 2     | 0.64   |
 | WDC       | WD6400BPVT-26HXZT1 | 640 GB | 1       | 232   | 0     | 0.64   |
 | WDC       | WD7500BPVT-75HXZT3 | 750 GB | 2       | 231   | 0     | 0.63   |
 | WDC       | WD5000BPVT-75HXZT3 | 500 GB | 16      | 447   | 3     | 0.63   |
@@ -675,6 +675,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKX-00U6AA0 | 500 GB | 10      | 313   | 3     | 0.61   |
 | WDC       | WD3200BEVT-26A23T0 | 320 GB | 2       | 397   | 109   | 0.61   |
 | WDC       | WD6400BPVT-22HXZT1 | 640 GB | 3       | 308   | 4     | 0.61   |
+| WDC       | WD2500AAJS-65M0A0  | 250 GB | 3       | 612   | 13    | 0.60   |
 | WDC       | WD3200AAKX-221CA1  | 320 GB | 1       | 218   | 0     | 0.60   |
 | WDC       | WD5000AAKS-00V1A0  | 500 GB | 36      | 738   | 210   | 0.60   |
 | WDC       | WD3000HLFS-75G6U1  | 300 GB | 1       | 218   | 0     | 0.60   |
@@ -682,6 +683,7 @@ Rating — avg. rating per sample.
 | WDC       | WD20EZRX-22D8PB0   | 2 TB   | 1       | 215   | 0     | 0.59   |
 | WDC       | WD3200AZDX-00SC2B0 | 320 GB | 2       | 379   | 440   | 0.59   |
 | WDC       | WD10EZEX-75ZF5A0   | 1 TB   | 4       | 215   | 0     | 0.59   |
+| WDC       | WD3200BPVT-80JJ5T0 | 320 GB | 45      | 292   | 53    | 0.59   |
 | WDC       | WD10JPVX-80JC3T0   | 1 TB   | 7       | 214   | 0     | 0.59   |
 | WDC       | WD1600JB-00GVC0    | 160 GB | 1       | 210   | 0     | 0.58   |
 | WDC       | WD10EZEX-60M2NA0   | 1 TB   | 7       | 254   | 144   | 0.57   |
@@ -689,10 +691,8 @@ Rating — avg. rating per sample.
 | WDC       | WD5000LPVX-80V0TT0 | 500 GB | 27      | 217   | 1     | 0.57   |
 | WDC       | WD10JPVT-22A1YT0   | 1 TB   | 5       | 321   | 1     | 0.57   |
 | WDC       | WD5000BEKT-80KA9T0 | 500 GB | 3       | 317   | 1     | 0.57   |
-| WDC       | WD3200BPVT-80JJ5T0 | 320 GB | 45      | 286   | 53    | 0.57   |
 | WDC       | WD400BB-00FJA0     | 40 GB  | 2       | 699   | 222   | 0.57   |
 | WDC       | WD1600BJKT-75F4T0  | 160 GB | 3       | 243   | 1     | 0.57   |
-| WDC       | WD2500AAJS-65M0A0  | 250 GB | 3       | 500   | 13    | 0.57   |
 | WDC       | WD10EZEX-00UD2A0   | 1 TB   | 7       | 335   | 125   | 0.56   |
 | WDC       | WD10EURS-630AB1    | 1 TB   | 1       | 1846  | 8     | 0.56   |
 | WDC       | WD1200JB-00GVC0    | 120 GB | 3       | 539   | 4     | 0.56   |
@@ -707,6 +707,7 @@ Rating — avg. rating per sample.
 | WDC       | WD15EARS-00Z5B1    | 1.5 TB | 19      | 920   | 630   | 0.54   |
 | WDC       | WD10EADS-11M2B2    | 1 TB   | 1       | 1778  | 8     | 0.54   |
 | WDC       | WD6400BPVT-60HXZT1 | 640 GB | 2       | 408   | 42    | 0.54   |
+| WDC       | WD1002F9YZ-09H1JL1 | 1 TB   | 2       | 196   | 0     | 0.54   |
 | WDC       | WD400BD-75MRA1     | 40 GB  | 1       | 196   | 0     | 0.54   |
 | WDC       | WD30EZRX-00D8PB0   | 3 TB   | 7       | 298   | 2     | 0.54   |
 | WDC       | WD400BB-00DKA0     | 40 GB  | 1       | 193   | 0     | 0.53   |
@@ -715,7 +716,6 @@ Rating — avg. rating per sample.
 | WDC       | WD4001FAEX-00MJRA0 | 4 TB   | 1       | 190   | 0     | 0.52   |
 | WDC       | WD5000AZRZ-00HTKB0 | 500 GB | 6       | 189   | 0     | 0.52   |
 | WDC       | WD800JD-75JNA0     | 80 GB  | 2       | 1563  | 59    | 0.52   |
-| WDC       | WD1002F9YZ-09H1JL1 | 1 TB   | 2       | 189   | 0     | 0.52   |
 | WDC       | WD5000LPVT-00G33T0 | 500 GB | 4       | 386   | 3     | 0.52   |
 | WDC       | WD800BEVS-00RST0   | 80 GB  | 3       | 257   | 1     | 0.52   |
 | WDC       | WD5000AZRX-00L4HB0 | 500 GB | 10      | 188   | 0     | 0.52   |
@@ -735,15 +735,15 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AAKS-22YGA0  | 500 GB | 2       | 527   | 228   | 0.50   |
 | WDC       | WD10SPCX-24HWST1   | 1 TB   | 2       | 181   | 0     | 0.50   |
 | WDC       | WD7500BPKT-60PK4T0 | 750 GB | 2       | 343   | 4     | 0.49   |
-| WDC       | WD2500AAJS-00L7A0  | 250 GB | 18      | 465   | 14    | 0.49   |
+| WDC       | WD2500AAJS-00L7A0  | 250 GB | 18      | 466   | 14    | 0.49   |
 | WDC       | WD1600BEVT-22A23T0 | 160 GB | 16      | 251   | 5     | 0.49   |
+| WDC       | WD1200BEVS-75RST0  | 120 GB | 2       | 178   | 0     | 0.49   |
 | WDC       | WD5000BPKT-75PK4T0 | 500 GB | 5       | 302   | 4     | 0.49   |
 | WDC       | WD5000BPKX-75HPJT0 | 500 GB | 1       | 178   | 0     | 0.49   |
 | WDC       | WD10JPVX-08JC3T2   | 1 TB   | 4       | 197   | 1     | 0.49   |
-| WDC       | WD1200BEVS-75RST0  | 120 GB | 2       | 177   | 0     | 0.49   |
 | WDC       | WD10JUCT-63J6SY0   | 1 TB   | 3       | 176   | 0     | 0.48   |
-| WDC       | WD60EFRX-68MYMN1   | 6 TB   | 5       | 294   | 3     | 0.48   |
 | WDC       | WD10JMVW-11AJGS4   | 1 TB   | 2       | 175   | 0     | 0.48   |
+| WDC       | WD60EFRX-68MYMN1   | 6 TB   | 5       | 294   | 3     | 0.48   |
 | WDC       | WD2005FBYZ-01YCBB2 | 2 TB   | 2       | 175   | 0     | 0.48   |
 | WDC       | WD1003FBYX-01Y7B0  | 1 TB   | 3       | 973   | 5     | 0.48   |
 | WDC       | WD3200BPVT-75ZEST0 | 320 GB | 3       | 275   | 3     | 0.48   |
@@ -752,8 +752,8 @@ Rating — avg. rating per sample.
 | WDC       | WD7500BPVT-08HXZT3 | 750 GB | 3       | 172   | 0     | 0.47   |
 | WDC       | WD3200AAKS-22L6A0  | 320 GB | 3       | 378   | 5     | 0.47   |
 | WDC       | WD3200BPVT-60JJ5T0 | 320 GB | 8       | 395   | 22    | 0.47   |
+| WDC       | WD5000LPVX-22V0TT0 | 500 GB | 107     | 201   | 3     | 0.47   |
 | WDC       | WD3200BJKT-00F4T0  | 320 GB | 1       | 169   | 0     | 0.46   |
-| WDC       | WD5000LPVX-22V0TT0 | 500 GB | 107     | 199   | 3     | 0.46   |
 | WDC       | WD10S21X-24R1BT... | 1 TB   | 5       | 168   | 0     | 0.46   |
 | WDC       | WD7501AALS-00E8B0  | 750 GB | 1       | 1502  | 8     | 0.46   |
 | WDC       | WD5000MPCK-60AWHT0 | 500 GB | 1       | 166   | 0     | 0.46   |
@@ -784,30 +784,33 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPVT-75A1YT0   | 1 TB   | 4       | 446   | 4     | 0.42   |
 | WDC       | WD10EZEX-07M2NA0   | 1 TB   | 1       | 152   | 0     | 0.42   |
 | WDC       | WD400JB-00FMA0     | 40 GB  | 1       | 152   | 0     | 0.42   |
-| WDC       | WD3200BPVT-80ZEST0 | 320 GB | 21      | 332   | 11    | 0.42   |
+| WDC       | WD3200BPVT-80ZEST0 | 320 GB | 21      | 333   | 11    | 0.42   |
 | WDC       | WD800JD-22LSA1     | 80 GB  | 3       | 627   | 232   | 0.42   |
 | WDC       | WD1600AVVS-63L2B0  | 160 GB | 2       | 151   | 0     | 0.41   |
 | WDC       | WD7500BPVT-55HXZT4 | 750 GB | 1       | 150   | 0     | 0.41   |
 | WDC       | WD5000BPVT-80HXZT1 | 500 GB | 5       | 640   | 67    | 0.41   |
 | WDC       | WD5001AALS-00LWTA0 | 500 GB | 3       | 495   | 80    | 0.41   |
+| WDC       | WD5000LPCX-24C6HT0 | 500 GB | 32      | 173   | 1     | 0.41   |
 | WDC       | WD5000LPCX-22VHAT0 | 500 GB | 10      | 148   | 0     | 0.41   |
 | WDC       | WD800BB-75JHC0     | 80 GB  | 1       | 148   | 0     | 0.41   |
 | WDC       | WD1600BEVT-75A23T0 | 160 GB | 3       | 244   | 1     | 0.41   |
 | WDC       | WD1200JS-22NCB1    | 120 GB | 1       | 1184  | 7     | 0.41   |
-| WDC       | WD2500BEVT-08A23T1 | 250 GB | 10      | 214   | 144   | 0.41   |
+| WDC       | WD2500BEVT-08A23T1 | 250 GB | 10      | 215   | 148   | 0.41   |
 | WDC       | WD5000BEVT-60ZAT1  | 500 GB | 4       | 344   | 15    | 0.40   |
 | WDC       | WD2500BEVT-00A0RT1 | 245 GB | 1       | 146   | 0     | 0.40   |
 | WDC       | WD3000FYYZ-01UL1B0 | 3 TB   | 1       | 145   | 0     | 0.40   |
-| WDC       | WD5000LPCX-24C6HT0 | 500 GB | 32      | 169   | 1     | 0.40   |
 | WDC       | WD3200AAJS-55VWA0  | 320 GB | 1       | 1006  | 6     | 0.39   |
 | WDC       | WD10EZRX-00D8PB0   | 1 TB   | 7       | 160   | 2     | 0.39   |
+| WDC       | WD3200AAJS-56M0A0  | 320 GB | 5       | 425   | 3     | 0.39   |
+| WDC       | WD7500KMVV-11TK7S1 | 750 GB | 1       | 141   | 0     | 0.39   |
+| WDC       | WD10EZEX-00WN4A0   | 1 TB   | 24      | 141   | 0     | 0.39   |
 | WDC       | WD2500AAJB-57WGA0  | 250 GB | 1       | 140   | 0     | 0.38   |
 | WDC       | WD5000AAKB-00H8A0  | 500 GB | 12      | 510   | 9     | 0.38   |
 | WDC       | WD5000LPVX-55V0TT0 | 500 GB | 10      | 140   | 0     | 0.38   |
+| WDC       | WD2500AAJS-07B4A0  | 250 GB | 2       | 1695  | 198   | 0.38   |
 | WDC       | WD400EB-11CPF0     | 40 GB  | 2       | 1019  | 31    | 0.38   |
 | WDC       | WD800BB-00HEA0     | 80 GB  | 1       | 836   | 5     | 0.38   |
 | WDC       | WD2500BEVS-60UST0  | 250 GB | 6       | 425   | 338   | 0.38   |
-| WDC       | WD10EZEX-00WN4A0   | 1 TB   | 24      | 137   | 0     | 0.38   |
 | WDC       | WD2500BPVT-24JJ5T0 | 250 GB | 1       | 136   | 0     | 0.37   |
 | WDC       | WD1600AAJB-00J3A0  | 160 GB | 11      | 639   | 192   | 0.37   |
 | WDC       | WD60EFRX-68L0BN1   | 6 TB   | 3       | 174   | 6     | 0.37   |
@@ -817,22 +820,19 @@ Rating — avg. rating per sample.
 | WDC       | WD3201ABYS-01B9A0  | 320 GB | 2       | 926   | 278   | 0.37   |
 | WDC       | WD3200AAKX-073CA1  | 320 GB | 2       | 342   | 4     | 0.37   |
 | WDC       | WD6400BPVT-75HXZT1 | 640 GB | 2       | 385   | 3     | 0.37   |
+| WDC       | WD3200BPVT-16JJ5T0 | 320 GB | 2       | 243   | 1     | 0.37   |
 | WDC       | WD5000AAKX-22ERMA0 | 500 GB | 21      | 258   | 3     | 0.36   |
 | WDC       | WD10EARX-00NYB0    | 1 TB   | 1       | 130   | 0     | 0.36   |
-| WDC       | WD7500KMVV-11TK7S1 | 750 GB | 1       | 129   | 0     | 0.36   |
 | WDC       | WD10JPVX-00JC3T0   | 1 TB   | 25      | 132   | 1     | 0.35   |
 | WDC       | WD10EADS-98M2B0    | 1 TB   | 1       | 899   | 6     | 0.35   |
 | WDC       | WD5000AZLX-00CL5A0 | 500 GB | 2       | 128   | 0     | 0.35   |
-| WDC       | WD3200BPVT-16JJ5T0 | 320 GB | 2       | 231   | 1     | 0.35   |
 | WDC       | WD3200AAJS-65M0A0  | 320 GB | 1       | 1152  | 8     | 0.35   |
 | WDC       | WD5000BPKT-22PK4T0 | 500 GB | 1       | 127   | 0     | 0.35   |
 | WDC       | WD400BB-60DGA0     | 40 GB  | 1       | 504   | 3     | 0.35   |
-| WDC       | WD3200AAJS-56M0A0  | 320 GB | 5       | 408   | 3     | 0.34   |
 | WDC       | WD20EARS-00J2GB0   | 2 TB   | 1       | 1120  | 8     | 0.34   |
 | WDC       | WD3200AAKS-00C9A0  | 320 GB | 3       | 1080  | 8     | 0.34   |
 | WDC       | WD5000AAKS-60Z1A0  | 500 GB | 2       | 371   | 2     | 0.34   |
 | WDC       | WD10EZEX-21WN4A0   | 1 TB   | 8       | 122   | 0     | 0.34   |
-| WDC       | WD2500AAJS-07B4A0  | 250 GB | 2       | 1538  | 198   | 0.34   |
 | WDC       | WD5000AAKX-221CA1  | 500 GB | 8       | 435   | 34    | 0.33   |
 | WDC       | WD5000AAKS-55V0A0  | 500 GB | 5       | 427   | 6     | 0.33   |
 | WDC       | WD2500BPVT-75JJ5T0 | 250 GB | 2       | 117   | 0     | 0.32   |
@@ -871,9 +871,9 @@ Rating — avg. rating per sample.
 | WDC       | WD5000BPKX-22HPJT0 | 500 GB | 7       | 119   | 1     | 0.28   |
 | WDC       | WD5000BEVT-22ZAT0  | 500 GB | 4       | 311   | 2     | 0.28   |
 | WDC       | WD5000BPVT-08HXZT1 | 500 GB | 1       | 100   | 0     | 0.28   |
+| WDC       | WD2500LPCX-24C6HT0 | 250 GB | 20      | 103   | 1     | 0.28   |
 | WDC       | WD5000HHTZ-04N21V1 | 500 GB | 1       | 100   | 0     | 0.27   |
 | WDC       | WD10SPCX-75HWST0   | 1 TB   | 1       | 100   | 0     | 0.27   |
-| WDC       | WD2500LPCX-24C6HT0 | 250 GB | 20      | 102   | 1     | 0.27   |
 | WDC       | WD5000BEKT-60KA9T0 | 500 GB | 1       | 383   | 3     | 0.26   |
 | WDC       | WD3200AAKX-32ERMA0 | 320 GB | 1       | 95    | 0     | 0.26   |
 | WDC       | WD10EZEX-60WN4A0   | 1 TB   | 12      | 99    | 59    | 0.26   |
@@ -885,7 +885,7 @@ Rating — avg. rating per sample.
 | WDC       | WD5000AZLX-21K2TA0 | 500 GB | 3       | 91    | 0     | 0.25   |
 | WDC       | WD1600BPVT-22JJ5T0 | 160 GB | 1       | 91    | 0     | 0.25   |
 | WDC       | WD2500BPVT-22JJ5T0 | 250 GB | 4       | 189   | 186   | 0.25   |
-| WDC       | WD5000AAKX-60U6AA0 | 500 GB | 19      | 166   | 73    | 0.24   |
+| WDC       | WD5000AAKX-60U6AA0 | 500 GB | 19      | 166   | 73    | 0.25   |
 | WDC       | WD10EZEX-35WN4A0   | 1 TB   | 3       | 88    | 0     | 0.24   |
 | WDC       | WD3200AAKX-753CA1  | 320 GB | 2       | 221   | 4     | 0.24   |
 | WDC       | WD10EZEX-08Y20A0   | 1 TB   | 2       | 87    | 0     | 0.24   |
@@ -926,13 +926,13 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPCX-24UE4T0   | 1 TB   | 17      | 83    | 1     | 0.20   |
 | WDC       | WD1600AAJS-75PSA0  | 159 GB | 4       | 254   | 3     | 0.20   |
 | WDC       | WD3200BPVT-00HXZT1 | 320 GB | 4       | 332   | 257   | 0.19   |
+| WDC       | WD5000LPVX-75V0TT0 | 500 GB | 14      | 70    | 0     | 0.19   |
+| WDC       | WD10EZEX-08WN4A0   | 1 TB   | 36      | 70    | 0     | 0.19   |
 | WDC       | WD1200BEVS-00UST0  | 120 GB | 1       | 69    | 0     | 0.19   |
 | WDC       | WD7500BPVX-75JC3T0 | 750 GB | 1       | 349   | 4     | 0.19   |
-| WDC       | WD5000LPVX-75V0TT0 | 500 GB | 14      | 69    | 0     | 0.19   |
 | WDC       | WD2500AAJS-22L7A0  | 250 GB | 3       | 625   | 9     | 0.19   |
 | WDC       | WD200BB-60CJA0     | 20 GB  | 1       | 1417  | 20    | 0.18   |
 | WDC       | WD5000LPCX-21VHAT0 | 500 GB | 24      | 67    | 0     | 0.18   |
-| WDC       | WD10EZEX-08WN4A0   | 1 TB   | 36      | 67    | 0     | 0.18   |
 | WDC       | WD3200JS-22PDB0    | 320 GB | 1       | 1538  | 22    | 0.18   |
 | WDC       | WD3200BEVT-75A23T0 | 320 GB | 1       | 133   | 1     | 0.18   |
 | WDC       | WD10JUCT-63CYNY0   | 1 TB   | 1       | 66    | 0     | 0.18   |
@@ -961,6 +961,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BEVT-11ZCT0  | 320 GB | 2       | 60    | 1     | 0.14   |
 | WDC       | WD5000LPVX-16V0TT3 | 500 GB | 1       | 51    | 0     | 0.14   |
 | WDC       | WD3200BEVT-60ZCT0  | 320 GB | 5       | 269   | 24    | 0.14   |
+| WDC       | WD5000LPCX-24VHAT0 | 500 GB | 21      | 51    | 53    | 0.14   |
 | WDC       | WD10SPZX-22Z10T0   | 1 TB   | 3       | 50    | 0     | 0.14   |
 | WDC       | WD1600AAJB-56R1A0  | 160 GB | 2       | 152   | 4     | 0.14   |
 | WDC       | WD1600BEKT-60V5T1  | 160 GB | 2       | 145   | 1     | 0.13   |
@@ -968,22 +969,21 @@ Rating — avg. rating per sample.
 | WDC       | WD10JUCT-61CYNY0   | 1 TB   | 1       | 48    | 0     | 0.13   |
 | WDC       | WD600UE-22KVT0     | 60 GB  | 1       | 243   | 4     | 0.13   |
 | WDC       | WD2500BPVT-26JJ5T0 | 250 GB | 1       | 48    | 0     | 0.13   |
-| WDC       | WD5000LPCX-24VHAT0 | 500 GB | 21      | 49    | 53    | 0.13   |
 | WDC       | WD6001FSYZ-01SS7B1 | 6 TB   | 1       | 47    | 0     | 0.13   |
 | WDC       | WD10EZRZ-00HTKB0   | 1 TB   | 13      | 47    | 0     | 0.13   |
 | WDC       | WD7500AACS-00D6B1  | 750 GB | 1       | 423   | 8     | 0.13   |
+| WDC       | WD5000LPLX-00ZNTT0 | 500 GB | 17      | 46    | 0     | 0.13   |
 | WDC       | WD1200BEVS-07LAT0  | 120 GB | 3       | 391   | 164   | 0.13   |
 | WDC       | WD1600BB-00GUC0    | 160 GB | 3       | 769   | 81    | 0.13   |
 | WDC       | WD2500AAKS-00F0A0  | 250 GB | 4       | 445   | 10    | 0.13   |
 | WDC       | WD10EZEX-22MFCA0   | 1 TB   | 11      | 51    | 1     | 0.12   |
+| WDC       | WD10EFRX-68FYTN0   | 1 TB   | 9       | 69    | 1     | 0.12   |
 | WDC       | WD3200AAJS-00V4A0  | 320 GB | 3       | 396   | 9     | 0.12   |
 | WDC       | WD5000LPLX-08ZNTT0 | 500 GB | 2       | 44    | 0     | 0.12   |
-| WDC       | WD10EFRX-68FYTN0   | 1 TB   | 9       | 65    | 1     | 0.12   |
 | WDC       | WD1503FYYS-02W0B0  | 1.5 TB | 1       | 382   | 8     | 0.12   |
 | WDC       | WD1600BEVE-00UYT0  | 160 GB | 1       | 40    | 0     | 0.11   |
 | WDC       | WD3200LPVT-00G33T0 | 320 GB | 2       | 40    | 0     | 0.11   |
 | WDC       | WD30EZRX-00AZ6B0   | 3 TB   | 1       | 40    | 0     | 0.11   |
-| WDC       | WD5000LPLX-00ZNTT0 | 500 GB | 17      | 40    | 0     | 0.11   |
 | WDC       | WD6400AAKS-55A7B2  | 640 GB | 1       | 361   | 8     | 0.11   |
 | WDC       | WD1600BEKT-60A25T1 | 160 GB | 1       | 79    | 1     | 0.11   |
 | WDC       | WD3200BPVT-00HXZT3 | 320 GB | 3       | 260   | 9     | 0.11   |
@@ -1018,8 +1018,8 @@ Rating — avg. rating per sample.
 | WDC       | WD1600JS-00MHB1    | 160 GB | 1       | 1060  | 35    | 0.08   |
 | WDC       | WD5000AZLX-60K2TA0 | 500 GB | 2       | 29    | 0     | 0.08   |
 | WDC       | WD5000AAKX-00KJ3A0 | 500 GB | 1       | 262   | 8     | 0.08   |
+| WDC       | WD2500BEVT-60A23T0 | 250 GB | 2       | 133   | 24    | 0.08   |
 | WDC       | WD3200JB-00KFA0    | 320 GB | 1       | 29    | 0     | 0.08   |
-| WDC       | WD2500BEVT-60A23T0 | 250 GB | 2       | 131   | 24    | 0.08   |
 | WDC       | WD2000JD-55HBC0    | 200 GB | 1       | 26    | 0     | 0.07   |
 | WDC       | WD3200AVVS-63L2B0  | 320 GB | 3       | 56    | 4     | 0.07   |
 | WDC       | WD2502ABYS-02B7A0  | 251 GB | 1       | 316   | 11    | 0.07   |
@@ -1139,31 +1139,31 @@ Rating — avg. rating per sample.
 | WDC       | RE2                    | 5      | 8       | 1282  | 70    | 2.84   |
 | WDC       | RE2-GP                 | 1      | 1       | 989   | 0     | 2.71   |
 | WDC       | Red Pro                | 1      | 1       | 782   | 0     | 2.14   |
-| WDC       | Caviar SE16            | 4      | 20      | 967   | 21    | 2.01   |
+| WDC       | Caviar SE16            | 4      | 20      | 968   | 21    | 2.01   |
 | WDC       | Scorpio Blue EIDE      | 3      | 5       | 686   | 0     | 1.88   |
 | WDC       | Raptor                 | 12     | 15      | 1211  | 11    | 1.88   |
-| WDC       | Caviar SE              | 124    | 348     | 846   | 25    | 1.62   |
-| WDC       | Caviar Black           | 34     | 245     | 762   | 46    | 1.61   |
-| WDC       | RE3                    | 13     | 35      | 852   | 5     | 1.59   |
-| WDC       | RE                     | 12     | 25      | 747   | 79    | 1.45   |
+| WDC       | Caviar SE              | 124    | 348     | 847   | 25    | 1.62   |
+| WDC       | Caviar Black           | 34     | 245     | 763   | 46    | 1.61   |
+| WDC       | RE3                    | 13     | 35      | 853   | 5     | 1.59   |
+| WDC       | RE                     | 12     | 25      | 749   | 79    | 1.46   |
 | WDC       | Caviar                 | 53     | 111     | 745   | 49    | 1.24   |
-| WDC       | VelociRaptor           | 20     | 35      | 524   | 2     | 1.22   |
-| WDC       | Caviar Green           | 107    | 809     | 675   | 69    | 1.16   |
-| WDC       | Elements / My Passport | 8      | 11      | 472   | 53    | 1.12   |
-| WDC       | Caviar Blue            | 258    | 1780    | 569   | 49    | 1.01   |
+| WDC       | VelociRaptor           | 20     | 35      | 528   | 2     | 1.23   |
+| WDC       | Caviar Green           | 107    | 809     | 677   | 68    | 1.16   |
+| WDC       | Elements / My Passport | 8      | 11      | 473   | 53    | 1.12   |
+| WDC       | Caviar Blue            | 258    | 1780    | 571   | 49    | 1.01   |
 | WDC       | Green                  | 1      | 1       | 1049  | 2     | 0.96   |
 | WDC       | Caviar Blue EIDE       | 16     | 77      | 647   | 81    | 0.96   |
-| WDC       | Red                    | 12     | 107     | 381   | 11    | 0.91   |
+| WDC       | Red                    | 12     | 107     | 382   | 11    | 0.91   |
 | WDC       | AV-GP                  | 23     | 42      | 417   | 68    | 0.83   |
 | WDC       | Scorpio                | 1      | 1       | 300   | 0     | 0.82   |
 | WDC       | Scorpio Black          | 38     | 101     | 382   | 72    | 0.77   |
-| WDC       | Scorpio Blue           | 180    | 1290    | 399   | 49    | 0.75   |
+| WDC       | Scorpio Blue           | 180    | 1290    | 400   | 49    | 0.75   |
 | WDC       | AV                     | 10     | 17      | 637   | 41    | 0.74   |
-| WDC       | Black                  | 12     | 55      | 276   | 1     | 0.73   |
+| WDC       | Black                  | 12     | 55      | 278   | 1     | 0.74   |
 | WDC       | RE4                    | 11     | 45      | 463   | 3     | 0.71   |
 | WDC       | Green Mobile           | 2      | 2       | 323   | 14    | 0.66   |
+| WDC       | Se                     | 1      | 2       | 196   | 0     | 0.54   |
 | WDC       | Protege                | 6      | 9       | 652   | 14    | 0.52   |
-| WDC       | Se                     | 1      | 2       | 189   | 0     | 0.52   |
 | WDC       | Gold                   | 1      | 2       | 175   | 0     | 0.48   |
 | WDC       | Black SSHD             | 1      | 5       | 168   | 0     | 0.46   |
 | WDC       | Blue UltraSlim         | 1      | 1       | 166   | 0     | 0.46   |
@@ -1171,6 +1171,6 @@ Rating — avg. rating per sample.
 | WDC       | Purple                 | 8      | 18      | 192   | 9     | 0.39   |
 | WDC       | Blue                   | 18     | 75      | 122   | 0     | 0.34   |
 | WDC       | ZALMAN                 | 1      | 1       | 1047  | 8     | 0.32   |
-| WDC       | Black Mobile           | 23     | 72      | 116   | 2     | 0.30   |
+| WDC       | Black Mobile           | 23     | 72      | 118   | 2     | 0.31   |
 | WDC       | Blue SSHD              | 1      | 1       | 80    | 0     | 0.22   |
 | WDC       | Scorpio EIDE           | 5      | 5       | 229   | 81    | 0.12   |
