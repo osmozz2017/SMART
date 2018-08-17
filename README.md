@@ -7,7 +7,9 @@ primary aim of the project is to find drives with longest "power on hours" and m
 number of errors.
 
 Everyone can contribute to this report by uploading probes of their computers by
-the hw-probe tool: https://github.com/linuxhw/hw-probe
+the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
+
+    sudo hw-probe -all -upload
 
 Total drives: 22133.
 
