@@ -33,23 +33,23 @@ Rating — avg. rating per sample.
 | OCZ       | NOCTI              | 60 GB  | 1       | 704   | 0     | 1.93   |
 | OCZ       | AGILITY3           | 120 GB | 20      | 728   | 83    | 1.76   |
 | OCZ       | DENCSTE351M16-0... | 240 GB | 1       | 585   | 0     | 1.60   |
-| OCZ       | VERTEX2            | 120 GB | 2       | 568   | 0     | 1.56   |
 | OCZ       | AGILITY4           | 64 GB  | 1       | 567   | 0     | 1.56   |
 | OCZ       | REVODRIVE3         | 60 GB  | 4       | 564   | 0     | 1.55   |
 | OCZ       | VERTEX2 3.5        | 115 GB | 1       | 541   | 0     | 1.48   |
+| OCZ       | VERTEX2            | 120 GB | 3       | 508   | 0     | 1.39   |
 | OCZ       | D2RSTK251E14-0400  | 400 GB | 1       | 502   | 0     | 1.38   |
+| OCZ       | AGILITY3           | 60 GB  | 17      | 533   | 1     | 1.35   |
 | OCZ       | VERTEX3            | 60 GB  | 24      | 554   | 2     | 1.32   |
-| OCZ       | AGILITY3           | 60 GB  | 16      | 499   | 1     | 1.25   |
 | OCZ       | AGILITY3           | 240 GB | 4       | 560   | 1     | 1.25   |
 | OCZ       | VERTEX2            | 80 GB  | 1       | 442   | 0     | 1.21   |
 | OCZ       | VECTOR             | 128 GB | 2       | 439   | 0     | 1.20   |
 | OCZ       | REVODRIVE X2       | 25 GB  | 4       | 435   | 0     | 1.19   |
 | OCZ       | SOLID3             | 120 GB | 1       | 418   | 0     | 1.15   |
+| OCZ       | VERTEX4            | 128 GB | 51      | 427   | 1     | 1.11   |
+| OCZ       | VERTEX3 MI         | 120 GB | 14      | 476   | 69    | 1.09   |
 | OCZ       | AGILITY3           | 64 GB  | 2       | 397   | 0     | 1.09   |
-| OCZ       | VERTEX3 MI         | 120 GB | 13      | 476   | 74    | 1.07   |
-| OCZ       | VERTEX4            | 128 GB | 50      | 406   | 1     | 1.06   |
 | OCZ       | VERTEX3            | 90 GB  | 11      | 698   | 7     | 1.04   |
-| OCZ       | VERTEX3            | 120 GB | 38      | 522   | 46    | 1.01   |
+| OCZ       | VERTEX3            | 120 GB | 39      | 546   | 45    | 1.01   |
 | OCZ       | VERTEX3            | 240 GB | 7       | 399   | 6     | 0.94   |
 | OCZ       | VERTEX3 LP         | 60 GB  | 1       | 320   | 0     | 0.88   |
 | OCZ       | VERTEX PLUS R2     | 123 GB | 2       | 316   | 0     | 0.87   |
@@ -60,6 +60,7 @@ Rating — avg. rating per sample.
 | OCZ       | AGILITY3           | 90 GB  | 3       | 476   | 1     | 0.79   |
 | OCZ       | CACHE-SYNAPSE      | 32 GB  | 1       | 286   | 0     | 0.79   |
 | OCZ       | VERTEX             | 64 GB  | 1       | 280   | 0     | 0.77   |
+| OCZ       | VERTEX4            | 64 GB  | 6       | 235   | 1     | 0.64   |
 | OCZ       | VECTOR150          | 120 GB | 8       | 228   | 0     | 0.63   |
 | OCZ       | OCTANE S2          | 64 GB  | 1       | 224   | 0     | 0.61   |
 | OCZ       | TRION100           | 240 GB | 6       | 213   | 0     | 0.59   |
@@ -70,7 +71,6 @@ Rating — avg. rating per sample.
 | OCZ       | TRION100           | 120 GB | 3       | 149   | 1     | 0.40   |
 | OCZ       | AGILITY4           | 256 GB | 4       | 142   | 61    | 0.36   |
 | OCZ       | VECTOR150          | 240 GB | 2       | 127   | 0     | 0.35   |
-| OCZ       | VERTEX4            | 64 GB  | 5       | 124   | 1     | 0.34   |
 | OCZ       | ARC100             | 120 GB | 7       | 120   | 0     | 0.33   |
 | OCZ       | D2CSTK181M11-0180  | 180 GB | 3       | 114   | 0     | 0.31   |
 | OCZ       | VERTEX2            | 90 GB  | 1       | 113   | 0     | 0.31   |
@@ -103,8 +103,8 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| OCZ       | SandForce Driven SSDs  | 31     | 175     | 561   | 42    | 1.20   |
-| OCZ       | Indilinx Barefoot_2... | 12     | 80      | 404   | 4     | 1.02   |
+| OCZ       | SandForce Driven SSDs  | 31     | 179     | 568   | 41    | 1.21   |
+| OCZ       | Indilinx Barefoot_2... | 12     | 82      | 422   | 4     | 1.07   |
 | OCZ       | Indilinx Barefoot b... | 2      | 2       | 185   | 0     | 0.51   |
 | OCZ       | Indilinx Barefoot 3... | 9      | 27      | 162   | 1     | 0.45   |
 | OCZ       | Trion SSDs             | 4      | 11      | 161   | 1     | 0.44   |

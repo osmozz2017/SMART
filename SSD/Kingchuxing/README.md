@@ -1,7 +1,7 @@
-FORESEE Solid State Drives
-==========================
+Kingchuxing Solid State Drives
+==============================
 
-This is a list of all tested FORESEE solid state drive models and their ratings. See
+This is a list of all tested Kingchuxing solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,6 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| FORESEE   | 240GB SSD          | 240 GB | 1       | 15    | 0     | 0.04   |
-| FORESEE   | 64GB SSD           | 64 GB  | 1       | 8     | 0     | 0.02   |
-| FORESEE   | 128GB SSD          | 128 GB | 2       | 3     | 0     | 0.01   |
+| Kingch... | SSD                | 64 GB  | 1       | 0     | 0     | 0.00   |

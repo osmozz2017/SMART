@@ -52,6 +52,7 @@ Rating — avg. rating per sample.
 | Transcend | TS256GMTS400       | 256 GB | 2       | 2     | 0     | 0.01   |
 | Transcend | TS64GMTS800        | 64 GB  | 1       | 2     | 0     | 0.01   |
 | Transcend | TS32GMSA370        | 32 GB  | 1       | 1     | 0     | 0.01   |
+| Transcend | TS128GMSA370       | 128 GB | 1       | 1     | 0     | 0.00   |
 | Transcend | TS64GSSD340K       | 64 GB  | 1       | 74    | 1008  | 0.00   |
 
 SSD by Family
@@ -71,4 +72,4 @@ Rating — avg. rating per sample.
 | Transcend | Indilinx Barefoot b... | 1      | 1       | 309   | 2     | 0.28   |
 | Transcend | JMicron based SSDs     | 4      | 7       | 86    | 0     | 0.24   |
 | Transcend | Unknown                | 6      | 8       | 36    | 126   | 0.08   |
-| Transcend | SiliconMotion based... | 14     | 38      | 27    | 0     | 0.08   |
+| Transcend | SiliconMotion based... | 15     | 39      | 26    | 0     | 0.07   |

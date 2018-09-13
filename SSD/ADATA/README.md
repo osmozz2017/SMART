@@ -63,6 +63,7 @@ Rating — avg. rating per sample.
 | ADATA     | SU800              | 256 GB | 1       | 68    | 12    | 0.01   |
 | ADATA     | SU700              | 120 GB | 2       | 2     | 0     | 0.01   |
 | ADATA     | SX900              | 256 GB | 2       | 580   | 1114  | 0.00   |
+| ADATA     | XM11 128GB-V3      | 128 GB | 1       | 77    | 1016  | 0.00   |
 | ADATA     | SU650              | 120 GB | 1       | 0     | 0     | 0.00   |
 | ADATA     | SX300              | 64 GB  | 1       | 32    | 1020  | 0.00   |
 
@@ -81,5 +82,5 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | ADATA     | SandForce Driven SSDs  | 8      | 45      | 295   | 9     | 0.67   |
 | ADATA     | JMicron based SSDs     | 5      | 15      | 114   | 1     | 0.30   |
-| ADATA     | Unknown                | 27     | 60      | 171   | 176   | 0.20   |
+| ADATA     | Unknown                | 28     | 61      | 169   | 190   | 0.20   |
 | ADATA     | SiliconMotion based... | 2      | 18      | 9     | 0     | 0.03   |
