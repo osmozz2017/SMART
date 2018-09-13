@@ -62,24 +62,24 @@ Rating — avg. rating per sample.
 | Samsung   | MMCQE28GFMUP-MVA   | 128 GB | 2       | 298   | 13    | 0.71   |
 | Samsung   | SSD PM810 TM       | 64 GB  | 1       | 257   | 0     | 0.70   |
 | Samsung   | SSD 840 Series     | 120 GB | 9       | 270   | 1     | 0.69   |
+| Samsung   | SSD 840 EVO        | 500 GB | 9       | 239   | 0     | 0.66   |
 | Samsung   | MZNLF128HCHP-00000 | 128 GB | 2       | 233   | 0     | 0.64   |
 | Samsung   | SSD 830 Series     | 256 GB | 4       | 358   | 253   | 0.63   |
 | Samsung   | MZNTY256HDHP-000L7 | 256 GB | 1       | 228   | 0     | 0.63   |
 | Samsung   | MMDPE56GFDXP-MVB   | 256 GB | 1       | 218   | 0     | 0.60   |
-| Samsung   | SSD 840 EVO        | 500 GB | 9       | 214   | 0     | 0.59   |
 | Samsung   | SSD 850 PRO        | 128 GB | 11      | 209   | 0     | 0.57   |
 | Samsung   | MZMPC032HBCD-000L1 | 32 GB  | 1       | 195   | 0     | 0.53   |
+| Samsung   | SSD 850 EVO        | 120 GB | 31      | 193   | 0     | 0.53   |
 | Samsung   | SG9MSM6D024GPM00   | 22 GB  | 1       | 188   | 0     | 0.52   |
-| Samsung   | SSD 850 EVO        | 120 GB | 31      | 181   | 0     | 0.50   |
 | Samsung   | SSD PM800 Serie... | 256 GB | 1       | 178   | 0     | 0.49   |
 | Samsung   | MZNLF128HCHP-00004 | 128 GB | 2       | 176   | 0     | 0.48   |
-| Samsung   | SSD 850 PRO        | 256 GB | 28      | 170   | 0     | 0.47   |
-| Samsung   | SSD 850 EVO        | 500 GB | 45      | 156   | 0     | 0.43   |
+| Samsung   | SSD 850 PRO        | 256 GB | 28      | 172   | 0     | 0.47   |
+| Samsung   | SSD 850 EVO        | 500 GB | 45      | 162   | 0     | 0.44   |
 | Samsung   | MZNLN128HCGR-000L2 | 128 GB | 1       | 153   | 0     | 0.42   |
 | Samsung   | MZNTY128HDHP-000L1 | 128 GB | 1       | 153   | 0     | 0.42   |
 | Samsung   | SSD 840 EVO 500... | 500 GB | 1       | 152   | 0     | 0.42   |
 | Samsung   | MZMPA024HMCD-000L1 | 24 GB  | 2       | 198   | 10    | 0.40   |
-| Samsung   | SSD 850 EVO        | 250 GB | 76      | 141   | 0     | 0.39   |
+| Samsung   | SSD 850 EVO        | 250 GB | 76      | 142   | 0     | 0.39   |
 | Samsung   | MZMTD128HAFV-000L1 | 128 GB | 6       | 137   | 24    | 0.35   |
 | Samsung   | SSD PM830 2.5" 7mm | 256 GB | 1       | 121   | 0     | 0.33   |
 | Samsung   | SSD 850 EVO M.2    | 500 GB | 5       | 117   | 0     | 0.32   |
@@ -90,11 +90,11 @@ Rating — avg. rating per sample.
 | Samsung   | SSD 850 EVO        | 1 TB   | 9       | 237   | 1     | 0.29   |
 | Samsung   | MZ7PD256HCGM-000H7 | 256 GB | 1       | 104   | 0     | 0.29   |
 | Samsung   | MZNTD128HAGM-00000 | 128 GB | 2       | 104   | 0     | 0.29   |
+| Samsung   | SSD 750 EVO        | 250 GB | 14      | 102   | 0     | 0.28   |
 | Samsung   | SSD 850 EVO M.2    | 250 GB | 7       | 100   | 0     | 0.28   |
 | Samsung   | MZ7LN512HCHP-000L1 | 512 GB | 1       | 99    | 0     | 0.27   |
+| Samsung   | SSD 750 EVO        | 120 GB | 19      | 92    | 0     | 0.25   |
 | Samsung   | SSD 850 PRO        | 512 GB | 6       | 224   | 173   | 0.25   |
-| Samsung   | SSD 750 EVO        | 120 GB | 19      | 90    | 0     | 0.25   |
-| Samsung   | SSD 750 EVO        | 250 GB | 14      | 82    | 0     | 0.23   |
 | Samsung   | SSD 650            | 120 GB | 3       | 75    | 0     | 0.21   |
 | Samsung   | MZMTD128HAFV-000   | 128 GB | 3       | 72    | 0     | 0.20   |
 | Samsung   | MZNLN256HCHP-00000 | 256 GB | 1       | 60    | 0     | 0.17   |
@@ -104,11 +104,11 @@ Rating — avg. rating per sample.
 | Samsung   | SSD PB22-CS3 FD... | 256 GB | 1       | 50    | 0     | 0.14   |
 | Samsung   | MZ7LF128HCHP-00004 | 128 GB | 1       | 50    | 0     | 0.14   |
 | Samsung   | MZ7TE256HMHP-000L7 | 256 GB | 1       | 49    | 0     | 0.13   |
+| Samsung   | SSD 750 EVO        | 500 GB | 2       | 41    | 0     | 0.11   |
 | Samsung   | SSD 850 EVO mSATA  | 250 GB | 2       | 37    | 0     | 0.10   |
 | Samsung   | MZNTY128HDHP-000H1 | 128 GB | 2       | 37    | 0     | 0.10   |
 | Samsung   | MZNLN128HAHQ-00000 | 128 GB | 1       | 35    | 0     | 0.10   |
 | Samsung   | SSD PM851          | 128 GB | 1       | 32    | 0     | 0.09   |
-| Samsung   | SSD 750 EVO        | 500 GB | 2       | 31    | 0     | 0.09   |
 | Samsung   | MZNLN256HMHQ-000H1 | 256 GB | 1       | 30    | 0     | 0.08   |
 | Samsung   | MZ7TY256HDHP-00000 | 256 GB | 1       | 29    | 0     | 0.08   |
 | Samsung   | SSD Thin uSATA ... | 128 GB | 1       | 378   | 12    | 0.08   |
@@ -120,7 +120,7 @@ Rating — avg. rating per sample.
 | Samsung   | SSD 860 PRO        | 256 GB | 1       | 10    | 0     | 0.03   |
 | Samsung   | SSD PM871b 2.5 7mm | 128 GB | 1       | 6     | 0     | 0.02   |
 | Samsung   | SSD 860 EVO        | 2 TB   | 1       | 5     | 0     | 0.02   |
-| Samsung   | SSD 860 EVO        | 250 GB | 2       | 4     | 0     | 0.01   |
+| Samsung   | SSD 860 EVO        | 250 GB | 2       | 5     | 0     | 0.01   |
 | Samsung   | MZNLN256HCHP-000L7 | 256 GB | 1       | 4     | 0     | 0.01   |
 | Samsung   | SSD 850            | 120 GB | 5       | 3     | 0     | 0.01   |
 | Samsung   | MZ7LN256HMJP-000H1 | 256 GB | 2       | 2     | 0     | 0.01   |
@@ -147,5 +147,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Samsung   | Samsung based SSDs     | 96     | 500     | 213   | 16    | 0.57   |
+| Samsung   | Samsung based SSDs     | 96     | 500     | 216   | 16    | 0.57   |
 | Samsung   | Unknown                | 14     | 22      | 135   | 2     | 0.32   |

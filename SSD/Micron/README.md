@@ -27,7 +27,7 @@ Rating — avg. rating per sample.
 | Micron    | 1100_MTFDDAV256TBN | 256 GB | 4       | 71    | 415   | 0.19   |
 | Micron    | MTFDDAK512MAY-1... | 512 GB | 1       | 624   | 16    | 0.10   |
 | Micron    | C400-MTFDDAK256MAM | 256 GB | 1       | 32    | 0     | 0.09   |
-| Micron    | MTFDDAK256MAM-1K12 | 256 GB | 3       | 67    | 1010  | 0.08   |
+| Micron    | MTFDDAK256MAM-1K12 | 256 GB | 3       | 68    | 1010  | 0.08   |
 | Micron    | MTFDDAK128MAM-1J1  | 128 GB | 1       | 29    | 0     | 0.08   |
 | Micron    | M600_MTFDDAK1T0MBF | 1 TB   | 1       | 13    | 0     | 0.04   |
 | Micron    | C400-MTFDDAT064MAM | 64 GB  | 1       | 1     | 0     | 0.00   |

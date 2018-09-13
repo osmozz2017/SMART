@@ -29,12 +29,12 @@ Rating — avg. rating per sample.
 | Corsair   | Force 3 SSD        | 240 GB | 2       | 737   | 0     | 2.02   |
 | Corsair   | Force 3 SSD        | 60 GB  | 9       | 686   | 0     | 1.88   |
 | Corsair   | Force 3 SSD        | 120 GB | 8       | 756   | 89    | 1.72   |
+| Corsair   | Force GT           | 120 GB | 7       | 605   | 1     | 1.24   |
 | Corsair   | Performance Pro    | 128 GB | 1       | 450   | 0     | 1.23   |
-| Corsair   | Force GT           | 120 GB | 7       | 602   | 1     | 1.23   |
 | Corsair   | Force GT           | 60 GB  | 5       | 690   | 7     | 1.21   |
-| Corsair   | Force 3 SSD        | 180 GB | 2       | 388   | 0     | 1.06   |
+| Corsair   | Force 3 SSD        | 180 GB | 2       | 388   | 0     | 1.07   |
 | Corsair   | Force GS           | 240 GB | 1       | 365   | 0     | 1.00   |
-| Corsair   | Force 3 SSD        | 90 GB  | 4       | 284   | 0     | 0.78   |
+| Corsair   | Force 3 SSD        | 90 GB  | 4       | 304   | 0     | 0.83   |
 | Corsair   | Force GS           | 128 GB | 13      | 232   | 0     | 0.64   |
 | Corsair   | Force 3 SSD        | 480 GB | 1       | 226   | 0     | 0.62   |
 | Corsair   | CSSD-F60GB2        | 60 GB  | 2       | 1531  | 288   | 0.58   |
@@ -64,6 +64,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Corsair   | SandForce Driven SSDs  | 19     | 82      | 458   | 102   | 0.97   |
+| Corsair   | SandForce Driven SSDs  | 19     | 82      | 459   | 102   | 0.97   |
 | Corsair   | Unknown                | 7      | 11      | 255   | 55    | 0.33   |
 | Corsair   | Indilinx Barefoot b... | 1      | 1       | 99    | 3     | 0.07   |

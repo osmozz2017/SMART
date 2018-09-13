@@ -27,7 +27,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSC2BA100G3      | 100 GB | 2       | 1001  | 1     | 2.06   |
 | Intel     | SSDSA2M040G2GC     | 40 GB  | 2       | 1007  | 3     | 1.69   |
 | Intel     | SSDSC2CT080A4      | 80 GB  | 3       | 600   | 0     | 1.64   |
-| Intel     | SSDSA2CW120G3      | 120 GB | 5       | 553   | 0     | 1.52   |
+| Intel     | SSDSA2CW120G3      | 120 GB | 5       | 554   | 0     | 1.52   |
 | Intel     | SSDSC2BW240A3L     | 240 GB | 1       | 480   | 0     | 1.32   |
 | Intel     | SSDSC2MH120A2      | 120 GB | 1       | 453   | 0     | 1.24   |
 | Intel     | SSDSC2CT240A4      | 240 GB | 4       | 317   | 0     | 0.87   |
@@ -48,7 +48,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSC2BB120G4      | 120 GB | 1       | 143   | 0     | 0.39   |
 | Intel     | SSDSC2BB080G4      | 80 GB  | 1       | 135   | 0     | 0.37   |
 | Intel     | SSDSA2M160G2LE     | 160 GB | 1       | 1872  | 22    | 0.22   |
-| Intel     | SSDSC2BW120A4      | 120 GB | 21      | 85    | 1     | 0.22   |
+| Intel     | SSDSC2BW120A4      | 120 GB | 21      | 86    | 1     | 0.22   |
 | Intel     | SSDSC2BW240A4      | 240 GB | 7       | 74    | 0     | 0.21   |
 | Intel     | SSDSC2BW480A4      | 480 GB | 1       | 65    | 0     | 0.18   |
 | Intel     | SSDSA2M160G2GC     | 160 GB | 1       | 578   | 8     | 0.18   |
@@ -99,6 +99,6 @@ Rating — avg. rating per sample.
 | Intel     | 525 Series SSDs        | 1      | 2       | 148   | 0     | 0.41   |
 | Intel     | X18-M/X25-M G1 SSDs    | 2      | 2       | 139   | 0     | 0.38   |
 | Intel     | 730 and DC S3500/S3... | 3      | 3       | 110   | 0     | 0.30   |
-| Intel     | 530 Series SSDs        | 4      | 34      | 110   | 1     | 0.29   |
+| Intel     | 530 Series SSDs        | 4      | 34      | 111   | 1     | 0.29   |
 | Intel     | 53x and Pro 2500 Se... | 4      | 10      | 42    | 0     | 0.12   |
 | Intel     | 540 Series SSDs        | 2      | 2       | 24    | 1     | 0.03   |

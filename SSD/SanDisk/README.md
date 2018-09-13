@@ -43,7 +43,7 @@ Rating — avg. rating per sample.
 | SanDisk   | SDSSDP128G         | 126 GB | 19      | 172   | 1     | 0.47   |
 | SanDisk   | SDSSDP256G         | 256 GB | 2       | 169   | 0     | 0.46   |
 | SanDisk   | SD7SB6S256G1122    | 256 GB | 1       | 163   | 0     | 0.45   |
-| SanDisk   | SDSSDHII120G       | 120 GB | 13      | 150   | 0     | 0.41   |
+| SanDisk   | SDSSDHII120G       | 120 GB | 13      | 157   | 0     | 0.43   |
 | SanDisk   | SDSSDHP256G        | 256 GB | 5       | 135   | 0     | 0.37   |
 | SanDisk   | SDSSDHII240G       | 240 GB | 7       | 134   | 0     | 0.37   |
 | SanDisk   | SDSSDP064G         | 63 GB  | 4       | 172   | 256   | 0.36   |
@@ -82,7 +82,7 @@ Rating — avg. rating per sample.
 | SanDisk   | SD7SN6S-128G-1006  | 128 GB | 1       | 8     | 0     | 0.02   |
 | SanDisk   | SSD PLUS 120 GB    | 120 GB | 2       | 5     | 0     | 0.02   |
 | SanDisk   | SD8SB8U512G1122    | 512 GB | 1       | 4     | 0     | 0.01   |
-| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 7       | 12    | 2     | 0.01   |
+| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 7       | 17    | 2     | 0.01   |
 | SanDisk   | SD8SNAT256G1002    | 256 GB | 2       | 3     | 0     | 0.01   |
 | SanDisk   | SD8SBAT256G1122    | 256 GB | 2       | 3     | 0     | 0.01   |
 | SanDisk   | SSD i110           | 16 GB  | 1       | 3     | 0     | 0.01   |
@@ -117,7 +117,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| SanDisk   | Marvell based SanDi... | 23     | 82      | 166   | 19    | 0.44   |
+| SanDisk   | Marvell based SanDi... | 23     | 82      | 168   | 20    | 0.44   |
 | SanDisk   | SanDisk based SSDs     | 17     | 83      | 131   | 31    | 0.31   |
 | SanDisk   | Unknown                | 35     | 51      | 98    | 68    | 0.21   |
 | SanDisk   | SandForce Driven SSDs  | 5      | 51      | 52    | 22    | 0.14   |
