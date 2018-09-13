@@ -9,7 +9,7 @@ Rotation Rate:    5400 rpm
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ATA8-ACS T13/1699-D revision 4
 SATA Version is:  SATA 2.6, 3.0 Gb/s
-Local Time is:    Mon Jan  8 18:19:25 2018 MSK
+Local Time is:    Mon Jan  8 18:20:24 2018 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -58,11 +58,11 @@ SCT capabilities: 	       (0x303f)	SCT Status supported.
 SMART Attributes Data Structure revision number: 10
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
-  1 Raw_Read_Error_Rate     POSR-K   111   079   006    -    31857504
+  1 Raw_Read_Error_Rate     POSR-K   111   079   006    -    31898360
   3 Spin_Up_Time            PO---K   099   099   000    -    0
   4 Start_Stop_Count        -O--CK   087   087   000    -    14321
   5 Reallocated_Sector_Ct   PO--CK   100   100   036    -    0
-  7 Seek_Error_Rate         POSR-K   090   060   030    -    1038650259
+  7 Seek_Error_Rate         POSR-K   090   060   030    -    1038650288
   9 Power_On_Hours          -O--CK   082   082   000    -    16114
  10 Spin_Retry_Count        PO--CK   100   100   097    -    0
  12 Power_Cycle_Count       -O--CK   088   088   000    -    12576
@@ -74,9 +74,9 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
 190 Airflow_Temperature_Cel -O---K   056   036   045    Past 44 (Min/Max 44/45 #3826)
 191 G-Sense_Error_Rate      -O--CK   100   100   000    -    287
 192 Power-Off_Retract_Count -O---K   100   100   000    -    1894
-193 Load_Cycle_Count        -O--CK   050   050   000    -    101914
+193 Load_Cycle_Count        -O--CK   050   050   000    -    101915
 194 Temperature_Celsius     -O---K   044   064   000    -    44 (0 12 0 0 0)
-195 Hardware_ECC_Recovered  -O-RCK   054   034   000    -    31857504
+195 Hardware_ECC_Recovered  -O-RCK   054   034   000    -    31898360
 196 Reallocated_Event_Count -O--CK   100   100   000    -    0
 197 Current_Pending_Sector  -O--CK   100   100   000    -    0
 198 Offline_Uncorrectable   ----CK   100   100   000    -    0

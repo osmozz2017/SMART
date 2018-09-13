@@ -11,7 +11,7 @@ Form Factor:      3.5 inches
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS T13/1699-D revision 4
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Wed Apr 15 12:24:40 2015 MSK
+Local Time is:    Wed Apr 15 12:49:22 2015 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -126,7 +126,7 @@ SCT Version (vendor specific):       256 (0x0100)
 SCT Support Level:                   1
 Device State:                        SMART Off-line Data Collection executing in background (4)
 Current Temperature:                    33 Celsius
-Power Cycle Min/Max Temperature:     22/33 Celsius
+Power Cycle Min/Max Temperature:     22/34 Celsius
 Lifetime    Min/Max Temperature:     10/42 Celsius
 Under/Over Temperature Limit Count:   0/0
 
@@ -135,7 +135,7 @@ Temperature Sampling Period:         1 minute
 Temperature Logging Interval:        1 minute
 Min/Max recommended Temperature:      0/60 Celsius
 Min/Max Temperature Limit:           -40/70 Celsius
-Temperature History Size (Index):    128 (95)
+Temperature History Size (Index):    128 (120)
 
 SCT Error Recovery Control:
            Read: Disabled
@@ -146,13 +146,13 @@ Page Offset Size         Value  Description
   1  =====  =                =  == General Statistics (rev 1) ==
   1  0x008  4              832  Lifetime Power-On Resets
   1  0x010  4             4669  Power-on Hours
-  1  0x018  6      17255158598  Logical Sectors Written
-  1  0x020  6        142276567  Number of Write Commands
-  1  0x028  6      13373364935  Logical Sectors Read
-  1  0x030  6        146975272  Number of Read Commands
+  1  0x018  6      17255606976  Logical Sectors Written
+  1  0x020  6        142284731  Number of Write Commands
+  1  0x028  6      13374635525  Logical Sectors Read
+  1  0x030  6        146989741  Number of Read Commands
   3  =====  =                =  == Rotating Media Statistics (rev 1) ==
-  3  0x008  4             4666  Spindle Motor Power-on Hours
-  3  0x010  4             4666  Head Flying Hours
+  3  0x008  4             4667  Spindle Motor Power-on Hours
+  3  0x010  4             4667  Head Flying Hours
   3  0x018  4              834  Head Load Events
   3  0x020  4                0  Number of Reallocated Logical Sectors
   3  0x028  4                4  Read Recovery Attempts
@@ -175,8 +175,8 @@ Page Offset Size         Value  Description
   5  0x060  4                0  Time in Under-Temperature
   5  0x068  1                0  Specified Minimum Operating Temperature
   6  =====  =                =  == Transport Statistics (rev 1) ==
-  6  0x008  4            11063  Number of Hardware Resets
-  6  0x010  4             8837  Number of ASR Events
+  6  0x008  4            11067  Number of Hardware Resets
+  6  0x010  4             8841  Number of ASR Events
   6  0x018  4                0  Number of Interface CRC Errors
                               |_ ~ normalized value
 
@@ -189,8 +189,8 @@ ID      Size     Value  Description
 0x0005  2            0  R_ERR response for non-data FIS
 0x0006  2            0  R_ERR response for device-to-host non-data FIS
 0x0007  2            0  R_ERR response for host-to-device non-data FIS
-0x0009  2            8  Transition from drive PhyRdy to drive PhyNRdy
-0x000a  2            5  Device-to-host register FISes sent due to a COMRESET
+0x0009  2           12  Transition from drive PhyRdy to drive PhyNRdy
+0x000a  2            9  Device-to-host register FISes sent due to a COMRESET
 0x000b  2            0  CRC errors within host-to-device FIS
 0x000d  2            0  Non-CRC errors within host-to-device FIS
 
