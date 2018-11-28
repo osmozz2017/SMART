@@ -28,7 +28,7 @@ Rating — avg. rating per sample.
 | Lite-On   | LCH-256V2S-11 2... | 256 GB | 1       | 10    | 0     | 0.03   |
 | Lite-On   | CV1-8B128          | 128 GB | 2       | 9     | 0     | 0.03   |
 | Lite-On   | CV1-8B256          | 256 GB | 3       | 7     | 0     | 0.02   |
-| Lite-On   | LMT-32L3M-HP       | 32 GB  | 1       | 6     | 0     | 0.02   |
+| Lite-On   | LMT-32L3M-HP       | 32 GB  | 1       | 7     | 0     | 0.02   |
 | Lite-On   | CV5-8Q512-HP       | 512 GB | 1       | 6     | 0     | 0.02   |
 | Lite-On   | L8H-256V2G-11 M... | 256 GB | 1       | 6     | 0     | 0.02   |
 | Lite-On   | CS1-SP32-11 M.2... | 32 GB  | 1       | 1     | 4     | 0.00   |

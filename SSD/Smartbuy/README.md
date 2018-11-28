@@ -17,7 +17,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Smartbuy  | SSD                | 60 GB  | 5       | 338   | 0     | 0.93   |
+| Smartbuy  | SSD                | 60 GB  | 5       | 349   | 0     | 0.96   |
 | Smartbuy  | S11-2280S          | 128 GB | 1       | 202   | 0     | 0.56   |
 | Smartbuy  | mSata              | 64 GB  | 1       | 186   | 0     | 0.51   |
 | Smartbuy  | SSD                | 120 GB | 41      | 161   | 0     | 0.44   |
