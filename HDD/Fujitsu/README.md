@@ -111,6 +111,6 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHW AT                 | 1      | 1       | 241   | 0     | 0.66   |
 | Fujitsu   | MPA..MPG               | 3      | 3       | 247   | 4     | 0.56   |
 | Fujitsu   | MHT                    | 3      | 3       | 398   | 6     | 0.56   |
-| Fujitsu   | Unknown                | 1      | 1       | 152   | 0     | 0.42   |
+| Fujitsu   | MHZ BT                 | 1      | 1       | 152   | 0     | 0.42   |
 | Fujitsu   | MJA BH                 | 7      | 23      | 378   | 197   | 0.39   |
 | Fujitsu   | MHZ BJ                 | 1      | 1       | 4     | 0     | 0.01   |

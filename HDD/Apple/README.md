@@ -44,7 +44,8 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Apple     | Unknown                | 2      | 2       | 574   | 0     | 1.57   |
+| Apple     | Seagate SpinPoint      | 1      | 1       | 589   | 0     | 1.61   |
+| Apple     | TOSHIBA MK..65GSXF     | 1      | 1       | 560   | 0     | 1.54   |
 | Apple     | Seagate Barracuda      | 1      | 2       | 476   | 0     | 1.31   |
 | Apple     | HGST Travelstar Z5K500 | 1      | 6       | 340   | 3     | 0.83   |
 | Apple     | Hitachi-HGST Travel... | 1      | 9       | 318   | 225   | 0.76   |

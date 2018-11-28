@@ -264,7 +264,7 @@ Rating — avg. rating per sample.
 | Hitachi   | Deskstar 7K500         | 1      | 1       | 1941  | 5     | 0.89   |
 | Hitachi   | Travelstar 7K200       | 5      | 9       | 574   | 119   | 0.79   |
 | Hitachi   | Travelstar Z7K500      | 1      | 6       | 366   | 847   | 0.79   |
-| Hitachi   | Travelstar 5K500.B     | 11     | 262     | 488   | 159   | 0.73   |
+| Hitachi   | Travelstar 5K500.B     | 12     | 263     | 490   | 158   | 0.73   |
 | Hitachi   | Travelstar 5K1000      | 3      | 13      | 374   | 478   | 0.69   |
 | Hitachi   | Travelstar 7K320       | 9      | 16      | 524   | 655   | 0.68   |
 | Hitachi   | Travelstar 5K750       | 3      | 197     | 414   | 362   | 0.68   |
@@ -288,7 +288,6 @@ Rating — avg. rating per sample.
 | Hitachi   | Travelstar 80GN        | 4      | 10      | 341   | 47    | 0.17   |
 | Hitachi   | Travelstar 4K120       | 3      | 4       | 612   | 22    | 0.10   |
 | Hitachi   | Travelstar DK23XX/D... | 3      | 3       | 477   | 170   | 0.06   |
-| Hitachi   | Unknown                | 1      | 1       | 1191  | 60    | 0.05   |
 | Hitachi   | Travelstar 5K80        | 3      | 3       | 214   | 230   | 0.03   |
 | Hitachi   | Travelstar E7K100      | 1      | 1       | 4     | 0     | 0.01   |
 | Hitachi   | Ultrastar 5K3000       | 1      | 1       | 1045  | 595   | 0.00   |

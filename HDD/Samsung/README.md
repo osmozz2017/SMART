@@ -181,11 +181,10 @@ Rating — avg. rating per sample.
 | Samsung   | SpinPoint M            | 2      | 5       | 249   | 4     | 0.43   |
 | Samsung   | SpinPoint V80          | 3      | 4       | 597   | 63    | 0.42   |
 | Samsung   | SpinPoint P120         | 5      | 60      | 780   | 641   | 0.31   |
-| Samsung   | SpinPoint N2           | 1      | 1       | 89    | 0     | 0.25   |
 | Samsung   | SpinPoint M40/60/80    | 8      | 14      | 483   | 103   | 0.22   |
+| Samsung   | SpinPoint N2           | 2      | 2       | 46    | 1044  | 0.12   |
 | Samsung   | SpinPoint M5           | 5      | 61      | 335   | 372   | 0.10   |
 | Samsung   | SpinPoint V40+         | 2      | 3       | 1003  | 159   | 0.08   |
 | Samsung   | SpinPoint M6           | 3      | 10      | 346   | 316   | 0.07   |
 | Samsung   | SpinPoint V60          | 1      | 5       | 1107  | 124   | 0.07   |
 | Samsung   | SpinPoint F1 EG        | 1      | 1       | 385   | 17    | 0.06   |
-| Samsung   | Unknown                | 1      | 1       | 2     | 2087  | 0.00   |

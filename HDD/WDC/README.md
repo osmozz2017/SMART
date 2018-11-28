@@ -1177,7 +1177,7 @@ Rating — avg. rating per sample.
 | WDC       | Scorpio Blue EIDE      | 3      | 5       | 686   | 0     | 1.88   |
 | WDC       | Raptor                 | 12     | 16      | 1171  | 10    | 1.84   |
 | WDC       | RE                     | 14     | 30      | 805   | 66    | 1.71   |
-| WDC       | Caviar SE              | 127    | 358     | 868   | 25    | 1.68   |
+| WDC       | Caviar SE              | 128    | 359     | 867   | 24    | 1.68   |
 | WDC       | RE3                    | 13     | 36      | 864   | 5     | 1.64   |
 | WDC       | Caviar Black           | 36     | 259     | 786   | 44    | 1.62   |
 | WDC       | Green Mobile           | 1      | 1       | 514   | 0     | 1.41   |
@@ -1191,14 +1191,13 @@ Rating — avg. rating per sample.
 | WDC       | Red                    | 14     | 121     | 402   | 11    | 0.95   |
 | WDC       | Scorpio                | 1      | 1       | 300   | 0     | 0.82   |
 | WDC       | Black                  | 12     | 58      | 306   | 1     | 0.81   |
-| WDC       | AV-GP                  | 24     | 46      | 412   | 62    | 0.80   |
 | WDC       | AV                     | 11     | 19      | 620   | 37    | 0.79   |
+| WDC       | AV-GP                  | 25     | 47      | 404   | 61    | 0.79   |
 | WDC       | Scorpio Black          | 38     | 109     | 384   | 85    | 0.76   |
 | WDC       | Scorpio Blue           | 182    | 1363    | 407   | 50    | 0.75   |
 | WDC       | RE4                    | 11     | 47      | 452   | 3     | 0.70   |
 | WDC       | Se                     | 1      | 2       | 196   | 0     | 0.54   |
 | WDC       | Protege                | 6      | 9       | 652   | 14    | 0.52   |
-| WDC       | Unknown                | 4      | 4       | 188   | 0     | 0.52   |
 | WDC       | Black SSHD             | 1      | 5       | 168   | 0     | 0.46   |
 | WDC       | Blue UltraSlim         | 1      | 1       | 166   | 0     | 0.46   |
 | WDC       | Blue Mobile            | 69     | 657     | 182   | 13    | 0.43   |
@@ -1209,3 +1208,5 @@ Rating — avg. rating per sample.
 | WDC       | ZALMAN                 | 1      | 1       | 1047  | 8     | 0.32   |
 | WDC       | Blue SSHD              | 1      | 1       | 80    | 0     | 0.22   |
 | WDC       | Scorpio EIDE           | 5      | 5       | 229   | 81    | 0.12   |
+| WDC       | Shrek LT 2.5           | 1      | 1       | 41    | 0     | 0.11   |
+| WDC       | Unknown                | 1      | 1       | 31    | 0     | 0.09   |

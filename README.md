@@ -2364,13 +2364,14 @@ Rating — avg. rating per sample.
 | Toshiba   | 2.5" HDD MK..32GSX     | 1      | 3       | 628   | 0     | 1.72   |
 | Hitachi   | Deskstar 7K80          | 6      | 52      | 894   | 8     | 1.72   |
 | WDC       | RE                     | 14     | 30      | 805   | 66    | 1.71   |
-| WDC       | Caviar SE              | 127    | 358     | 868   | 25    | 1.68   |
+| WDC       | Caviar SE              | 128    | 359     | 867   | 24    | 1.68   |
 | Seagate   | Barracuda ES           | 6      | 29      | 1058  | 347   | 1.66   |
 | WDC       | RE3                    | 13     | 36      | 864   | 5     | 1.64   |
 | WDC       | Caviar Black           | 36     | 259     | 786   | 44    | 1.62   |
+| Apple     | Seagate SpinPoint      | 1      | 1       | 589   | 0     | 1.61   |
 | Hitachi   | Deskstar T7K500        | 8      | 38      | 1041  | 48    | 1.59   |
-| Apple     | Unknown                | 2      | 2       | 574   | 0     | 1.57   |
 | Seagate   | SV35.5                 | 1      | 2       | 938   | 2     | 1.56   |
+| Apple     | TOSHIBA MK..65GSXF     | 1      | 1       | 560   | 0     | 1.54   |
 | Hitachi   | Deskstar T7K250        | 5      | 24      | 1043  | 26    | 1.53   |
 | Seagate   | Constellation ES.2 ... | 1      | 4       | 553   | 0     | 1.52   |
 | MediaMax  | WL1000                 | 1      | 1       | 543   | 0     | 1.49   |
@@ -2441,11 +2442,11 @@ Rating — avg. rating per sample.
 | Seagate   | Barracuda ATA IV       | 4      | 37      | 609   | 23    | 0.82   |
 | WDC       | Black                  | 12     | 58      | 306   | 1     | 0.81   |
 | Seagate   | LD25.2                 | 1      | 1       | 591   | 1     | 0.81   |
-| WDC       | AV-GP                  | 24     | 46      | 412   | 62    | 0.80   |
 | Samsung   | SpinPoint M7E (AF)     | 4      | 74      | 430   | 45    | 0.80   |
 | IBM/Hi... | Deskstar 120GXP        | 2      | 5       | 657   | 3     | 0.80   |
 | WDC       | AV                     | 11     | 19      | 620   | 37    | 0.79   |
 | Fujitsu   | MHW BJ                 | 2      | 2       | 289   | 0     | 0.79   |
+| WDC       | AV-GP                  | 25     | 47      | 404   | 61    | 0.79   |
 | Hitachi   | Travelstar 7K200       | 5      | 9       | 574   | 119   | 0.79   |
 | Hitachi   | Travelstar Z7K500      | 1      | 6       | 366   | 847   | 0.79   |
 | Seagate   | UX                     | 1      | 5       | 629   | 16    | 0.78   |
@@ -2458,7 +2459,7 @@ Rating — avg. rating per sample.
 | Seagate   | SV35                   | 13     | 70      | 361   | 158   | 0.75   |
 | Fujitsu   | MHZ BH                 | 9      | 50      | 496   | 331   | 0.74   |
 | Seagate   | Barracuda 7200.14 (AF) | 23     | 1144    | 381   | 109   | 0.74   |
-| Hitachi   | Travelstar 5K500.B     | 11     | 262     | 488   | 159   | 0.73   |
+| Hitachi   | Travelstar 5K500.B     | 12     | 263     | 490   | 158   | 0.73   |
 | Seagate   | Barracuda V            | 1      | 1       | 259   | 0     | 0.71   |
 | Seagate   | Barracuda ES.2         | 4      | 25      | 855   | 516   | 0.71   |
 | IBM/Hi... | Deskstar GXP-180       | 4      | 5       | 603   | 7     | 0.70   |
@@ -2505,7 +2506,6 @@ Rating — avg. rating per sample.
 | Seagate   | Momentus 5400.2        | 12     | 31      | 407   | 490   | 0.52   |
 | Maxtor    | DiamondMax 20          | 5      | 17      | 559   | 301   | 0.52   |
 | Samsung   | SpinPoint MP5          | 3      | 7       | 371   | 187   | 0.52   |
-| WDC       | Unknown                | 4      | 4       | 188   | 0     | 0.52   |
 | Toshiba   | 2.5" HDD MQ01UBD       | 2      | 3       | 187   | 0     | 0.51   |
 | Hitachi   | Travelstar Z7K320      | 1      | 19      | 297   | 432   | 0.51   |
 | Toshiba   | 2.5" HDD MQ01ABD       | 5      | 315     | 263   | 112   | 0.51   |
@@ -2535,7 +2535,7 @@ Rating — avg. rating per sample.
 | Seagate   | MobileMax-2            | 1      | 1       | 155   | 0     | 0.43   |
 | Samsung   | SpinPoint V80          | 3      | 4       | 597   | 63    | 0.42   |
 | Seagate   | Momentus 5400.3        | 7      | 91      | 460   | 499   | 0.42   |
-| Fujitsu   | Unknown                | 1      | 1       | 152   | 0     | 0.42   |
+| Fujitsu   | MHZ BT                 | 1      | 1       | 152   | 0     | 0.42   |
 | WDC       | Purple                 | 8      | 18      | 203   | 9     | 0.42   |
 | WDC       | Gold                   | 2      | 3       | 150   | 0     | 0.41   |
 | Toshiba   | 2.5" HDD MK..75GSX     | 4      | 48      | 378   | 386   | 0.39   |
@@ -2578,12 +2578,12 @@ Rating — avg. rating per sample.
 | Seagate   | Momentus 4200.2        | 4      | 4       | 458   | 516   | 0.30   |
 | Seagate   | Momentus Thin          | 3      | 110     | 311   | 522   | 0.30   |
 | Seagate   | Ultra Mobile HDD       | 2      | 3       | 107   | 0     | 0.30   |
+| Toshiba   | 2.5" HDD MQ04UBF       | 1      | 1       | 106   | 0     | 0.29   |
 | Toshiba   | 2.5" HDD MK..59GSM     | 1      | 12      | 467   | 308   | 0.29   |
 | HGST      | Travelstar Z5K500      | 5      | 283     | 200   | 249   | 0.28   |
 | Toshiba   | 2.5" HDD MK..37GSX     | 2      | 34      | 459   | 51    | 0.28   |
 | Toshiba   | 2.5" HDD MK..34GSX     | 2      | 10      | 381   | 216   | 0.26   |
 | Seagate   | Laptop Thin SSHD       | 1      | 1       | 94    | 0     | 0.26   |
-| Samsung   | SpinPoint N2           | 1      | 1       | 89    | 0     | 0.25   |
 | Toshiba   | 2.5" HDD MK..37GSX     | 1      | 12      | 394   | 191   | 0.24   |
 | Toshiba   | 3.5" MG04ACA Enterp... | 2      | 5       | 93    | 2     | 0.24   |
 | IBM/Hi... | Deskstar 60GXP         | 2      | 3       | 1032  | 106   | 0.24   |
@@ -2605,7 +2605,6 @@ Rating — avg. rating per sample.
 | Seagate   | Enterprise Capacity... | 3      | 4       | 60    | 0     | 0.17   |
 | Hitachi   | Travelstar 80GN        | 4      | 10      | 341   | 47    | 0.17   |
 | Toshiba   | 2.5" HDD MK..56GSY     | 5      | 11      | 120   | 201   | 0.15   |
-| Toshiba   | Unknown                | 2      | 2       | 55    | 0     | 0.15   |
 | China     | Unknown                | 2      | 2       | 279   | 512   | 0.15   |
 | IBM/Hi... | Travelstar 60GH and... | 1      | 1       | 52    | 0     | 0.14   |
 | Toshiba   | 2.5" HDD MK..61GSY[N]  | 4      | 17      | 119   | 217   | 0.14   |
@@ -2614,8 +2613,10 @@ Rating — avg. rating per sample.
 | Seagate   | SV35.3                 | 2      | 2       | 800   | 12    | 0.13   |
 | Seagate   | FireCuda 3.5           | 2      | 9       | 45    | 0     | 0.13   |
 | Seagate   | Barracuda 2.5 5400     | 5      | 33      | 46    | 3     | 0.12   |
+| Samsung   | SpinPoint N2           | 2      | 2       | 46    | 1044  | 0.12   |
 | WDC       | Scorpio EIDE           | 5      | 5       | 229   | 81    | 0.12   |
 | Seagate   | FireCuda 2.5           | 2      | 7       | 43    | 0     | 0.12   |
+| WDC       | Shrek LT 2.5           | 1      | 1       | 41    | 0     | 0.11   |
 | Toshiba   | 3.5" HDD N300          | 1      | 2       | 39    | 0     | 0.11   |
 | Seagate   | Mobile HDD             | 2      | 37      | 44    | 31    | 0.11   |
 | Toshiba   | 1.8" HDD MK..29GSG     | 2      | 4       | 361   | 568   | 0.10   |
@@ -2624,6 +2625,7 @@ Rating — avg. rating per sample.
 | Hitachi   | Travelstar 4K120       | 3      | 4       | 612   | 22    | 0.10   |
 | Toshiba   | 2.5" HDD MK..46GSX     | 1      | 9       | 408   | 51    | 0.10   |
 | MicroData | Unknown                | 1      | 1       | 288   | 8     | 0.09   |
+| WDC       | Unknown                | 1      | 1       | 31    | 0     | 0.09   |
 | Samsung   | SpinPoint V40+         | 2      | 3       | 1003  | 159   | 0.08   |
 | Seagate   | U8                     | 1      | 1       | 754   | 24    | 0.08   |
 | HGST      | Travelstar Z5K500.B    | 1      | 11      | 28    | 0     | 0.08   |
@@ -2640,11 +2642,11 @@ Rating — avg. rating per sample.
 | Seagate   | FreePlay               | 2      | 6       | 114   | 1025  | 0.06   |
 | Hitachi   | Travelstar DK23XX/D... | 3      | 3       | 477   | 170   | 0.06   |
 | Samsung   | SpinPoint F1 EG        | 1      | 1       | 385   | 17    | 0.06   |
-| Hitachi   | Unknown                | 1      | 1       | 1191  | 60    | 0.05   |
 | Toshiba   | 2.5" HDD H200          | 2      | 3       | 18    | 0     | 0.05   |
 | Seagate   | Constellation.2 (SATA) | 2      | 3       | 17    | 0     | 0.05   |
 | Maxtor    | Fireball 3             | 5      | 8       | 50    | 4     | 0.05   |
 | Toshiba   | 2.5" HDD MK..65GSX     | 2      | 3       | 368   | 31    | 0.04   |
+| Seagate   | Unknown                | 1      | 1       | 14    | 0     | 0.04   |
 | Maxtor    | DiamondMax 10 (ATA/... | 15     | 27      | 25    | 74    | 0.04   |
 | Seagate   | U10                    | 1      | 1       | 380   | 27    | 0.04   |
 | Apple     | HGST Travelstar 5K750  | 2      | 2       | 265   | 77    | 0.04   |
@@ -2656,14 +2658,16 @@ Rating — avg. rating per sample.
 | Maxtor    | DiamondMax Plus 8      | 4      | 13      | 26    | 15    | 0.02   |
 | Toshiba   | 2.5" HDD MK..59GSX     | 1      | 1       | 8     | 0     | 0.02   |
 | HGST      | Ultrastar 7K2          | 1      | 2       | 6     | 0     | 0.02   |
-| Seagate   | Unknown                | 3      | 4       | 5     | 0     | 0.01   |
 | Toshiba   | 2.5" HDD MQ02ABF..H    | 1      | 1       | 5     | 0     | 0.01   |
 | Hitachi   | Travelstar E7K100      | 1      | 1       | 4     | 0     | 0.01   |
 | Fujitsu   | MHZ BJ                 | 1      | 1       | 4     | 0     | 0.01   |
+| Toshiba   | 2.5" HDD MQ04ABF       | 1      | 1       | 3     | 0     | 0.01   |
 | Maxtor    | DiamondMax Plus 9      | 11     | 57      | 31    | 214   | 0.01   |
 | Seagate   | Barracuda Pro          | 1      | 1       | 3     | 0     | 0.01   |
 | Maxtor    | DiamondMax 16          | 2      | 2       | 33    | 26    | 0.01   |
+| Seagate   | Video 3.5              | 1      | 1       | 2     | 0     | 0.01   |
 | Maxtor    | Fireball 541DX         | 1      | 6       | 23    | 75    | 0.01   |
+| Seagate   | BarraCuda Pro          | 1      | 2       | 2     | 0     | 0.01   |
 | Seagate   | SkyHawk                | 3      | 4       | 1     | 0     | 0.01   |
 | Toshiba   | 2.5" HDD MQ02ABF       | 1      | 1       | 1     | 0     | 0.01   |
 | Hitachi   | Ultrastar 5K3000       | 1      | 1       | 1045  | 595   | 0.00   |
@@ -2675,7 +2679,6 @@ Rating — avg. rating per sample.
 | Seagate   | IronWolf               | 1      | 1       | 0     | 0     | 0.00   |
 | HGST      | Travelstar Z7K500.B    | 1      | 2       | 0     | 0     | 0.00   |
 | Toshiba   | 2.5" HDD MQ01ABB       | 1      | 1       | 152   | 704   | 0.00   |
-| Samsung   | Unknown                | 1      | 1       | 2     | 2087  | 0.00   |
 
 HDD by Vendor
 -------------

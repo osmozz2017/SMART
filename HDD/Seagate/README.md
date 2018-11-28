@@ -529,10 +529,12 @@ Rating — avg. rating per sample.
 | Seagate   | Mobile USB Momentus    | 1      | 1       | 24    | 0     | 0.07   |
 | Seagate   | FreePlay               | 2      | 6       | 114   | 1025  | 0.06   |
 | Seagate   | Constellation.2 (SATA) | 2      | 3       | 17    | 0     | 0.05   |
+| Seagate   | Unknown                | 1      | 1       | 14    | 0     | 0.04   |
 | Seagate   | U10                    | 1      | 1       | 380   | 27    | 0.04   |
 | Seagate   | Pipeline HD 5900.1     | 2      | 4       | 444   | 58    | 0.03   |
 | Seagate   | DB35.2                 | 2      | 2       | 1265  | 514   | 0.03   |
-| Seagate   | Unknown                | 3      | 4       | 5     | 0     | 0.01   |
 | Seagate   | Barracuda Pro          | 1      | 1       | 3     | 0     | 0.01   |
+| Seagate   | Video 3.5              | 1      | 1       | 2     | 0     | 0.01   |
+| Seagate   | BarraCuda Pro          | 1      | 2       | 2     | 0     | 0.01   |
 | Seagate   | SkyHawk                | 3      | 4       | 1     | 0     | 0.01   |
 | Seagate   | IronWolf               | 1      | 1       | 0     | 0     | 0.00   |
