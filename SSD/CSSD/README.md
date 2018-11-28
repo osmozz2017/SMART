@@ -18,3 +18,4 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | CSSD      | F120GB3-BK         | 120 GB | 1       | 65    | 0     | 0.18   |
+| CSSD      | V60GB2             | 60 GB  | 1       | 332   | 8     | 0.10   |

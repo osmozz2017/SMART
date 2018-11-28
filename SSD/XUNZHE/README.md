@@ -1,7 +1,7 @@
-Zheino Solid State Drives
+XUNZHE Solid State Drives
 =========================
 
-This is a list of all tested Zheino solid state drive models and their ratings. See
+This is a list of all tested XUNZHE solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,5 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Zheino    | CHN25SATAS1 032    | 31 GB  | 2       | 0     | 0     | 0.00   |
-| Zheino    | CHN25SATAS1 064    | 64 GB  | 1       | 0     | 0     | 0.00   |
+| XUNZHE    | XUNZHE800S 120G    | 120 GB | 1       | 1     | 0     | 0.00   |

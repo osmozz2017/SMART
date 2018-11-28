@@ -1,7 +1,7 @@
-ExcelStor Hard Drives
+MicroData Hard Drives
 =====================
 
-This is a list of all tested ExcelStor hard drive models and their ratings. See more
+This is a list of all tested MicroData hard drive models and their ratings. See more
 info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 HDD by Model
@@ -17,9 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| ExcelStor | J9250S             | 250 GB | 3       | 548   | 0     | 1.50   |
-| ExcelStor | J360               | 61 GB  | 1       | 897   | 1     | 1.23   |
-| ExcelStor | J680               | 82 GB  | 1       | 1687  | 4     | 0.92   |
-| ExcelStor | J8160S             | 160 GB | 5       | 371   | 3     | 0.66   |
-| ExcelStor | J880S              | 82 GB  | 1       | 44    | 0     | 0.12   |
-| ExcelStor | J9250              | 250 GB | 1       | 1349  | 167   | 0.02   |
+| MicroData | MD1TBLSSHD         | 1 TB   | 1       | 288   | 8     | 0.09   |
