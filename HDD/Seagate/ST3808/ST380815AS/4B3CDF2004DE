@@ -7,7 +7,7 @@ User Capacity:    80,026,361,856 bytes [80.0 GB]
 Sector Size:      512 bytes logical/physical
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA/ATAPI-7 (minor revision not indicated)
-Local Time is:    Wed Jul 18 18:42:07 2018 MSK
+Local Time is:    Fri Oct 19 19:22:42 2018 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -52,19 +52,19 @@ recommended polling time: 	 (  27) minutes.
 SMART Attributes Data Structure revision number: 10
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
-  1 Raw_Read_Error_Rate     POSR--   109   093   006    -    21839082
+  1 Raw_Read_Error_Rate     POSR--   114   093   006    -    156506064
   3 Spin_Up_Time            PO----   098   097   000    -    0
-  4 Start_Stop_Count        -O--CK   092   092   020    -    8644
+  4 Start_Stop_Count        -O--CK   092   092   020    -    8732
   5 Reallocated_Sector_Ct   PO--CK   100   100   036    -    0
-  7 Seek_Error_Rate         POSR--   086   060   030    -    453987859
-  9 Power_On_Hours          -O--CK   072   072   000    -    24572
+  7 Seek_Error_Rate         POSR--   087   060   030    -    483728585
+  9 Power_On_Hours          -O--CK   072   072   000    -    25284
  10 Spin_Retry_Count        PO--C-   100   100   097    -    0
- 12 Power_Cycle_Count       -O--CK   092   092   020    -    9099
+ 12 Power_Cycle_Count       -O--CK   092   092   020    -    9187
 187 Reported_Uncorrect      -O--CK   100   100   000    -    0
 189 High_Fly_Writes         -O-RCK   100   100   000    -    0
-190 Airflow_Temperature_Cel -O---K   054   052   045    -    46 (Min/Max 31/48)
-194 Temperature_Celsius     -O---K   046   048   000    -    46 (0 10 0 0 0)
-195 Hardware_ECC_Recovered  -O-RC-   078   067   000    -    146160200
+190 Airflow_Temperature_Cel -O---K   059   052   045    -    41 (Min/Max 26/42)
+194 Temperature_Celsius     -O---K   041   048   000    -    41 (0 10 0 0 0)
+195 Hardware_ECC_Recovered  -O-RC-   083   067   000    -    225874153
 197 Current_Pending_Sector  -O--C-   100   100   000    -    0
 198 Offline_Uncorrectable   ----C-   100   100   000    -    0
 199 UDMA_CRC_Error_Count    -OSRCK   200   200   000    -    35
@@ -258,25 +258,25 @@ Error 23 [2] occurred at disk power-on lifetime: 6424 hours (267 days + 16 hours
 
 SMART Extended Self-test Log Version: 1 (1 sectors)
 Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
-# 1  Extended offline    Completed without error       00%     24065         -
-# 2  Extended offline    Completed without error       00%     23844         -
-# 3  Extended offline    Completed without error       00%     23085         -
-# 4  Extended offline    Completed without error       00%     22875         -
-# 5  Extended offline    Completed without error       00%     22797         -
-# 6  Extended offline    Completed without error       00%     22555         -
-# 7  Extended offline    Completed without error       00%     22337         -
-# 8  Extended offline    Completed without error       00%     22254         -
-# 9  Extended offline    Completed without error       00%     22173         -
-#10  Extended offline    Completed without error       00%     21379         -
-#11  Extended offline    Aborted by host               60%     20630         -
-#12  Extended offline    Completed without error       00%     20098         -
-#13  Extended offline    Completed without error       00%     19967         -
-#14  Extended offline    Completed without error       00%     19046         -
-#15  Extended offline    Completed without error       00%     18488         -
-#16  Extended offline    Completed without error       00%     17733         -
-#17  Extended offline    Completed without error       00%     17220         -
-#18  Extended offline    Completed without error       00%     17153         -
-#19  Extended offline    Completed without error       00%     17084         -
+# 1  Extended offline    Completed without error       00%     24823         -
+# 2  Extended offline    Completed without error       00%     24065         -
+# 3  Extended offline    Completed without error       00%     23844         -
+# 4  Extended offline    Completed without error       00%     23085         -
+# 5  Extended offline    Completed without error       00%     22875         -
+# 6  Extended offline    Completed without error       00%     22797         -
+# 7  Extended offline    Completed without error       00%     22555         -
+# 8  Extended offline    Completed without error       00%     22337         -
+# 9  Extended offline    Completed without error       00%     22254         -
+#10  Extended offline    Completed without error       00%     22173         -
+#11  Extended offline    Completed without error       00%     21379         -
+#12  Extended offline    Aborted by host               60%     20630         -
+#13  Extended offline    Completed without error       00%     20098         -
+#14  Extended offline    Completed without error       00%     19967         -
+#15  Extended offline    Completed without error       00%     19046         -
+#16  Extended offline    Completed without error       00%     18488         -
+#17  Extended offline    Completed without error       00%     17733         -
+#18  Extended offline    Completed without error       00%     17220         -
+#19  Extended offline    Completed without error       00%     17153         -
 
 SMART Selective self-test log data structure revision number 1
  SPAN  MIN_LBA  MAX_LBA  CURRENT_TEST_STATUS
@@ -297,7 +297,7 @@ Pending Defects log (GP Log 0x0c) not supported
 
 SATA Phy Event Counters (GP Log 0x11)
 ID      Size     Value  Description
-0x000a  2            6  Device-to-host register FISes sent due to a COMRESET
+0x000a  2            8  Device-to-host register FISes sent due to a COMRESET
 0x0001  2            0  Command failed due to ICRC error
 0x0003  2            0  R_ERR response for device-to-host data FIS
 0x0004  2            0  R_ERR response for host-to-device data FIS
