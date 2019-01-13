@@ -11,11 +11,11 @@ Form Factor:      2.5 inches
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ATA8-ACS T13/1699-D revision 6
 SATA Version is:  SATA 3.0, 3.0 Gb/s (current: 3.0 Gb/s)
-Local Time is:    Thu Sep  6 22:36:33 2018 MSK
+Local Time is:    Sat Sep  8 16:13:17 2018 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
-APM level is:     254 (maximum performance)
+APM level is:     128 (minimum power consumption without standby)
 Rd look-ahead is: Enabled
 Write cache is:   Enabled
 DSN feature is:   Unavailable
@@ -60,28 +60,28 @@ SCT capabilities: 	       (0x003f)	SCT Status supported.
 SMART Attributes Data Structure revision number: 16
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
-  1 Raw_Read_Error_Rate     POSR-K   100   100   051    -    7540
-  2 Throughput_Performance  -OS--K   055   055   000    -    12364
-  3 Spin_Up_Time            PO---K   089   089   025    -    3453
-  4 Start_Stop_Count        -O--CK   094   094   000    -    6131
+  1 Raw_Read_Error_Rate     POSR-K   100   100   051    -    7551
+  2 Throughput_Performance  -OS--K   054   054   000    -    12675
+  3 Spin_Up_Time            PO---K   089   089   025    -    3458
+  4 Start_Stop_Count        -O--CK   094   094   000    -    6149
   5 Reallocated_Sector_Ct   PO--CK   252   252   010    -    0
   7 Seek_Error_Rate         -OSR-K   252   252   051    -    0
   8 Seek_Time_Performance   --S--K   252   252   015    -    0
-  9 Power_On_Hours          -O--CK   100   100   000    -    19455
+  9 Power_On_Hours          -O--CK   100   100   000    -    19482
  10 Spin_Retry_Count        -O--CK   252   252   051    -    0
  11 Calibration_Retry_Count -O--CK   100   100   000    -    590
- 12 Power_Cycle_Count       -O--CK   095   095   000    -    5907
+ 12 Power_Cycle_Count       -O--CK   095   095   000    -    5930
 191 G-Sense_Error_Rate      -O---K   100   100   000    -    212
 192 Power-Off_Retract_Count -O---K   252   252   000    -    0
-194 Temperature_Celsius     -O----   049   037   000    -    51 (Min/Max 6/63)
+194 Temperature_Celsius     -O----   052   037   000    -    48 (Min/Max 6/63)
 195 Hardware_ECC_Recovered  -O-RCK   100   100   000    -    0
 196 Reallocated_Event_Count -O--CK   252   252   000    -    0
-197 Current_Pending_Sector  -O--CK   252   100   000    -    0
+197 Current_Pending_Sector  -O--CK   100   100   000    -    1
 198 Offline_Uncorrectable   ----CK   252   100   000    -    0
 199 UDMA_CRC_Error_Count    -OS-CK   200   200   000    -    0
-200 Multi_Zone_Error_Rate   -O-R-K   001   001   000    -    62822
+200 Multi_Zone_Error_Rate   -O-R-K   001   001   000    -    62844
 223 Load_Retry_Count        -O--CK   100   100   000    -    590
-225 Load_Cycle_Count        -O--CK   069   069   000    -    317811
+225 Load_Cycle_Count        -O--CK   069   069   000    -    318087
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate
@@ -108,7 +108,7 @@ Address    Access  R/W   Size  Description
 0xe1       GPL,SL  R/W      1  SCT Data Transfer
 
 SMART Extended Comprehensive Error Log Version: 1 (2 sectors)
-Device Error Count: 982 (device log contains only the most recent 8 errors)
+Device Error Count: 985 (device log contains only the most recent 8 errors)
 	CR     = Command Register
 	FEATR  = Features Register
 	COUNT  = Count (was: Sector Count) Register
@@ -123,6 +123,57 @@ Device Error Count: 982 (device log contains only the most recent 8 errors)
 Powered_Up_Time is measured from power on, and printed as
 DDd+hh:mm:SS.sss where DD=days, hh=hours, mm=minutes,
 SS=sec, and sss=millisec. It "wraps" after 49.710 days.
+
+Error 985 [0] occurred at disk power-on lifetime: 19481 hours (811 days + 17 hours)
+  When the command that caused the error occurred, the device was active or idle.
+
+  After command completion occurred, registers were:
+  ER -- ST COUNT  LBA_48  LH LM LL DV DC
+  -- -- -- == -- == == == -- -- -- -- --
+  40 -- 41 00 08 00 00 00 61 8c 08 40 00  Error: UNC at LBA = 0x00618c08 = 6392840
+
+  Commands leading to the command that caused the error were:
+  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
+  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
+  60 00 00 00 08 00 00 00 61 8c 08 40 08     00:00:11.602  READ FPDMA QUEUED
+  60 00 00 00 08 00 00 00 61 8c 08 40 08     00:00:11.636  READ FPDMA QUEUED
+  60 00 00 00 08 00 00 00 61 8c 10 40 08     00:00:11.636  READ FPDMA QUEUED
+  60 00 00 00 08 00 00 00 61 8c 58 40 08     00:00:11.636  READ FPDMA QUEUED
+  60 00 00 00 08 00 00 00 61 8c 38 40 08     00:00:11.636  READ FPDMA QUEUED
+
+Error 984 [7] occurred at disk power-on lifetime: 19481 hours (811 days + 17 hours)
+  When the command that caused the error occurred, the device was active or idle.
+
+  After command completion occurred, registers were:
+  ER -- ST COUNT  LBA_48  LH LM LL DV DC
+  -- -- -- == -- == == == -- -- -- -- --
+  40 -- 41 00 c8 00 00 00 61 8c 08 40 00  Error: UNC at LBA = 0x00618c08 = 6392840
+
+  Commands leading to the command that caused the error were:
+  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
+  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
+  60 00 00 01 00 00 00 00 61 8b d0 40 08     00:00:11.600  READ FPDMA QUEUED
+  60 00 00 00 88 00 00 01 24 13 78 40 00     00:00:11.633  READ FPDMA QUEUED
+  60 00 00 00 08 00 00 03 a4 59 50 40 08     00:00:11.633  READ FPDMA QUEUED
+  60 00 00 01 00 00 00 00 61 8b d0 40 08     00:00:11.633  READ FPDMA QUEUED
+  60 00 00 00 20 00 00 01 24 13 00 40 00     00:00:11.633  READ FPDMA QUEUED
+
+Error 983 [6] occurred at disk power-on lifetime: 19481 hours (811 days + 17 hours)
+  When the command that caused the error occurred, the device was active or idle.
+
+  After command completion occurred, registers were:
+  ER -- ST COUNT  LBA_48  LH LM LL DV DC
+  -- -- -- == -- == == == -- -- -- -- --
+  40 -- 41 00 c8 00 00 00 61 8c 08 40 00  Error: UNC at LBA = 0x00618c08 = 6392840
+
+  Commands leading to the command that caused the error were:
+  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
+  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
+  60 00 00 00 20 00 00 01 24 13 00 40 08     00:00:11.603  READ FPDMA QUEUED
+  60 00 00 01 00 00 00 00 61 8b d0 40 08     00:00:11.600  READ FPDMA QUEUED
+  60 00 00 01 00 00 00 00 61 8b d0 40 08     00:00:11.602  READ FPDMA QUEUED
+  60 00 00 01 00 00 00 00 61 85 98 40 08     00:00:11.602  READ FPDMA QUEUED
+  60 00 00 00 48 00 00 00 61 92 f0 40 08     00:00:11.602  READ FPDMA QUEUED
 
 Error 982 [5] occurred at disk power-on lifetime: 19406 hours (808 days + 14 hours)
   When the command that caused the error occurred, the device was active or idle.
@@ -209,80 +260,30 @@ Error 978 [1] occurred at disk power-on lifetime: 19385 hours (807 days + 17 hou
   60 00 90 00 80 00 00 00 e6 90 d0 40 00     00:00:12.507  READ FPDMA QUEUED
   ef 00 90 00 03 00 00 00 00 00 00 a0 00     00:00:12.507  SET FEATURES [Disable SATA feature]
 
-Error 977 [0] occurred at disk power-on lifetime: 19385 hours (807 days + 17 hours)
-  When the command that caused the error occurred, the device was in a vendor specific state.
-
-  After command completion occurred, registers were:
-  ER -- ST COUNT  LBA_48  LH LM LL DV DC
-  -- -- -- == -- == == == -- -- -- -- --
-  40 -- 41 00 80 00 00 00 e6 90 d0 40 00  Error: UNC at LBA = 0x00e690d0 = 15110352
-
-  Commands leading to the command that caused the error were:
-  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
-  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
-  60 00 90 00 80 00 00 00 e6 90 d0 40 00     00:00:12.447  READ FPDMA QUEUED
-  60 00 90 00 80 00 00 00 e6 90 d0 40 00     00:00:12.504  READ FPDMA QUEUED
-  60 00 90 00 08 00 00 00 e6 90 50 40 00     00:00:12.504  READ FPDMA QUEUED
-  60 00 90 00 80 00 00 00 e6 90 50 40 00     00:00:12.504  READ FPDMA QUEUED
-  60 00 90 00 08 00 00 00 e6 8f d0 40 00     00:00:12.504  READ FPDMA QUEUED
-
-Error 976 [7] occurred at disk power-on lifetime: 19385 hours (807 days + 17 hours)
-  When the command that caused the error occurred, the device was in a vendor specific state.
-
-  After command completion occurred, registers were:
-  ER -- ST COUNT  LBA_48  LH LM LL DV DC
-  -- -- -- == -- == == == -- -- -- -- --
-  40 -- 41 00 80 00 00 00 e6 90 d0 40 00  Error: UNC at LBA = 0x00e690d0 = 15110352
-
-  Commands leading to the command that caused the error were:
-  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
-  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
-  60 00 00 01 00 00 00 00 e6 90 50 40 00     00:00:12.444  READ FPDMA QUEUED
-  60 00 90 01 00 00 00 00 e6 90 50 40 00     00:00:12.502  READ FPDMA QUEUED
-  ef 00 90 00 03 00 00 00 00 00 00 a0 00     00:00:12.501  SET FEATURES [Disable SATA feature]
-  ef 00 02 00 00 00 00 00 00 00 00 a0 00     00:00:12.501  SET FEATURES [Enable write cache]
-  00 00 00 01 00 00 00 10 c3 80 20 40 00     00:00:12.501  NOP [Abort queued commands]
-
-Error 975 [6] occurred at disk power-on lifetime: 19385 hours (807 days + 17 hours)
-  When the command that caused the error occurred, the device was in a vendor specific state.
-
-  After command completion occurred, registers were:
-  ER -- ST COUNT  LBA_48  LH LM LL DV DC
-  -- -- -- == -- == == == -- -- -- -- --
-  40 -- 41 00 80 00 00 00 e6 90 d0 40 00  Error: UNC at LBA = 0x00e690d0 = 15110352
-
-  Commands leading to the command that caused the error were:
-  CR FEATR COUNT  LBA_48  LH LM LL DV DC  Powered_Up_Time  Command/Feature_Name
-  -- == -- == -- == == == -- -- -- -- --  ---------------  --------------------
-  60 00 00 01 00 00 00 00 e6 90 50 40 00     00:00:12.443  READ FPDMA QUEUED
-  60 00 90 01 00 00 00 00 e6 90 50 40 00     00:00:12.499  READ FPDMA QUEUED
-  ef 00 90 00 03 00 00 00 00 00 00 a0 00     00:00:12.498  SET FEATURES [Disable SATA feature]
-  ef 00 02 00 00 00 00 00 00 00 00 a0 00     00:00:12.498  SET FEATURES [Enable write cache]
-  00 00 90 00 08 00 00 00 71 1f 58 40 00     00:00:12.498  NOP [Reserved subcommand] [OBS-ACS-2]
-
 SMART Extended Self-test Log Version: 1 (2 sectors)
 Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
-# 1  Vendor (0x50)       Completed without error       00%     19057         -
-# 2  Short offline       Completed without error       00%     19057         -
-# 3  Short offline       Completed: read failure       90%     19011         31277600
-# 4  Vendor (0x50)       Completed without error       00%     19000         -
-# 5  Short offline       Completed without error       00%     19000         -
-# 6  Vendor (0x50)       Completed without error       00%     18296         -
-# 7  Short offline       Completed without error       00%     18296         -
-# 8  Vendor (0x50)       Completed without error       00%     18055         -
-# 9  Short offline       Completed without error       00%     18055         -
-#10  Short offline       Completed without error       00%     15383         -
-#11  Extended offline    Aborted by host               90%     15383         -
-#12  Extended offline    Aborted by host               90%     15295         -
-#13  Extended offline    Aborted by host               90%     13656         -
-#14  Extended offline    Aborted by host               50%     13589         -
-#15  Vendor (0x50)       Completed without error       00%     13425         -
-#16  Short offline       Completed without error       00%     13425         -
-#17  Extended offline    Completed without error       00%     13220         -
-#18  Extended offline    Completed without error       00%     13002         -
-#19  Extended offline    Aborted by host               60%     12763         -
-#20  Extended offline    Completed without error       00%     12679         -
-#21  Vendor (0x50)       Completed without error       00%     11833         -
+# 1  Extended offline    Completed without error       00%     19472         -
+# 2  Vendor (0x50)       Completed without error       00%     19057         -
+# 3  Short offline       Completed without error       00%     19057         -
+# 4  Short offline       Completed: read failure       90%     19011         31277600
+# 5  Vendor (0x50)       Completed without error       00%     19000         -
+# 6  Short offline       Completed without error       00%     19000         -
+# 7  Vendor (0x50)       Completed without error       00%     18296         -
+# 8  Short offline       Completed without error       00%     18296         -
+# 9  Vendor (0x50)       Completed without error       00%     18055         -
+#10  Short offline       Completed without error       00%     18055         -
+#11  Short offline       Completed without error       00%     15383         -
+#12  Extended offline    Aborted by host               90%     15383         -
+#13  Extended offline    Aborted by host               90%     15295         -
+#14  Extended offline    Aborted by host               90%     13656         -
+#15  Extended offline    Aborted by host               50%     13589         -
+#16  Vendor (0x50)       Completed without error       00%     13425         -
+#17  Short offline       Completed without error       00%     13425         -
+#18  Extended offline    Completed without error       00%     13220         -
+#19  Extended offline    Completed without error       00%     13002         -
+#20  Extended offline    Aborted by host               60%     12763         -
+#21  Extended offline    Completed without error       00%     12679         -
+1 of 1 failed self-tests are outdated by newer successful extended offline self-test # 1
 
 SMART Selective self-test log data structure revision number 0
 Note: revision number not 1 implies that no selective self-test has ever been run
@@ -300,8 +301,8 @@ SCT Status Version:                  2
 SCT Version (vendor specific):       256 (0x0100)
 SCT Support Level:                   1
 Device State:                        Active (0)
-Current Temperature:                    51 Celsius
-Power Cycle Min/Max Temperature:     50/53 Celsius
+Current Temperature:                    48 Celsius
+Power Cycle Min/Max Temperature:     42/49 Celsius
 Lifetime    Min/Max Temperature:      7/63 Celsius
 Under/Over Temperature Limit Count:   0/0
 
@@ -310,7 +311,7 @@ Temperature Sampling Period:         5 minutes
 Temperature Logging Interval:        5 minutes
 Min/Max recommended Temperature:     -5/80 Celsius
 Min/Max Temperature Limit:           -10/85 Celsius
-Temperature History Size (Index):    128 (104)
+Temperature History Size (Index):    128 (112)
 
 SCT Error Recovery Control:
            Read: Disabled
@@ -330,8 +331,8 @@ ID      Size     Value  Description
 0x0006  4            0  R_ERR response for device-to-host non-data FIS
 0x0007  4            0  R_ERR response for host-to-device non-data FIS
 0x0008  4            0  Device-to-host non-data FIS retries
-0x0009  4        10217  Transition from drive PhyRdy to drive PhyNRdy
-0x000a  4           81  Device-to-host register FISes sent due to a COMRESET
+0x0009  4           12  Transition from drive PhyRdy to drive PhyNRdy
+0x000a  4            6  Device-to-host register FISes sent due to a COMRESET
 0x000b  4            0  CRC errors within host-to-device FIS
 0x000d  4            0  Non-CRC errors within host-to-device FIS
 0x000f  4            0  R_ERR response for host-to-device data FIS, CRC
@@ -344,16 +345,16 @@ ID      Size     Value  Description
 0x8e03  4            0  Vendor specific
 0x8e04  4            0  Vendor specific
 0x8e05  4            0  Vendor specific
-0x8e06  4            0  Vendor specific
-0x8e07  4            0  Vendor specific
-0x8e08  4            0  Vendor specific
-0x8e09  4            0  Vendor specific
-0x8e0a  4            0  Vendor specific
-0x8e0b  4            0  Vendor specific
-0x8e0c  4            0  Vendor specific
-0x8e0d  4            0  Vendor specific
-0x8e0e  4            0  Vendor specific
-0x8e0f  4            0  Vendor specific
-0x8e10  4            0  Vendor specific
-0x8e11  4            0  Vendor specific
+0x8e06  4        64416  Vendor specific
+0x8e07  4       210579  Vendor specific
+0x8e08  4          100  Vendor specific
+0x8e09  4        92965  Vendor specific
+0x8e0a  4       295220  Vendor specific
+0x8e0b  4    407547520  Vendor specific
+0x8e0c  4       744604  Vendor specific
+0x8e0d  4        92965  Vendor specific
+0x8e0e  4        73417  Vendor specific
+0x8e0f  4    170453632  Vendor specific
+0x8e10  4       293668  Vendor specific
+0x8e11  4            2  Vendor specific
 

@@ -10,7 +10,7 @@ Rotation Rate:    Solid State Device
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 3.0 Gb/s)
-Local Time is:    Thu Aug  9 21:30:10 2018 MSK
+Local Time is:    Tue Jan  1 15:13:34 2019 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -59,10 +59,10 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   3 Spin_Up_Time            ------   100   100   000    -    0
   4 Start_Stop_Count        ------   100   100   000    -    0
   5 Reallocated_Sector_Ct   ------   100   100   000    -    0
-  9 Power_On_Hours          ------   100   100   000    -    6937
- 12 Power_Cycle_Count       ------   100   100   000    -    5136
-232 Lifetime_Writes         ------   100   100   000    -    31005416909
-233 Media_Wearout_Indicator ------   092   000   000    -    92
+  9 Power_On_Hours          ------   100   100   000    -    7145
+ 12 Power_Cycle_Count       ------   100   100   000    -    5410
+232 Lifetime_Writes         ------   100   100   000    -    33329026789
+233 Media_Wearout_Indicator ------   091   000   000    -    91
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate

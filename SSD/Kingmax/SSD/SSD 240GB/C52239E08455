@@ -8,7 +8,7 @@ Rotation Rate:    Solid State Device
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.1, 6.0 Gb/s
-Local Time is:    Sat Aug 15 15:26:20 2015 MSK
+Local Time is:    Wed Oct 14 21:33:01 2015 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Disabled
@@ -22,14 +22,13 @@ Wt Cache Reorder: Unavailable
 SMART overall-health self-assessment test result: PASSED
 
 General SMART Values:
-Offline data collection status:  (0x00)	Offline data collection activity
-					was never started.
+Offline data collection status:  (0x02)	Offline data collection activity
+					was completed without error.
 					Auto Offline Data Collection: Disabled.
-Self-test execution status:      (   0)	The previous self-test routine completed
-					without error or no self-test has ever 
-					been run.
+Self-test execution status:      (  26)	The self-test routine was aborted by
+					the host.
 Total time to complete Offline 
-data collection: 		(    0) seconds.
+data collection: 		(  270) seconds.
 Offline data collection
 capabilities: 			 (0x75) SMART execute Offline immediate.
 					No Auto Offline data collection support.
@@ -56,22 +55,22 @@ Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   1 Raw_Read_Error_Rate     ------   100   100   000    -    0
   5 Reallocated_Sector_Ct   ------   100   100   000    -    0
-  9 Power_On_Hours          ------   100   100   000    -    46
- 12 Power_Cycle_Count       ------   100   100   000    -    1030
-192 Power-Off_Retract_Count ------   100   100   000    -    96
+  9 Power_On_Hours          ------   100   100   000    -    77
+ 12 Power_Cycle_Count       ------   100   100   000    -    1250
+192 Power-Off_Retract_Count ------   100   100   000    -    105
 194 Temperature_Celsius     ------   100   100   000    -    42
-195 Hardware_ECC_Recovered  ------   100   100   000    -    68468
+195 Hardware_ECC_Recovered  ------   100   100   000    -    100344
 196 Reallocated_Event_Count ------   080   080   040    -    0
-199 UDMA_CRC_Error_Count    ------   100   100   050    -    20
+199 UDMA_CRC_Error_Count    ------   100   100   050    -    28
 160 Unknown_Attribute       ------   100   100   000    -    0
 161 Unknown_Attribute       ------   100   100   000    -    80
 163 Unknown_Attribute       ------   100   100   000    -    26
-164 Unknown_Attribute       ------   100   100   000    -    20295
-165 Unknown_Attribute       ------   100   100   050    -    87
+164 Unknown_Attribute       ------   100   100   000    -    27478
+165 Unknown_Attribute       ------   100   100   050    -    92
 166 Unknown_Attribute       ------   100   100   050    -    0
-167 Unknown_Attribute       ------   100   100   000    -    20
-241 Total_LBAs_Written      ------   100   100   000    -    62185
-242 Total_LBAs_Read         ------   100   100   000    -    54138
+167 Unknown_Attribute       ------   100   100   000    -    27
+241 Total_LBAs_Written      ------   100   100   000    -    84261
+242 Total_LBAs_Read         ------   100   100   000    -    78397
 168 Unknown_Attribute       ------   100   100   000    -    3000
 169 Unknown_Attribute       ------   100   100   000    -    100
                             ||||||_ K auto-keep
@@ -118,21 +117,21 @@ SCT Commands not supported
 Device Statistics (GP Log 0x04)
 Page Offset Size         Value  Description
   1  =====  =                =  == General Statistics (rev 2) ==
-  1  0x008  4             1030  Lifetime Power-On Resets
-  1  0x010  4               46  Power-on Hours
-  1  0x018  6       4075421578  Logical Sectors Written
-  1  0x020  6         53018579  Number of Write Commands
-  1  0x028  6       3548036079  Logical Sectors Read
-  1  0x030  6         56660852  Number of Read Commands
+  1  0x008  4             1250  Lifetime Power-On Resets
+  1  0x010  4               77  Power-on Hours
+  1  0x018  6       1227201282  Logical Sectors Written
+  1  0x020  6         64900217  Number of Write Commands
+  1  0x028  6        842893875  Logical Sectors Read
+  1  0x030  6         81560771  Number of Read Commands
   2  =====  =                =  == Free-Fall Statistics (empty) ==
   3  =====  =                =  == Rotating Media Statistics (empty) ==
   4  =====  =                =  == General Errors Statistics (rev 1) ==
   4  0x008  4                0  Number of Reported Uncorrectable Errors
-  4  0x010  4              116  Resets Between Cmd Acceptance and Completion
+  4  0x010  4              133  Resets Between Cmd Acceptance and Completion
   5  =====  =                =  == Temperature Statistics (empty) ==
   6  =====  =                =  == Transport Statistics (rev 1) ==
-  6  0x008  4             7368  Number of Hardware Resets
-  6  0x018  4               20  Number of Interface CRC Errors
+  6  0x008  4             8778  Number of Hardware Resets
+  6  0x018  4               28  Number of Interface CRC Errors
   7  =====  =                =  == Solid State Device Statistics (rev 1) ==
   7  0x008  1                0  Percentage Used Endurance Indicator
 
