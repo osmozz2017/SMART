@@ -24,9 +24,9 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Corsair   | Force 3 SSD        | 180 GB | 4       | 1926  | 1     | 4.19   |
+| Corsair   | Force 3 SSD        | 240 GB | 2       | 1196  | 0     | 3.28   |
 | Corsair   | Force GS           | 180 GB | 2       | 854   | 0     | 2.34   |
 | Corsair   | Force GS           | 90 GB  | 1       | 776   | 0     | 2.13   |
-| Corsair   | Force 3 SSD        | 240 GB | 2       | 737   | 0     | 2.02   |
 | Corsair   | Force 3 SSD        | 60 GB  | 9       | 686   | 0     | 1.88   |
 | Corsair   | Force 3 SSD        | 120 GB | 8       | 756   | 89    | 1.72   |
 | Corsair   | Force 3 SSD        | 480 GB | 1       | 598   | 0     | 1.64   |
@@ -37,7 +37,7 @@ Rating — avg. rating per sample.
 | Corsair   | Force 3 SSD        | 90 GB  | 4       | 304   | 0     | 0.83   |
 | Corsair   | Force GS           | 240 GB | 3       | 1272  | 6     | 0.70   |
 | Corsair   | Force GS           | 128 GB | 13      | 236   | 0     | 0.65   |
-| Corsair   | CSSD-F60GB2        | 60 GB  | 2       | 1531  | 288   | 0.58   |
+| Corsair   | CSSD-F60GB2        | 60 GB  | 2       | 1600  | 288   | 0.58   |
 | Corsair   | Neutron GTX SSD    | 240 GB | 4       | 180   | 74    | 0.41   |
 | Corsair   | Force GT           | 90 GB  | 2       | 361   | 1     | 0.37   |
 | Corsair   | Force LE SSD       | 120 GB | 2       | 114   | 0     | 0.31   |
@@ -65,6 +65,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Corsair   | SandForce Driven SSDs  | 19     | 87      | 561   | 96    | 1.12   |
+| Corsair   | SandForce Driven SSDs  | 19     | 87      | 573   | 96    | 1.15   |
 | Corsair   | Unknown                | 8      | 13      | 239   | 46    | 0.34   |
 | Corsair   | Indilinx Barefoot b... | 1      | 1       | 99    | 3     | 0.07   |

@@ -20,13 +20,13 @@ Rating — avg. rating per sample.
 | KingSpec  | SPK-SF12-M120      | 120 GB | 1       | 468   | 0     | 1.28   |
 | KingSpec  | KSD-SA25.5-016MJ   | 16 GB  | 1       | 353   | 0     | 0.97   |
 | KingSpec  | KSD-SA25.5-064MJ   | 64 GB  | 1       | 141   | 0     | 0.39   |
-| KingSpec  | T-64               | 64 GB  | 2       | 39    | 0     | 0.11   |
+| KingSpec  | T-64               | 64 GB  | 2       | 59    | 3     | 0.12   |
 | KingSpec  | ACSC4M512mSA       | 506 GB | 1       | 32    | 0     | 0.09   |
 | KingSpec  | KSD-SA25.7-016MJ   | 16 GB  | 2       | 30    | 0     | 0.08   |
 | KingSpec  | Q-360              | 360 GB | 1       | 30    | 0     | 0.08   |
 | KingSpec  | CHA-M2B7-M256      | 256 GB | 2       | 27    | 0     | 0.07   |
 | KingSpec  | T-120              | 120 GB | 1       | 25    | 0     | 0.07   |
-| KingSpec  | MT-128             | 128 GB | 4       | 21    | 0     | 0.06   |
+| KingSpec  | MT-128             | 128 GB | 4       | 24    | 0     | 0.07   |
 | KingSpec  | P3-512             | 512 GB | 2       | 17    | 0     | 0.05   |
 | KingSpec  | T-60               | 60 GB  | 2       | 10    | 0     | 0.03   |
 | KingSpec  | MT-256             | 256 GB | 1       | 10    | 0     | 0.03   |

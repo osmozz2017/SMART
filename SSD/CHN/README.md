@@ -17,4 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| CHN       | 25SATA01M 060      | 60 GB  | 1       | 3     | 0     | 0.01   |
+| CHN       | 25SATA01M 060      | 60 GB  | 1       | 4     | 0     | 0.01   |

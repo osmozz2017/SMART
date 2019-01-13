@@ -38,13 +38,13 @@ Rating — avg. rating per sample.
 | HGST      | HTS541075A9E680    | 750 GB | 19      | 265   | 431   | 0.51   |
 | HGST      | HUS726040ALE611    | 4 TB   | 1       | 182   | 0     | 0.50   |
 | HGST      | HUS724040ALA640    | 4 TB   | 1       | 180   | 0     | 0.49   |
-| HGST      | HTS541010A9E680    | 1 TB   | 110     | 262   | 242   | 0.48   |
+| HGST      | HTS541010A9E680    | 1 TB   | 110     | 263   | 242   | 0.48   |
 | HGST      | HTS545032A7E680    | 320 GB | 11      | 222   | 26    | 0.43   |
 | HGST      | HTS721075A9E630    | 750 GB | 5       | 153   | 0     | 0.42   |
 | HGST      | HUS726040ALE614    | 4 TB   | 1       | 147   | 0     | 0.40   |
 | HGST      | HTS545050A7E380    | 500 GB | 107     | 300   | 232   | 0.40   |
 | HGST      | HTS725050A7E630    | 500 GB | 84      | 192   | 95    | 0.40   |
-| HGST      | HTS545032A7E380    | 320 GB | 15      | 188   | 71    | 0.36   |
+| HGST      | HTS545032A7E380    | 320 GB | 15      | 188   | 71    | 0.37   |
 | HGST      | HTS541010A7E630    | 1 TB   | 10      | 133   | 1     | 0.33   |
 | HGST      | HTS545050A7E660    | 500 GB | 8       | 156   | 4     | 0.22   |
 | HGST      | HTS545050A7E680    | 500 GB | 154     | 143   | 328   | 0.19   |
@@ -79,7 +79,7 @@ Rating — avg. rating per sample.
 | HGST      | Deskstar NAS           | 4      | 12      | 690   | 0     | 1.89   |
 | HGST      | Travelstar 5K1500      | 2      | 3       | 928   | 10    | 1.62   |
 | HGST      | Travelstar 7K1000      | 3      | 112     | 236   | 30    | 0.55   |
-| HGST      | Travelstar 5K1000      | 5      | 134     | 267   | 260   | 0.50   |
+| HGST      | Travelstar 5K1000      | 5      | 134     | 268   | 260   | 0.50   |
 | HGST      | Travelstar Z7K500      | 3      | 92      | 192   | 109   | 0.40   |
 | HGST      | Travelstar Z5K500      | 5      | 295     | 205   | 260   | 0.29   |
 | HGST      | Ultrastar 7K6000       | 4      | 4       | 90    | 0     | 0.25   |

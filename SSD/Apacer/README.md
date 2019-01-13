@@ -21,4 +21,4 @@ Rating — avg. rating per sample.
 | Apacer    | A7202              | 64 GB  | 1       | 262   | 0     | 0.72   |
 | Apacer    | AS330              | 120 GB | 2       | 39    | 0     | 0.11   |
 | Apacer    | AS510S             | 64 GB  | 2       | 15    | 0     | 0.04   |
-| Apacer    | AS350              | 240 GB | 3       | 11    | 0     | 0.03   |
+| Apacer    | AS350              | 240 GB | 3       | 15    | 0     | 0.04   |

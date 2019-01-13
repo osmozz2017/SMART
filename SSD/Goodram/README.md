@@ -28,7 +28,7 @@ Rating — avg. rating per sample.
 | Goodram   | IR-SSDPR-S25A-120  | 120 GB | 1       | 112   | 0     | 0.31   |
 | Goodram   | CX100              | 120 GB | 5       | 117   | 2     | 0.30   |
 | Goodram   | SSD                | 240 GB | 2       | 88    | 0     | 0.24   |
-| Goodram   | SSD                | 120 GB | 10      | 60    | 0     | 0.17   |
+| Goodram   | SSD                | 120 GB | 10      | 61    | 0     | 0.17   |
 | Goodram   | SSDPR_CX300_120    | 120 GB | 1       | 6     | 0     | 0.02   |
 | Goodram   | IR_SSDPR_S25A_120  | 120 GB | 1       | 2     | 0     | 0.01   |
 
@@ -46,4 +46,4 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Goodram   | Unknown                | 7      | 15      | 146   | 1     | 0.39   |
-| Goodram   | Phison Driven SSDs     | 1      | 10      | 60    | 0     | 0.17   |
+| Goodram   | Phison Driven SSDs     | 1      | 10      | 61    | 0     | 0.17   |
