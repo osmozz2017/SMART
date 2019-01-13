@@ -17,4 +17,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| SMI       | B17A               | 240 GB | 1       | 0     | 0     | 0.00   |
 | SMI       | SSD DISK           | 506 GB | 1       | 0     | 1957  | 0.00   |

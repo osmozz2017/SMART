@@ -18,6 +18,7 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Lite-On   | LCS-256L9S-11 2... | 256 GB | 1       | 737   | 0     | 2.02   |
+| Lite-On   | IT L8T-128L9G      | 128 GB | 1       | 99    | 0     | 0.27   |
 | Lite-On   | CV3-8D128          | 128 GB | 1       | 97    | 0     | 0.27   |
 | Lite-On   | PH2-CJ120          | 120 GB | 1       | 92    | 0     | 0.25   |
 | Lite-On   | LAT-256M2S         | 256 GB | 1       | 239   | 2     | 0.22   |
@@ -37,3 +38,4 @@ Rating — avg. rating per sample.
 | Lite-On   | CV3-8D256-11 SATA  | 256 GB | 1       | 0     | 0     | 0.00   |
 | Lite-On   | S960 256           | 256 GB | 1       | 0     | 0     | 0.00   |
 | Lite-On   | LSS-16L6G-HP       | 16 GB  | 1       | 125   | 1275  | 0.00   |
+| Lite-On   | LMT-128M3M         | 128 GB | 1       | 44    | 1009  | 0.00   |

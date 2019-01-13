@@ -27,6 +27,7 @@ Rating — avg. rating per sample.
 | PNY       | CS1311 240GB SSD   | 240 GB | 1       | 84    | 0     | 0.23   |
 | PNY       | SSD2SC240G1LC70... | 240 GB | 1       | 67    | 0     | 0.18   |
 | PNY       | CS1311 120GB SSD   | 120 GB | 2       | 54    | 0     | 0.15   |
+| PNY       | SSD2SC120G1CS17... | 120 GB | 1       | 36    | 0     | 0.10   |
 | PNY       | SSD2SC120G1SA75... | 120 GB | 1       | 23    | 0     | 0.07   |
 | PNY       | SSD2SC256GM1P3D... | 256 GB | 1       | 7     | 0     | 0.02   |
 | PNY       | SSD2SC120GE2DA0... | 120 GB | 1       | 373   | 1018  | 0.00   |
@@ -46,4 +47,4 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | PNY       | Phison Driven SSDs     | 2      | 3       | 64    | 0     | 0.18   |
-| PNY       | Unknown                | 6      | 6       | 109   | 185   | 0.13   |
+| PNY       | Unknown                | 7      | 7       | 98    | 158   | 0.12   |

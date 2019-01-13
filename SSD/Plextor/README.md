@@ -33,16 +33,16 @@ Rating — avg. rating per sample.
 | Plextor   | PX-256M7VC         | 256 GB | 1       | 179   | 0     | 0.49   |
 | Plextor   | PX-128M7VG         | 128 GB | 1       | 171   | 0     | 0.47   |
 | Plextor   | PX-256S2C          | 256 GB | 2       | 153   | 0     | 0.42   |
-| Plextor   | PX-128M5S          | 128 GB | 37      | 128   | 1     | 0.35   |
+| Plextor   | PX-128M5S          | 128 GB | 38      | 134   | 1     | 0.36   |
 | Plextor   | PX-128M5M          | 128 GB | 7       | 103   | 0     | 0.28   |
 | Plextor   | PX-256M5S          | 256 GB | 9       | 91    | 0     | 0.25   |
-| Plextor   | PX-128M5Pro        | 128 GB | 45      | 86    | 0     | 0.24   |
+| Plextor   | PX-128M5Pro        | 128 GB | 47      | 88    | 0     | 0.24   |
 | Plextor   | PX-256M3           | 256 GB | 1       | 256   | 2     | 0.23   |
 | Plextor   | PX-128M6M          | 128 GB | 4       | 67    | 0     | 0.19   |
 | Plextor   | PX-128M6S          | 128 GB | 21      | 67    | 53    | 0.17   |
 | Plextor   | PX-256M6S          | 256 GB | 7       | 64    | 145   | 0.16   |
-| Plextor   | PX-128S3C          | 128 GB | 4       | 38    | 0     | 0.11   |
 | Plextor   | PX-256M5M          | 256 GB | 1       | 34    | 0     | 0.09   |
+| Plextor   | PX-128S3C          | 128 GB | 5       | 31    | 0     | 0.09   |
 | Plextor   | PX-128M6Pro        | 128 GB | 7       | 26    | 0     | 0.07   |
 | Plextor   | PX-512M5Pro        | 512 GB | 1       | 25    | 0     | 0.07   |
 | Plextor   | PX-128S2C          | 128 GB | 2       | 24    | 0     | 0.07   |
@@ -71,5 +71,5 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Plextor   | M3/M5 (Pro) Series ... | 6      | 17      | 203   | 62    | 0.45   |
-| Plextor   | Unknown                | 18     | 36      | 124   | 0     | 0.34   |
-| Plextor   | M3/M5/M6 Series SSDs   | 9      | 129     | 96    | 17    | 0.26   |
+| Plextor   | Unknown                | 18     | 37      | 121   | 0     | 0.33   |
+| Plextor   | M3/M5/M6 Series SSDs   | 9      | 132     | 98    | 17    | 0.26   |

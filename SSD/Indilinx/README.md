@@ -17,4 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Indilinx  | InM2246S3-128G     | 128 GB | 1       | 0     | 0     | 0.00   |
+| Indilinx  | InM2246S3-128G     | 128 GB | 2       | 0     | 0     | 0.00   |

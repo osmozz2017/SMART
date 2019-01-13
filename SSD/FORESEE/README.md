@@ -18,5 +18,5 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | FORESEE   | 240GB SSD          | 240 GB | 1       | 15    | 0     | 0.04   |
-| FORESEE   | 64GB SSD           | 64 GB  | 1       | 8     | 0     | 0.02   |
+| FORESEE   | 64GB SSD           | 64 GB  | 2       | 13    | 0     | 0.04   |
 | FORESEE   | 128GB SSD          | 128 GB | 2       | 3     | 0     | 0.01   |

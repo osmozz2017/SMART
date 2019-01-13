@@ -26,7 +26,7 @@ Rating — avg. rating per sample.
 | Apple     | HDD ST750LM022     | 750 GB | 1       | 589   | 0     | 1.61   |
 | Apple     | HDD TOSHIBA MK5... | 500 GB | 1       | 560   | 0     | 1.54   |
 | Apple     | HDD ST1000DM003    | 1 TB   | 2       | 476   | 0     | 1.31   |
-| Apple     | HDD HTS545050A7... | 500 GB | 6       | 340   | 3     | 0.83   |
+| Apple     | HDD HTS545050A7... | 500 GB | 7       | 358   | 2     | 0.89   |
 | Apple     | HDD HTS541010A9... | 1 TB   | 9       | 318   | 225   | 0.76   |
 | Apple     | HDD HTS547550A9... | 500 GB | 1       | 23    | 0     | 0.06   |
 | Apple     | HDD HTS547575A9... | 750 GB | 1       | 506   | 153   | 0.01   |
@@ -47,6 +47,6 @@ Rating — avg. rating per sample.
 | Apple     | Seagate SpinPoint      | 1      | 1       | 589   | 0     | 1.61   |
 | Apple     | TOSHIBA MK..65GSXF     | 1      | 1       | 560   | 0     | 1.54   |
 | Apple     | Seagate Barracuda      | 1      | 2       | 476   | 0     | 1.31   |
-| Apple     | HGST Travelstar Z5K500 | 1      | 6       | 340   | 3     | 0.83   |
+| Apple     | HGST Travelstar Z5K500 | 1      | 7       | 358   | 2     | 0.89   |
 | Apple     | Hitachi-HGST Travel... | 1      | 9       | 318   | 225   | 0.76   |
 | Apple     | HGST Travelstar 5K750  | 2      | 2       | 265   | 77    | 0.04   |
